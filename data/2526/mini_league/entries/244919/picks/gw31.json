@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 244919,
+      "element_in": 684,
+      "element_out": 260,
+      "event": 31
+    },
+    {
+      "entry": 244919,
+      "element_in": 47,
+      "element_out": 21,
+      "event": 31
+    }
+  ],
+  "entry_history": {
+    "event": 31,
+    "points": 31,
+    "total_points": 1598,
+    "rank": 7875650,
+    "rank_sort": 7877672,
+    "overall_rank": 4419621,
+    "percentile_rank": 65,
+    "bank": 3,
+    "value": 1003,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 2
+  },
+  "picks": [
+    {
+      "element": 220,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 1,
+      "name": "Robert Lynch Sánchez",
+      "web_name": "Sánchez",
+      "team": "CHE",
+      "pos": "GKP"
+    },
+    {
+      "element": 610,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Aaron Wan-Bissaka",
+      "web_name": "Wan-Bissaka",
+      "team": "WHU",
+      "pos": "DEF"
+    },
+    {
+      "element": 106,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nathan Collins",
+      "web_name": "Collins",
+      "team": "BRE",
+      "pos": "DEF"
+    },
+    {
+      "element": 684,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Malick Thiaw",
+      "web_name": "Thiaw",
+      "team": "NEW",
+      "pos": "DEF"
+    },
+    {
+      "element": 450,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Matheus Santos Carneiro da Cunha",
+      "web_name": "Cunha",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 47,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Morgan Rogers",
+      "web_name": "Rogers",
+      "team": "AVL",
+      "pos": "MID"
+    },
+    {
+      "element": 82,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 517,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Elliot Anderson",
+      "web_name": "Anderson",
+      "team": "NFO",
+      "pos": "MID"
+    },
+    {
+      "element": 136,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 661,
+      "position": 11,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Hugo Ekitiké",
+      "web_name": "Ekitiké",
+      "team": "LIV",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 21,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 260,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 694,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nordi Mukiele",
+      "web_name": "Mukiele",
+      "team": "SUN",
+      "pos": "DEF"
+    }
+  ]
+}

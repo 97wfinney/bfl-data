@@ -1,0 +1,207 @@
+{
+  "active_chip": "freehit",
+  "automatic_subs": [
+    {
+      "entry": 244919,
+      "element_in": 694,
+      "element_out": 7,
+      "event": 18
+    }
+  ],
+  "entry_history": {
+    "event": 18,
+    "points": 61,
+    "total_points": 972,
+    "rank": 895568,
+    "rank_sort": 896566,
+    "overall_rank": 3651782,
+    "percentile_rank": 10,
+    "bank": 7,
+    "value": 1014,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 11
+  },
+  "picks": [
+    {
+      "element": 287,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Jordan Pickford",
+      "web_name": "Pickford",
+      "team": "EVE",
+      "pos": "GKP"
+    },
+    {
+      "element": 403,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Joško Gvardiol",
+      "web_name": "Gvardiol",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 694,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nordi Mukiele",
+      "web_name": "Mukiele",
+      "team": "SUN",
+      "pos": "DEF"
+    },
+    {
+      "element": 373,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Virgil van Dijk",
+      "web_name": "Virgil",
+      "team": "LIV",
+      "pos": "DEF"
+    },
+    {
+      "element": 382,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Florian Wirtz",
+      "web_name": "Wirtz",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 414,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Phil Foden",
+      "web_name": "Foden",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 419,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Jack Grealish",
+      "web_name": "Grealish",
+      "team": "EVE",
+      "pos": "MID"
+    },
+    {
+      "element": 82,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 691,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Dominic Calvert-Lewin",
+      "web_name": "Calvert-Lewin",
+      "team": "LEE",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 661,
+      "position": 11,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Hugo Ekitiké",
+      "web_name": "Ekitiké",
+      "team": "LIV",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 7,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Riccardo Calafiori",
+      "web_name": "Calafiori",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 13,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Brayden Clarke",
+      "web_name": "Clarke",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 63,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Kadan Young",
+      "web_name": "Young",
+      "team": "AVL",
+      "pos": "MID"
+    }
+  ]
+}

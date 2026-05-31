@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 1058734,
+      "element_in": 317,
+      "element_out": 295,
+      "event": 19
+    },
+    {
+      "entry": 1058734,
+      "element_in": 329,
+      "element_out": 21,
+      "event": 19
+    }
+  ],
+  "entry_history": {
+    "event": 19,
+    "points": 37,
+    "total_points": 1070,
+    "rank": 8073697,
+    "rank_sort": 8087122,
+    "overall_rank": 1591386,
+    "percentile_rank": 65,
+    "bank": 22,
+    "value": 1037,
+    "event_transfers": 1,
+    "event_transfers_cost": 0,
+    "points_on_bench": 9
+  },
+  "picks": [
+    {
+      "element": 470,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 411,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nico O'Reilly",
+      "web_name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 8,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Jurriën Timber",
+      "web_name": "J.Timber",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 317,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Joachim Andersen",
+      "web_name": "Andersen",
+      "team": "FUL",
+      "pos": "DEF"
+    },
+    {
+      "element": 517,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Elliot Anderson",
+      "web_name": "Anderson",
+      "team": "NFO",
+      "pos": "MID"
+    },
+    {
+      "element": 329,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Harry Wilson",
+      "web_name": "Wilson",
+      "team": "FUL",
+      "pos": "MID"
+    },
+    {
+      "element": 450,
+      "position": 7,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Matheus Santos Carneiro da Cunha",
+      "web_name": "Cunha",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 16,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bukayo Saka",
+      "web_name": "Saka",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 136,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 661,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Hugo Ekitiké",
+      "web_name": "Ekitiké",
+      "team": "LIV",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 67,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Đorđe Petrović",
+      "web_name": "Petrović",
+      "team": "BOU",
+      "pos": "GKP"
+    },
+    {
+      "element": 21,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 295,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Michael Keane",
+      "web_name": "Keane",
+      "team": "EVE",
+      "pos": "DEF"
+    },
+    {
+      "element": 683,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Omar Alderete",
+      "web_name": "Alderete",
+      "team": "SUN",
+      "pos": "DEF"
+    }
+  ]
+}

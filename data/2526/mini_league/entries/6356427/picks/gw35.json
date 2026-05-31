@@ -1,0 +1,207 @@
+{
+  "active_chip": "freehit",
+  "automatic_subs": [
+    {
+      "entry": 6356427,
+      "element_in": 47,
+      "element_out": 725,
+      "event": 35
+    }
+  ],
+  "entry_history": {
+    "event": 35,
+    "points": 55,
+    "total_points": 1902,
+    "rank": 4551058,
+    "rank_sort": 4699555,
+    "overall_rank": 2440832,
+    "percentile_rank": 40,
+    "bank": 42,
+    "value": 999,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 11
+  },
+  "picks": [
+    {
+      "element": 341,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Karl Darlow",
+      "web_name": "Darlow",
+      "team": "LEE",
+      "pos": "GKP"
+    },
+    {
+      "element": 5,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Gabriel dos Santos Magalhães",
+      "web_name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 706,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "James Justin",
+      "web_name": "Justin",
+      "team": "LEE",
+      "pos": "DEF"
+    },
+    {
+      "element": 6,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "William Saliba",
+      "web_name": "Saliba",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 343,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Pascal Struijk",
+      "web_name": "Struijk",
+      "team": "LEE",
+      "pos": "DEF"
+    },
+    {
+      "element": 47,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Morgan Rogers",
+      "web_name": "Rogers",
+      "team": "AVL",
+      "pos": "MID"
+    },
+    {
+      "element": 418,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Jérémy Doku",
+      "web_name": "Doku",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 417,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Rayan Cherki",
+      "web_name": "Cherki",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 430,
+      "position": 9,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 624,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Jarrod Bowen",
+      "web_name": "Bowen",
+      "team": "WHU",
+      "pos": "FWD"
+    },
+    {
+      "element": 64,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Ollie Watkins",
+      "web_name": "Watkins",
+      "team": "AVL",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 725,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Piero Hincapié",
+      "web_name": "Hincapie",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 783,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Pascal Groß",
+      "web_name": "Groß",
+      "team": "BHA",
+      "pos": "MID"
+    },
+    {
+      "element": 163,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Jack Hinshelwood",
+      "web_name": "Hinshelwood",
+      "team": "BHA",
+      "pos": "MID"
+    }
+  ]
+}

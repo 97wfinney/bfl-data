@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 1058734,
+      "element_in": 77,
+      "element_out": 411,
+      "event": 38
+    },
+    {
+      "entry": 1058734,
+      "element_in": 242,
+      "element_out": 430,
+      "event": 38
+    }
+  ],
+  "entry_history": {
+    "event": 38,
+    "points": 57,
+    "total_points": 2234,
+    "rank": 2334913,
+    "rank_sort": 2335688,
+    "overall_rank": 576609,
+    "percentile_rank": 20,
+    "bank": 69,
+    "value": 1038,
+    "event_transfers": 4,
+    "event_transfers_cost": 4,
+    "points_on_bench": 3
+  },
+  "picks": [
+    {
+      "element": 670,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Robin Roefs",
+      "web_name": "Roefs",
+      "team": "SUN",
+      "pos": "GKP"
+    },
+    {
+      "element": 74,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Adrien Truffert",
+      "web_name": "Truffert",
+      "team": "BOU",
+      "pos": "DEF"
+    },
+    {
+      "element": 77,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "James Hill",
+      "web_name": "Hill",
+      "team": "BOU",
+      "pos": "DEF"
+    },
+    {
+      "element": 575,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Micky van de Ven",
+      "web_name": "Van de Ven",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 515,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Morgan Gibbs-White",
+      "web_name": "Gibbs-White",
+      "team": "NFO",
+      "pos": "MID"
+    },
+    {
+      "element": 449,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 488,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Guimarães Rodriguez Moura",
+      "web_name": "Bruno G.",
+      "team": "NEW",
+      "pos": "MID"
+    },
+    {
+      "element": 163,
+      "position": 8,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Jack Hinshelwood",
+      "web_name": "Hinshelwood",
+      "team": "BHA",
+      "pos": "MID"
+    },
+    {
+      "element": 242,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Kiernan Dewsbury-Hall",
+      "web_name": "Dewsbury-Hall",
+      "team": "EVE",
+      "pos": "MID"
+    },
+    {
+      "element": 791,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Valentín Castellanos",
+      "web_name": "Taty",
+      "team": "WHU",
+      "pos": "FWD"
+    },
+    {
+      "element": 597,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Richarlison de Andrade",
+      "web_name": "Richarlison",
+      "team": "TOT",
+      "pos": "FWD"
+    },
+    {
+      "element": 341,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Karl Darlow",
+      "web_name": "Darlow",
+      "team": "LEE",
+      "pos": "GKP"
+    },
+    {
+      "element": 430,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 411,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nico O'Reilly",
+      "web_name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 5,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Gabriel dos Santos Magalhães",
+      "web_name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF"
+    }
+  ]
+}

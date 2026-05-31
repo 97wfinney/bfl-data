@@ -1,0 +1,207 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 4895569,
+      "element_in": 348,
+      "element_out": 261,
+      "event": 18
+    }
+  ],
+  "entry_history": {
+    "event": 18,
+    "points": 39,
+    "total_points": 1046,
+    "rank": 8664383,
+    "rank_sort": 8696541,
+    "overall_rank": 1141062,
+    "percentile_rank": 70,
+    "bank": 14,
+    "value": 1010,
+    "event_transfers": 1,
+    "event_transfers_cost": 0,
+    "points_on_bench": 5
+  },
+  "picks": [
+    {
+      "element": 139,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Bart Verbruggen",
+      "web_name": "Verbruggen",
+      "team": "BHA",
+      "pos": "GKP"
+    },
+    {
+      "element": 72,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marcos Senesi Barón",
+      "web_name": "Senesi",
+      "team": "BOU",
+      "pos": "DEF"
+    },
+    {
+      "element": 411,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nico O'Reilly",
+      "web_name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 373,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Virgil van Dijk",
+      "web_name": "Virgil",
+      "team": "LIV",
+      "pos": "DEF"
+    },
+    {
+      "element": 348,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Joe Rodon",
+      "web_name": "Rodon",
+      "team": "LEE",
+      "pos": "DEF"
+    },
+    {
+      "element": 82,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 450,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Matheus Santos Carneiro da Cunha",
+      "web_name": "Cunha",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 414,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Phil Foden",
+      "web_name": "Foden",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 382,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Florian Wirtz",
+      "web_name": "Wirtz",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 430,
+      "position": 10,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 661,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Hugo Ekitiké",
+      "web_name": "Ekitiké",
+      "team": "LIV",
+      "pos": "FWD"
+    },
+    {
+      "element": 101,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Caoimhín Kelleher",
+      "web_name": "Kelleher",
+      "team": "BRE",
+      "pos": "GKP"
+    },
+    {
+      "element": 261,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Chris Richards",
+      "web_name": "Richards",
+      "team": "CRY",
+      "pos": "DEF"
+    },
+    {
+      "element": 100,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Junior Kroupi",
+      "web_name": "Kroupi.Jr",
+      "team": "BOU",
+      "pos": "FWD"
+    },
+    {
+      "element": 335,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Josh King",
+      "web_name": "King",
+      "team": "FUL",
+      "pos": "MID"
+    }
+  ]
+}

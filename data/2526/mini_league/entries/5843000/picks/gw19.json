@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 5843000,
+      "element_in": 53,
+      "element_out": 449,
+      "event": 19
+    },
+    {
+      "entry": 5843000,
+      "element_in": 473,
+      "element_out": 381,
+      "event": 19
+    }
+  ],
+  "entry_history": {
+    "event": 19,
+    "points": 42,
+    "total_points": 923,
+    "rank": 5235657,
+    "rank_sort": 5370737,
+    "overall_rank": 6929209,
+    "percentile_rank": 45,
+    "bank": 25,
+    "value": 978,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 3
+  },
+  "picks": [
+    {
+      "element": 139,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Bart Verbruggen",
+      "web_name": "Verbruggen",
+      "team": "BHA",
+      "pos": "GKP"
+    },
+    {
+      "element": 291,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "James Tarkowski",
+      "web_name": "Tarkowski",
+      "team": "EVE",
+      "pos": "DEF"
+    },
+    {
+      "element": 441,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Patrick Dorgu",
+      "web_name": "Dorgu",
+      "team": "MUN",
+      "pos": "DEF"
+    },
+    {
+      "element": 508,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Neco Williams",
+      "web_name": "N.Williams",
+      "team": "NFO",
+      "pos": "DEF"
+    },
+    {
+      "element": 575,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Micky van de Ven",
+      "web_name": "Van de Ven",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 473,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Lewis Hall",
+      "web_name": "Hall",
+      "team": "NEW",
+      "pos": "DEF"
+    },
+    {
+      "element": 427,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Tijjani Reijnders",
+      "web_name": "Reijnders",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 53,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Donyell Malen",
+      "web_name": "Malen",
+      "team": "AVL",
+      "pos": "MID"
+    },
+    {
+      "element": 64,
+      "position": 9,
+      "multiplier": 2,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Ollie Watkins",
+      "web_name": "Watkins",
+      "team": "AVL",
+      "pos": "FWD"
+    },
+    {
+      "element": 597,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Richarlison de Andrade",
+      "web_name": "Richarlison",
+      "team": "TOT",
+      "pos": "FWD"
+    },
+    {
+      "element": 250,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Liam Delap",
+      "web_name": "Delap",
+      "team": "CHE",
+      "pos": "FWD"
+    },
+    {
+      "element": 253,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Dean Henderson",
+      "web_name": "Henderson",
+      "team": "CRY",
+      "pos": "GKP"
+    },
+    {
+      "element": 21,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 449,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 381,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Mohamed Salah",
+      "web_name": "M.Salah",
+      "team": "LIV",
+      "pos": "MID"
+    }
+  ]
+}

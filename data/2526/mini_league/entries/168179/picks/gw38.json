@@ -1,0 +1,219 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 168179,
+      "element_in": 139,
+      "element_out": 1,
+      "event": 38
+    },
+    {
+      "entry": 168179,
+      "element_in": 151,
+      "element_out": 411,
+      "event": 38
+    },
+    {
+      "entry": 168179,
+      "element_in": 84,
+      "element_out": 430,
+      "event": 38
+    }
+  ],
+  "entry_history": {
+    "event": 38,
+    "points": 74,
+    "total_points": 2275,
+    "rank": 288562,
+    "rank_sort": 288827,
+    "overall_rank": 298692,
+    "percentile_rank": 5,
+    "bank": 3,
+    "value": 1022,
+    "event_transfers": 2,
+    "event_transfers_cost": 0,
+    "points_on_bench": 0
+  },
+  "picks": [
+    {
+      "element": 139,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Bart Verbruggen",
+      "web_name": "Verbruggen",
+      "team": "BHA",
+      "pos": "GKP"
+    },
+    {
+      "element": 568,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Pedro Porro Sauceda",
+      "web_name": "Pedro Porro",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 5,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Gabriel dos Santos Magalhães",
+      "web_name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 151,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Jan Paul van Hecke",
+      "web_name": "Van Hecke",
+      "team": "BHA",
+      "pos": "DEF"
+    },
+    {
+      "element": 82,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 517,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Elliot Anderson",
+      "web_name": "Anderson",
+      "team": "NFO",
+      "pos": "MID"
+    },
+    {
+      "element": 387,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Dominik Szoboszlai",
+      "web_name": "Szoboszlai",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 449,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 84,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Marcus Tavernier",
+      "web_name": "Tavernier",
+      "team": "BOU",
+      "pos": "MID"
+    },
+    {
+      "element": 691,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Dominic Calvert-Lewin",
+      "web_name": "Calvert-Lewin",
+      "team": "LEE",
+      "pos": "FWD"
+    },
+    {
+      "element": 624,
+      "position": 11,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Jarrod Bowen",
+      "web_name": "Bowen",
+      "team": "WHU",
+      "pos": "FWD"
+    },
+    {
+      "element": 1,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "David Raya Martín",
+      "web_name": "Raya",
+      "team": "ARS",
+      "pos": "GKP"
+    },
+    {
+      "element": 430,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 411,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nico O'Reilly",
+      "web_name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 191,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Maxime Estève",
+      "web_name": "Estève",
+      "team": "BUR",
+      "pos": "DEF"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 25029,
+      "element_in": 387,
+      "element_out": 418,
+      "event": 16
+    }
+  ],
+  "entry_history": {
+    "event": 16,
+    "points": 74,
+    "total_points": 1001,
+    "rank": 2250141,
+    "rank_sort": 2250187,
+    "overall_rank": 65749,
+    "percentile_rank": 20,
+    "bank": 6,
+    "value": 1043,
+    "event_transfers": 1,
+    "event_transfers_cost": 0,
+    "points_on_bench": 4
+  },
+  "picks": [
+    {
+      "element": 1,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "David Raya Martín",
+      "web_name": "Raya",
+      "team": "ARS",
+      "pos": "GKP"
+    },
+    {
+      "element": 8,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Jurriën Timber",
+      "web_name": "J.Timber",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 403,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Joško Gvardiol",
+      "web_name": "Gvardiol",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 683,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Omar Alderete",
+      "web_name": "Alderete",
+      "team": "SUN",
+      "pos": "DEF"
+    },
+    {
+      "element": 373,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Virgil van Dijk",
+      "web_name": "Virgil",
+      "team": "LIV",
+      "pos": "DEF"
+    },
+    {
+      "element": 387,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Dominik Szoboszlai",
+      "web_name": "Szoboszlai",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 449,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 119,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bryan Mbeumo",
+      "web_name": "Mbeumo",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 517,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Elliot Anderson",
+      "web_name": "Anderson",
+      "team": "NFO",
+      "pos": "MID"
+    },
+    {
+      "element": 430,
+      "position": 10,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 136,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 418,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Jérémy Doku",
+      "web_name": "Doku",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 260,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 283,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Jean-Philippe Mateta",
+      "web_name": "Mateta",
+      "team": "CRY",
+      "pos": "FWD"
+    }
+  ]
+}

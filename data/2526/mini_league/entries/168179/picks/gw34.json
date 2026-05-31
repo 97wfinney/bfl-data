@@ -1,0 +1,207 @@
+{
+  "active_chip": "freehit",
+  "automatic_subs": [
+    {
+      "entry": 168179,
+      "element_in": 606,
+      "element_out": 450,
+      "event": 34
+    }
+  ],
+  "entry_history": {
+    "event": 34,
+    "points": 58,
+    "total_points": 1991,
+    "rank": 1185939,
+    "rank_sort": 1190839,
+    "overall_rank": 472676,
+    "percentile_rank": 10,
+    "bank": 6,
+    "value": 1020,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 0
+  },
+  "picks": [
+    {
+      "element": 1,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "David Raya Martín",
+      "web_name": "Raya",
+      "team": "ARS",
+      "pos": "GKP"
+    },
+    {
+      "element": 291,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "James Tarkowski",
+      "web_name": "Tarkowski",
+      "team": "EVE",
+      "pos": "DEF"
+    },
+    {
+      "element": 5,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Gabriel dos Santos Magalhães",
+      "web_name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 568,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Pedro Porro Sauceda",
+      "web_name": "Pedro Porro",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 694,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nordi Mukiele",
+      "web_name": "Mukiele",
+      "team": "SUN",
+      "pos": "DEF"
+    },
+    {
+      "element": 606,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Konstantinos Mavropanos",
+      "web_name": "Mavropanos",
+      "team": "WHU",
+      "pos": "DEF"
+    },
+    {
+      "element": 381,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Mohamed Salah",
+      "web_name": "M.Salah",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 449,
+      "position": 8,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 299,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Iliman Ndiaye",
+      "web_name": "Ndiaye",
+      "team": "EVE",
+      "pos": "MID"
+    },
+    {
+      "element": 624,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Jarrod Bowen",
+      "web_name": "Bowen",
+      "team": "WHU",
+      "pos": "FWD"
+    },
+    {
+      "element": 64,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Ollie Watkins",
+      "web_name": "Watkins",
+      "team": "AVL",
+      "pos": "FWD"
+    },
+    {
+      "element": 105,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Hákon Rafn Valdimarsson",
+      "web_name": "Valdimarsson",
+      "team": "BRE",
+      "pos": "GKP"
+    },
+    {
+      "element": 311,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Norberto Bercique Gomes Betuncal",
+      "web_name": "Beto",
+      "team": "EVE",
+      "pos": "FWD"
+    },
+    {
+      "element": 450,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Matheus Santos Carneiro da Cunha",
+      "web_name": "Cunha",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 700,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Max Dowman",
+      "web_name": "Dowman",
+      "team": "ARS",
+      "pos": "MID"
+    }
+  ]
+}

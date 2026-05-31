@@ -1,0 +1,207 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 615351,
+      "element_in": 575,
+      "element_out": 256,
+      "event": 15
+    }
+  ],
+  "entry_history": {
+    "event": 15,
+    "points": 54,
+    "total_points": 845,
+    "rank": 4298996,
+    "rank_sort": 4303223,
+    "overall_rank": 1271343,
+    "percentile_rank": 35,
+    "bank": 7,
+    "value": 1025,
+    "event_transfers": 2,
+    "event_transfers_cost": 0,
+    "points_on_bench": 14
+  },
+  "picks": [
+    {
+      "element": 1,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "David Raya Martín",
+      "web_name": "Raya",
+      "team": "ARS",
+      "pos": "GKP"
+    },
+    {
+      "element": 575,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Micky van de Ven",
+      "web_name": "Van de Ven",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 260,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 373,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Virgil van Dijk",
+      "web_name": "Virgil",
+      "team": "LIV",
+      "pos": "DEF"
+    },
+    {
+      "element": 82,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 488,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Guimarães Rodriguez Moura",
+      "web_name": "Bruno G.",
+      "team": "NEW",
+      "pos": "MID"
+    },
+    {
+      "element": 414,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Phil Foden",
+      "web_name": "Foden",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 237,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Enzo Fernández",
+      "web_name": "Enzo",
+      "team": "CHE",
+      "pos": "MID"
+    },
+    {
+      "element": 178,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Danny Welbeck",
+      "web_name": "Welbeck",
+      "team": "BHA",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 10,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 136,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 289,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Harry Tyrer",
+      "web_name": "Tyrer",
+      "team": "EVE",
+      "pos": "GKP"
+    },
+    {
+      "element": 256,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Daniel Muñoz Mejía",
+      "web_name": "Muñoz",
+      "team": "CRY",
+      "pos": "DEF"
+    },
+    {
+      "element": 21,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 72,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marcos Senesi Barón",
+      "web_name": "Senesi",
+      "team": "BOU",
+      "pos": "DEF"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 8818983,
+      "element_in": 694,
+      "element_out": 7,
+      "event": 34
+    },
+    {
+      "entry": 8818983,
+      "element_in": 517,
+      "element_out": 82,
+      "event": 34
+    }
+  ],
+  "entry_history": {
+    "event": 34,
+    "points": 53,
+    "total_points": 1812,
+    "rank": 1907947,
+    "rank_sort": 1986101,
+    "overall_rank": 3131495,
+    "percentile_rank": 15,
+    "bank": 3,
+    "value": 1027,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 0
+  },
+  "picks": [
+    {
+      "element": 1,
+      "position": 1,
+      "multiplier": 2,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 1,
+      "name": "David Raya Martín",
+      "web_name": "Raya",
+      "team": "ARS",
+      "pos": "GKP"
+    },
+    {
+      "element": 694,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nordi Mukiele",
+      "web_name": "Mukiele",
+      "team": "SUN",
+      "pos": "DEF"
+    },
+    {
+      "element": 5,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Gabriel dos Santos Magalhães",
+      "web_name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 260,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 382,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Florian Wirtz",
+      "web_name": "Wirtz",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 517,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Elliot Anderson",
+      "web_name": "Anderson",
+      "team": "NFO",
+      "pos": "MID"
+    },
+    {
+      "element": 47,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Morgan Rogers",
+      "web_name": "Rogers",
+      "team": "AVL",
+      "pos": "MID"
+    },
+    {
+      "element": 449,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 430,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 136,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 100,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Junior Kroupi",
+      "web_name": "Kroupi.Jr",
+      "team": "BOU",
+      "pos": "FWD"
+    },
+    {
+      "element": 140,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Tom McGill",
+      "web_name": "McGill",
+      "team": "BHA",
+      "pos": "GKP"
+    },
+    {
+      "element": 481,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Alex Murphy",
+      "web_name": "A.Murphy",
+      "team": "NEW",
+      "pos": "DEF"
+    },
+    {
+      "element": 7,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Riccardo Calafiori",
+      "web_name": "Calafiori",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 82,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    }
+  ]
+}

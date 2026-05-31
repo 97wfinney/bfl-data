@@ -1,0 +1,207 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 1757592,
+      "element_in": 72,
+      "element_out": 256,
+      "event": 15
+    }
+  ],
+  "entry_history": {
+    "event": 15,
+    "points": 59,
+    "total_points": 843,
+    "rank": 2698708,
+    "rank_sort": 2711953,
+    "overall_rank": 1334106,
+    "percentile_rank": 25,
+    "bank": 27,
+    "value": 1017,
+    "event_transfers": 1,
+    "event_transfers_cost": 0,
+    "points_on_bench": 6
+  },
+  "picks": [
+    {
+      "element": 139,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Bart Verbruggen",
+      "web_name": "Verbruggen",
+      "team": "BHA",
+      "pos": "GKP"
+    },
+    {
+      "element": 684,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Malick Thiaw",
+      "web_name": "Thiaw",
+      "team": "NEW",
+      "pos": "DEF"
+    },
+    {
+      "element": 72,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marcos Senesi Barón",
+      "web_name": "Senesi",
+      "team": "BOU",
+      "pos": "DEF"
+    },
+    {
+      "element": 8,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Jurriën Timber",
+      "web_name": "J.Timber",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 411,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nico O'Reilly",
+      "web_name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 449,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 387,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Dominik Szoboszlai",
+      "web_name": "Szoboszlai",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 82,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 283,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Jean-Philippe Mateta",
+      "web_name": "Mateta",
+      "team": "CRY",
+      "pos": "FWD"
+    },
+    {
+      "element": 136,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 11,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 256,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Daniel Muñoz Mejía",
+      "web_name": "Muñoz",
+      "team": "CRY",
+      "pos": "DEF"
+    },
+    {
+      "element": 668,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Granit Xhaka",
+      "web_name": "Xhaka",
+      "team": "SUN",
+      "pos": "MID"
+    },
+    {
+      "element": 335,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Josh King",
+      "web_name": "King",
+      "team": "FUL",
+      "pos": "MID"
+    }
+  ]
+}

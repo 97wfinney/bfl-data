@@ -1,0 +1,219 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 6795060,
+      "element_in": 610,
+      "element_out": 408,
+      "event": 23
+    },
+    {
+      "entry": 6795060,
+      "element_in": 38,
+      "element_out": 235,
+      "event": 23
+    },
+    {
+      "entry": 6795060,
+      "element_in": 21,
+      "element_out": 419,
+      "event": 23
+    }
+  ],
+  "entry_history": {
+    "event": 23,
+    "points": 50,
+    "total_points": 1119,
+    "rank": 3471480,
+    "rank_sort": 3595490,
+    "overall_rank": 6300516,
+    "percentile_rank": 30,
+    "bank": 2,
+    "value": 1002,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 2
+  },
+  "picks": [
+    {
+      "element": 253,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Dean Henderson",
+      "web_name": "Henderson",
+      "team": "CRY",
+      "pos": "GKP"
+    },
+    {
+      "element": 260,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 610,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Aaron Wan-Bissaka",
+      "web_name": "Wan-Bissaka",
+      "team": "WHU",
+      "pos": "DEF"
+    },
+    {
+      "element": 575,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Micky van de Ven",
+      "web_name": "Van de Ven",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 38,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Ezri Konsa Ngoyo",
+      "web_name": "Konsa",
+      "team": "AVL",
+      "pos": "DEF"
+    },
+    {
+      "element": 47,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Morgan Rogers",
+      "web_name": "Rogers",
+      "team": "AVL",
+      "pos": "MID"
+    },
+    {
+      "element": 236,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Pedro Lomba Neto",
+      "web_name": "Neto",
+      "team": "CHE",
+      "pos": "MID"
+    },
+    {
+      "element": 21,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 249,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "João Pedro Junqueira de Jesus",
+      "web_name": "João Pedro",
+      "team": "CHE",
+      "pos": "FWD"
+    },
+    {
+      "element": 691,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Dominic Calvert-Lewin",
+      "web_name": "Calvert-Lewin",
+      "team": "LEE",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 11,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 341,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Karl Darlow",
+      "web_name": "Darlow",
+      "team": "LEE",
+      "pos": "GKP"
+    },
+    {
+      "element": 408,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Rúben dos Santos Gato Alves Dias",
+      "web_name": "Rúben",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 235,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Cole Palmer",
+      "web_name": "Palmer",
+      "team": "CHE",
+      "pos": "MID"
+    },
+    {
+      "element": 419,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Jack Grealish",
+      "web_name": "Grealish",
+      "team": "EVE",
+      "pos": "MID"
+    }
+  ]
+}

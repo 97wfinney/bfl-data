@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 2368457,
+      "element_in": 497,
+      "element_out": 403,
+      "event": 21
+    },
+    {
+      "entry": 2368457,
+      "element_in": 358,
+      "element_out": 661,
+      "event": 21
+    }
+  ],
+  "entry_history": {
+    "event": 21,
+    "points": 58,
+    "total_points": 1185,
+    "rank": 2880359,
+    "rank_sort": 2915739,
+    "overall_rank": 1259792,
+    "percentile_rank": 25,
+    "bank": 5,
+    "value": 1013,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 1
+  },
+  "picks": [
+    {
+      "element": 101,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Caoimhín Kelleher",
+      "web_name": "Kelleher",
+      "team": "BRE",
+      "pos": "GKP"
+    },
+    {
+      "element": 38,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Ezri Konsa Ngoyo",
+      "web_name": "Konsa",
+      "team": "AVL",
+      "pos": "DEF"
+    },
+    {
+      "element": 260,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 8,
+      "position": 4,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Jurriën Timber",
+      "web_name": "J.Timber",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 225,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Reece James",
+      "web_name": "James",
+      "team": "CHE",
+      "pos": "DEF"
+    },
+    {
+      "element": 497,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Lewis Miley",
+      "web_name": "L.Miley",
+      "team": "NEW",
+      "pos": "MID"
+    },
+    {
+      "element": 16,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Bukayo Saka",
+      "web_name": "Saka",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 414,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Phil Foden",
+      "web_name": "Foden",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 21,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 358,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Tanaka Ao",
+      "web_name": "Tanaka",
+      "team": "LEE",
+      "pos": "MID"
+    },
+    {
+      "element": 430,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 529,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Simon Moore",
+      "web_name": "Moore",
+      "team": "SUN",
+      "pos": "GKP"
+    },
+    {
+      "element": 403,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Joško Gvardiol",
+      "web_name": "Gvardiol",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 661,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Hugo Ekitiké",
+      "web_name": "Ekitiké",
+      "team": "LIV",
+      "pos": "FWD"
+    },
+    {
+      "element": 311,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Norberto Bercique Gomes Betuncal",
+      "web_name": "Beto",
+      "team": "EVE",
+      "pos": "FWD"
+    }
+  ]
+}

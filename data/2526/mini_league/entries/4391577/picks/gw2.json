@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 4391577,
+      "element_in": 575,
+      "element_out": 38,
+      "event": 2
+    },
+    {
+      "entry": 4391577,
+      "element_in": 623,
+      "element_out": 235,
+      "event": 2
+    }
+  ],
+  "entry_history": {
+    "event": 2,
+    "points": 46,
+    "total_points": 113,
+    "rank": 6780851,
+    "rank_sort": 6839433,
+    "overall_rank": 2841827,
+    "percentile_rank": 65,
+    "bank": 0,
+    "value": 1001,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 14
+  },
+  "picks": [
+    {
+      "element": 469,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Nick Pope",
+      "web_name": "Pope",
+      "team": "NEW",
+      "pos": "GKP"
+    },
+    {
+      "element": 610,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Aaron Wan-Bissaka",
+      "web_name": "Wan-Bissaka",
+      "team": "WHU",
+      "pos": "DEF"
+    },
+    {
+      "element": 575,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Micky van de Ven",
+      "web_name": "Van de Ven",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 260,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 505,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nikola Milenković",
+      "web_name": "Milenković",
+      "team": "NFO",
+      "pos": "DEF"
+    },
+    {
+      "element": 623,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Freddie Potts",
+      "web_name": "Potts",
+      "team": "WHU",
+      "pos": "MID"
+    },
+    {
+      "element": 381,
+      "position": 7,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Mohamed Salah",
+      "web_name": "M.Salah",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 382,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Florian Wirtz",
+      "web_name": "Wirtz",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 525,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Chris Wood",
+      "web_name": "Wood",
+      "team": "NFO",
+      "pos": "FWD"
+    },
+    {
+      "element": 64,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Ollie Watkins",
+      "web_name": "Watkins",
+      "team": "AVL",
+      "pos": "FWD"
+    },
+    {
+      "element": 249,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "João Pedro Junqueira de Jesus",
+      "web_name": "João Pedro",
+      "team": "CHE",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 38,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Ezri Konsa Ngoyo",
+      "web_name": "Konsa",
+      "team": "AVL",
+      "pos": "DEF"
+    },
+    {
+      "element": 235,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Cole Palmer",
+      "web_name": "Palmer",
+      "team": "CHE",
+      "pos": "MID"
+    },
+    {
+      "element": 241,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Moisés Caicedo Corozo",
+      "web_name": "Caicedo",
+      "team": "CHE",
+      "pos": "MID"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "active_chip": "3xc",
+  "automatic_subs": [
+    {
+      "entry": 4895569,
+      "element_in": 329,
+      "element_out": 249,
+      "event": 33
+    }
+  ],
+  "entry_history": {
+    "event": 33,
+    "points": 99,
+    "total_points": 1871,
+    "rank": 1140225,
+    "rank_sort": 1145007,
+    "overall_rank": 1267393,
+    "percentile_rank": 10,
+    "bank": 8,
+    "value": 994,
+    "event_transfers": 3,
+    "event_transfers_cost": 4,
+    "points_on_bench": 5
+  },
+  "picks": [
+    {
+      "element": 220,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Robert Lynch Sánchez",
+      "web_name": "Sánchez",
+      "team": "CHE",
+      "pos": "GKP"
+    },
+    {
+      "element": 411,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 2,
+      "name": "Nico O'Reilly",
+      "web_name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 260,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 684,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Malick Thiaw",
+      "web_name": "Thiaw",
+      "team": "NEW",
+      "pos": "DEF"
+    },
+    {
+      "element": 373,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Virgil van Dijk",
+      "web_name": "Virgil",
+      "team": "LIV",
+      "pos": "DEF"
+    },
+    {
+      "element": 449,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 450,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Matheus Santos Carneiro da Cunha",
+      "web_name": "Cunha",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 21,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 329,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Harry Wilson",
+      "web_name": "Wilson",
+      "team": "FUL",
+      "pos": "MID"
+    },
+    {
+      "element": 430,
+      "position": 10,
+      "multiplier": 3,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 691,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Dominic Calvert-Lewin",
+      "web_name": "Calvert-Lewin",
+      "team": "LEE",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 249,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "João Pedro Junqueira de Jesus",
+      "web_name": "João Pedro",
+      "team": "CHE",
+      "pos": "FWD"
+    },
+    {
+      "element": 660,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Anton Stach",
+      "web_name": "Stach",
+      "team": "LEE",
+      "pos": "MID"
+    },
+    {
+      "element": 683,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Omar Alderete",
+      "web_name": "Alderete",
+      "team": "SUN",
+      "pos": "DEF"
+    }
+  ]
+}

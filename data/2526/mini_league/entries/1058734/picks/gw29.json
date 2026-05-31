@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 1058734,
+      "element_in": 470,
+      "element_out": 670,
+      "event": 29
+    },
+    {
+      "entry": 1058734,
+      "element_in": 21,
+      "element_out": 329,
+      "event": 29
+    }
+  ],
+  "entry_history": {
+    "event": 29,
+    "points": 58,
+    "total_points": 1652,
+    "rank": 5246727,
+    "rank_sort": 5261269,
+    "overall_rank": 864192,
+    "percentile_rank": 45,
+    "bank": 16,
+    "value": 1046,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 7
+  },
+  "picks": [
+    {
+      "element": 470,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 256,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Daniel Muñoz Mejía",
+      "web_name": "Muñoz",
+      "team": "CRY",
+      "pos": "DEF"
+    },
+    {
+      "element": 373,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Virgil van Dijk",
+      "web_name": "Virgil",
+      "team": "LIV",
+      "pos": "DEF"
+    },
+    {
+      "element": 5,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Gabriel dos Santos Magalhães",
+      "web_name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 267,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Ismaïla Sarr",
+      "web_name": "Sarr",
+      "team": "CRY",
+      "pos": "MID"
+    },
+    {
+      "element": 449,
+      "position": 6,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bruno Borges Fernandes",
+      "web_name": "B.Fernandes",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 807,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Rayan Vitor Simplício Rocha",
+      "web_name": "Rayan",
+      "team": "BOU",
+      "pos": "MID"
+    },
+    {
+      "element": 21,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Declan Rice",
+      "web_name": "Rice",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 136,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 661,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Hugo Ekitiké",
+      "web_name": "Ekitiké",
+      "team": "LIV",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 670,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Robin Roefs",
+      "web_name": "Roefs",
+      "team": "SUN",
+      "pos": "GKP"
+    },
+    {
+      "element": 329,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Harry Wilson",
+      "web_name": "Wilson",
+      "team": "FUL",
+      "pos": "MID"
+    },
+    {
+      "element": 317,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Joachim Andersen",
+      "web_name": "Andersen",
+      "team": "FUL",
+      "pos": "DEF"
+    },
+    {
+      "element": 683,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Omar Alderete",
+      "web_name": "Alderete",
+      "team": "SUN",
+      "pos": "DEF"
+    }
+  ]
+}

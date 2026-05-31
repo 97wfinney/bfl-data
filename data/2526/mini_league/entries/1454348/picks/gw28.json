@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 1454348,
+      "element_in": 32,
+      "element_out": 101,
+      "event": 28
+    },
+    {
+      "entry": 1454348,
+      "element_in": 72,
+      "element_out": 18,
+      "event": 28
+    }
+  ],
+  "entry_history": {
+    "event": 28,
+    "points": 52,
+    "total_points": 1330,
+    "rank": 6702228,
+    "rank_sort": 6719001,
+    "overall_rank": 7828775,
+    "percentile_rank": 55,
+    "bank": 48,
+    "value": 1008,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 3
+  },
+  "picks": [
+    {
+      "element": 32,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Emiliano Martínez Romero",
+      "web_name": "Martinez",
+      "team": "AVL",
+      "pos": "GKP"
+    },
+    {
+      "element": 38,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Ezri Konsa Ngoyo",
+      "web_name": "Konsa",
+      "team": "AVL",
+      "pos": "DEF"
+    },
+    {
+      "element": 5,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Gabriel dos Santos Magalhães",
+      "web_name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 260,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marc Guéhi",
+      "web_name": "Guéhi",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 72,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marcos Senesi Barón",
+      "web_name": "Senesi",
+      "team": "BOU",
+      "pos": "DEF"
+    },
+    {
+      "element": 82,
+      "position": 6,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 697,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Amine Adli",
+      "web_name": "Adli",
+      "team": "BOU",
+      "pos": "MID"
+    },
+    {
+      "element": 387,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Dominik Szoboszlai",
+      "web_name": "Szoboszlai",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 249,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "João Pedro Junqueira de Jesus",
+      "web_name": "João Pedro",
+      "team": "CHE",
+      "pos": "FWD"
+    },
+    {
+      "element": 136,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 64,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Ollie Watkins",
+      "web_name": "Watkins",
+      "team": "AVL",
+      "pos": "FWD"
+    },
+    {
+      "element": 101,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Caoimhín Kelleher",
+      "web_name": "Kelleher",
+      "team": "BRE",
+      "pos": "GKP"
+    },
+    {
+      "element": 382,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Florian Wirtz",
+      "web_name": "Wirtz",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 18,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 3,
+      "name": "Noni Madueke",
+      "web_name": "Madueke",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 291,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "James Tarkowski",
+      "web_name": "Tarkowski",
+      "team": "EVE",
+      "pos": "DEF"
+    }
+  ]
+}

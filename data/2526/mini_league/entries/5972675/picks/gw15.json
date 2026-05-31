@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 5972675,
+      "element_in": 348,
+      "element_out": 256,
+      "event": 15
+    },
+    {
+      "entry": 5972675,
+      "element_in": 427,
+      "element_out": 487,
+      "event": 15
+    }
+  ],
+  "entry_history": {
+    "event": 15,
+    "points": 34,
+    "total_points": 736,
+    "rank": 11025963,
+    "rank_sort": 11086385,
+    "overall_rank": 6009867,
+    "percentile_rank": 90,
+    "bank": 3,
+    "value": 1017,
+    "event_transfers": 0,
+    "event_transfers_cost": 0,
+    "points_on_bench": 8
+  },
+  "picks": [
+    {
+      "element": 736,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Gianluigi Donnarumma",
+      "web_name": "Donnarumma",
+      "team": "MCI",
+      "pos": "GKP"
+    },
+    {
+      "element": 7,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Riccardo Calafiori",
+      "web_name": "Calafiori",
+      "team": "ARS",
+      "pos": "DEF"
+    },
+    {
+      "element": 348,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Joe Rodon",
+      "web_name": "Rodon",
+      "team": "LEE",
+      "pos": "DEF"
+    },
+    {
+      "element": 191,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Maxime Estève",
+      "web_name": "Estève",
+      "team": "BUR",
+      "pos": "DEF"
+    },
+    {
+      "element": 16,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bukayo Saka",
+      "web_name": "Saka",
+      "team": "ARS",
+      "pos": "MID"
+    },
+    {
+      "element": 427,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Tijjani Reijnders",
+      "web_name": "Reijnders",
+      "team": "MCI",
+      "pos": "MID"
+    },
+    {
+      "element": 119,
+      "position": 7,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Bryan Mbeumo",
+      "web_name": "Mbeumo",
+      "team": "MUN",
+      "pos": "MID"
+    },
+    {
+      "element": 236,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Pedro Lomba Neto",
+      "web_name": "Neto",
+      "team": "CHE",
+      "pos": "MID"
+    },
+    {
+      "element": 136,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "web_name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD"
+    },
+    {
+      "element": 430,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    },
+    {
+      "element": 714,
+      "position": 11,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Nick Woltemade",
+      "web_name": "Woltemade",
+      "team": "NEW",
+      "pos": "FWD"
+    },
+    {
+      "element": 341,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Karl Darlow",
+      "web_name": "Darlow",
+      "team": "LEE",
+      "pos": "GKP"
+    },
+    {
+      "element": 487,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Harvey Barnes",
+      "web_name": "Barnes",
+      "team": "NEW",
+      "pos": "MID"
+    },
+    {
+      "element": 256,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Daniel Muñoz Mejía",
+      "web_name": "Muñoz",
+      "team": "CRY",
+      "pos": "DEF"
+    },
+    {
+      "element": 72,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marcos Senesi Barón",
+      "web_name": "Senesi",
+      "team": "BOU",
+      "pos": "DEF"
+    }
+  ]
+}

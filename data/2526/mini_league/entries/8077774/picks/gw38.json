@@ -1,0 +1,213 @@
+{
+  "active_chip": null,
+  "automatic_subs": [
+    {
+      "entry": 8077774,
+      "element_in": 318,
+      "element_out": 411,
+      "event": 38
+    },
+    {
+      "entry": 8077774,
+      "element_in": 228,
+      "element_out": 430,
+      "event": 38
+    }
+  ],
+  "entry_history": {
+    "event": 38,
+    "points": 46,
+    "total_points": 2094,
+    "rank": 4944263,
+    "rank_sort": 4960501,
+    "overall_rank": 2367286,
+    "percentile_rank": 40,
+    "bank": 46,
+    "value": 1015,
+    "event_transfers": 2,
+    "event_transfers_cost": 0,
+    "points_on_bench": 0
+  },
+  "picks": [
+    {
+      "element": 139,
+      "position": 1,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Bart Verbruggen",
+      "web_name": "Verbruggen",
+      "team": "BHA",
+      "pos": "GKP"
+    },
+    {
+      "element": 318,
+      "position": 2,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Calvin Bassey",
+      "web_name": "Bassey",
+      "team": "FUL",
+      "pos": "DEF"
+    },
+    {
+      "element": 151,
+      "position": 3,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Jan Paul van Hecke",
+      "web_name": "Van Hecke",
+      "team": "BHA",
+      "pos": "DEF"
+    },
+    {
+      "element": 72,
+      "position": 4,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Marcos Senesi Barón",
+      "web_name": "Senesi",
+      "team": "BOU",
+      "pos": "DEF"
+    },
+    {
+      "element": 228,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Malo Gusto",
+      "web_name": "Gusto",
+      "team": "CHE",
+      "pos": "DEF"
+    },
+    {
+      "element": 84,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Marcus Tavernier",
+      "web_name": "Tavernier",
+      "team": "BOU",
+      "pos": "MID"
+    },
+    {
+      "element": 381,
+      "position": 7,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Mohamed Salah",
+      "web_name": "M.Salah",
+      "team": "LIV",
+      "pos": "MID"
+    },
+    {
+      "element": 515,
+      "position": 8,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Morgan Gibbs-White",
+      "web_name": "Gibbs-White",
+      "team": "NFO",
+      "pos": "MID"
+    },
+    {
+      "element": 807,
+      "position": 9,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Rayan Vitor Simplício Rocha",
+      "web_name": "Rayan",
+      "team": "BOU",
+      "pos": "MID"
+    },
+    {
+      "element": 691,
+      "position": 10,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Dominic Calvert-Lewin",
+      "web_name": "Calvert-Lewin",
+      "team": "LEE",
+      "pos": "FWD"
+    },
+    {
+      "element": 178,
+      "position": 11,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Danny Welbeck",
+      "web_name": "Welbeck",
+      "team": "BHA",
+      "pos": "FWD"
+    },
+    {
+      "element": 470,
+      "position": 12,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 1,
+      "name": "Martin Dúbravka",
+      "web_name": "Dúbravka",
+      "team": "BUR",
+      "pos": "GKP"
+    },
+    {
+      "element": 411,
+      "position": 13,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Nico O'Reilly",
+      "web_name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF"
+    },
+    {
+      "element": 660,
+      "position": 14,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Anton Stach",
+      "web_name": "Stach",
+      "team": "LEE",
+      "pos": "MID"
+    },
+    {
+      "element": 430,
+      "position": 15,
+      "multiplier": 0,
+      "is_captain": false,
+      "is_vice_captain": true,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD"
+    }
+  ]
+}
