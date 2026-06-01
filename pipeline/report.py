@@ -71,6 +71,9 @@ def run(bootstrap=None, season=None):
     for r in results:
         eid = r.get("entry")
         hist = fc.read_json(fc.entries_dir(season) / str(eid) / "history.json")
+        # chip played *this* gameweek only (None if no chip this GW)
+        chips = (hist or {}).get("chips", [])
+        gw_chip = next((c.get("name") for c in chips if c.get("event") == cur_gw), None)
         managers.append({
             "entry": eid,
             "manager": r.get("player_name", ""),
@@ -79,6 +82,7 @@ def run(bootstrap=None, season=None):
             "last_rank": r.get("last_rank"),
             "rank_movement": (r.get("last_rank") or 0) - (r.get("rank") or 0),
             "official_total": r.get("total"),
+            "gw_chip": gw_chip,
             **_breakdown(hist),
         })
 
