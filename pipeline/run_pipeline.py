@@ -17,6 +17,7 @@ import collector
 import league
 import entries
 import report
+import insights
 import summaries
 
 STEPS = [
@@ -24,6 +25,7 @@ STEPS = [
     ("league", league.run),
     ("entries", entries.run),
     ("report", report.run),
+    ("insights", insights.run),
     ("summaries", summaries.run),
 ]
 
