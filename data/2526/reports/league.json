@@ -1,8 +1,8 @@
 {
   "season": "2526",
-  "current_gw": 1,
-  "finished": false,
-  "updated_at": "2026-07-23T20:48:50.353601+00:00",
+  "current_gw": 38,
+  "finished": true,
+  "updated_at": "2026-06-02T18:16:12.567837+00:00",
   "league": {
     "id": 106780,
     "name": "Biddenham Fantasy League"
@@ -16,14 +16,366 @@
       "last_rank": 1,
       "rank_movement": 0,
       "official_total": 2361,
-      "gw_chip": null,
-      "gross_points": 0,
+      "gw_chip": "3xc",
+      "gross_points": 2361,
       "hits": 0,
-      "total": 0,
-      "gw_points": 0,
+      "total": 2361,
+      "gw_points": 71,
       "gw_hits": 0,
-      "chips_used": [],
-      "history": []
+      "chips_used": [
+        "freehit",
+        "wildcard",
+        "bboost",
+        "3xc",
+        "bboost",
+        "freehit",
+        "wildcard",
+        "3xc"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 75,
+          "hits": 0,
+          "net": 75,
+          "total": 75,
+          "bench": 8,
+          "overall_rank": 468092
+        },
+        {
+          "gw": 2,
+          "points": 50,
+          "hits": 0,
+          "net": 50,
+          "total": 125,
+          "bench": 8,
+          "overall_rank": 1083964
+        },
+        {
+          "gw": 3,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 185,
+          "bench": 16,
+          "overall_rank": 520172
+        },
+        {
+          "gw": 4,
+          "points": 72,
+          "hits": 0,
+          "net": 72,
+          "total": 257,
+          "bench": 11,
+          "overall_rank": 498685
+        },
+        {
+          "gw": 5,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 302,
+          "bench": 5,
+          "overall_rank": 607277
+        },
+        {
+          "gw": 6,
+          "points": 57,
+          "hits": 0,
+          "net": 57,
+          "total": 359,
+          "bench": 9,
+          "overall_rank": 767958
+        },
+        {
+          "gw": 7,
+          "points": 79,
+          "hits": 0,
+          "net": 79,
+          "total": 438,
+          "bench": 5,
+          "overall_rank": 492857
+        },
+        {
+          "gw": 8,
+          "points": 91,
+          "hits": 0,
+          "net": 91,
+          "total": 529,
+          "bench": 10,
+          "overall_rank": 133817
+        },
+        {
+          "gw": 9,
+          "points": 44,
+          "hits": 0,
+          "net": 44,
+          "total": 573,
+          "bench": 15,
+          "overall_rank": 195206
+        },
+        {
+          "gw": 10,
+          "points": 80,
+          "hits": 0,
+          "net": 80,
+          "total": 653,
+          "bench": 6,
+          "overall_rank": 151841
+        },
+        {
+          "gw": 11,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 698,
+          "bench": 16,
+          "overall_rank": 122593
+        },
+        {
+          "gw": 12,
+          "points": 41,
+          "hits": 0,
+          "net": 41,
+          "total": 739,
+          "bench": 0,
+          "overall_rank": 145165
+        },
+        {
+          "gw": 13,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 792,
+          "bench": 7,
+          "overall_rank": 91337
+        },
+        {
+          "gw": 14,
+          "points": 79,
+          "hits": 0,
+          "net": 79,
+          "total": 871,
+          "bench": 7,
+          "overall_rank": 57348
+        },
+        {
+          "gw": 15,
+          "points": 56,
+          "hits": 0,
+          "net": 56,
+          "total": 927,
+          "bench": 12,
+          "overall_rank": 56652
+        },
+        {
+          "gw": 16,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 1001,
+          "bench": 4,
+          "overall_rank": 65749
+        },
+        {
+          "gw": 17,
+          "points": 77,
+          "hits": 0,
+          "net": 77,
+          "total": 1078,
+          "bench": 7,
+          "overall_rank": 85600
+        },
+        {
+          "gw": 18,
+          "points": 41,
+          "hits": 0,
+          "net": 41,
+          "total": 1119,
+          "bench": 15,
+          "overall_rank": 113536
+        },
+        {
+          "gw": 19,
+          "points": 37,
+          "hits": 0,
+          "net": 37,
+          "total": 1156,
+          "bench": 23,
+          "overall_rank": 131888
+        },
+        {
+          "gw": 20,
+          "points": 25,
+          "hits": 0,
+          "net": 25,
+          "total": 1181,
+          "bench": 8,
+          "overall_rank": 332976
+        },
+        {
+          "gw": 21,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 1235,
+          "bench": 16,
+          "overall_rank": 355343
+        },
+        {
+          "gw": 22,
+          "points": 34,
+          "hits": 0,
+          "net": 34,
+          "total": 1269,
+          "bench": 11,
+          "overall_rank": 422437
+        },
+        {
+          "gw": 23,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 1343,
+          "bench": 0,
+          "overall_rank": 146854
+        },
+        {
+          "gw": 24,
+          "points": 73,
+          "hits": 0,
+          "net": 73,
+          "total": 1416,
+          "bench": 12,
+          "overall_rank": 100779
+        },
+        {
+          "gw": 25,
+          "points": 56,
+          "hits": 0,
+          "net": 56,
+          "total": 1472,
+          "bench": 6,
+          "overall_rank": 165581
+        },
+        {
+          "gw": 26,
+          "points": 85,
+          "hits": 0,
+          "net": 85,
+          "total": 1557,
+          "bench": 7,
+          "overall_rank": 86398
+        },
+        {
+          "gw": 27,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 1602,
+          "bench": 16,
+          "overall_rank": 93395
+        },
+        {
+          "gw": 28,
+          "points": 72,
+          "hits": 0,
+          "net": 72,
+          "total": 1674,
+          "bench": 3,
+          "overall_rank": 92456
+        },
+        {
+          "gw": 29,
+          "points": 68,
+          "hits": 0,
+          "net": 68,
+          "total": 1742,
+          "bench": 5,
+          "overall_rank": 78275
+        },
+        {
+          "gw": 30,
+          "points": 42,
+          "hits": 0,
+          "net": 42,
+          "total": 1784,
+          "bench": 12,
+          "overall_rank": 122208
+        },
+        {
+          "gw": 31,
+          "points": 57,
+          "hits": 0,
+          "net": 57,
+          "total": 1841,
+          "bench": 2,
+          "overall_rank": 125492
+        },
+        {
+          "gw": 32,
+          "points": 61,
+          "hits": 0,
+          "net": 61,
+          "total": 1902,
+          "bench": 2,
+          "overall_rank": 110582
+        },
+        {
+          "gw": 33,
+          "points": 93,
+          "hits": 0,
+          "net": 93,
+          "total": 1995,
+          "bench": 3,
+          "overall_rank": 148261
+        },
+        {
+          "gw": 34,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 2049,
+          "bench": 0,
+          "overall_rank": 155338
+        },
+        {
+          "gw": 35,
+          "points": 67,
+          "hits": 0,
+          "net": 67,
+          "total": 2116,
+          "bench": 8,
+          "overall_rank": 122244
+        },
+        {
+          "gw": 36,
+          "points": 100,
+          "hits": 0,
+          "net": 100,
+          "total": 2216,
+          "bench": 8,
+          "overall_rank": 78099
+        },
+        {
+          "gw": 37,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 2290,
+          "bench": 15,
+          "overall_rank": 57743
+        },
+        {
+          "gw": 38,
+          "points": 71,
+          "hits": 0,
+          "net": 71,
+          "total": 2361,
+          "bench": 2,
+          "overall_rank": 37444
+        }
+      ]
     },
     {
       "entry": 910679,
@@ -772,13 +1124,365 @@
       "rank_movement": 0,
       "official_total": 2275,
       "gw_chip": null,
-      "gross_points": 0,
-      "hits": 0,
-      "total": 0,
-      "gw_points": 0,
+      "gross_points": 2283,
+      "hits": 8,
+      "total": 2275,
+      "gw_points": 74,
       "gw_hits": 0,
-      "chips_used": [],
-      "history": []
+      "chips_used": [
+        "3xc",
+        "wildcard",
+        "freehit",
+        "bboost",
+        "bboost",
+        "wildcard",
+        "3xc",
+        "freehit"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 79,
+          "hits": 0,
+          "net": 79,
+          "total": 79,
+          "bench": 3,
+          "overall_rank": 243514
+        },
+        {
+          "gw": 2,
+          "points": 39,
+          "hits": 0,
+          "net": 39,
+          "total": 118,
+          "bench": 6,
+          "overall_rank": 2056707
+        },
+        {
+          "gw": 3,
+          "points": 45,
+          "hits": 4,
+          "net": 41,
+          "total": 159,
+          "bench": 3,
+          "overall_rank": 3438443
+        },
+        {
+          "gw": 4,
+          "points": 78,
+          "hits": 0,
+          "net": 78,
+          "total": 237,
+          "bench": 23,
+          "overall_rank": 1873453
+        },
+        {
+          "gw": 5,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 290,
+          "bench": 18,
+          "overall_rank": 1264603
+        },
+        {
+          "gw": 6,
+          "points": 57,
+          "hits": 0,
+          "net": 57,
+          "total": 347,
+          "bench": 8,
+          "overall_rank": 1309049
+        },
+        {
+          "gw": 7,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 392,
+          "bench": 14,
+          "overall_rank": 2707845
+        },
+        {
+          "gw": 8,
+          "points": 67,
+          "hits": 0,
+          "net": 67,
+          "total": 459,
+          "bench": 17,
+          "overall_rank": 2441873
+        },
+        {
+          "gw": 9,
+          "points": 41,
+          "hits": 0,
+          "net": 41,
+          "total": 500,
+          "bench": 8,
+          "overall_rank": 2841055
+        },
+        {
+          "gw": 10,
+          "points": 88,
+          "hits": 0,
+          "net": 88,
+          "total": 588,
+          "bench": 7,
+          "overall_rank": 1936662
+        },
+        {
+          "gw": 11,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 631,
+          "bench": 5,
+          "overall_rank": 1807583
+        },
+        {
+          "gw": 12,
+          "points": 39,
+          "hits": 0,
+          "net": 39,
+          "total": 670,
+          "bench": 6,
+          "overall_rank": 1896325
+        },
+        {
+          "gw": 13,
+          "points": 42,
+          "hits": 0,
+          "net": 42,
+          "total": 712,
+          "bench": 5,
+          "overall_rank": 1715838
+        },
+        {
+          "gw": 14,
+          "points": 71,
+          "hits": 0,
+          "net": 71,
+          "total": 783,
+          "bench": 11,
+          "overall_rank": 1599635
+        },
+        {
+          "gw": 15,
+          "points": 49,
+          "hits": 0,
+          "net": 49,
+          "total": 832,
+          "bench": 23,
+          "overall_rank": 1709218
+        },
+        {
+          "gw": 16,
+          "points": 69,
+          "hits": 0,
+          "net": 69,
+          "total": 901,
+          "bench": 5,
+          "overall_rank": 1708715
+        },
+        {
+          "gw": 17,
+          "points": 58,
+          "hits": 0,
+          "net": 58,
+          "total": 959,
+          "bench": 2,
+          "overall_rank": 2412770
+        },
+        {
+          "gw": 18,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 1012,
+          "bench": 2,
+          "overall_rank": 2157752
+        },
+        {
+          "gw": 19,
+          "points": 52,
+          "hits": 4,
+          "net": 48,
+          "total": 1060,
+          "bench": 0,
+          "overall_rank": 1911051
+        },
+        {
+          "gw": 20,
+          "points": 44,
+          "hits": 0,
+          "net": 44,
+          "total": 1104,
+          "bench": 11,
+          "overall_rank": 2000243
+        },
+        {
+          "gw": 21,
+          "points": 69,
+          "hits": 0,
+          "net": 69,
+          "total": 1173,
+          "bench": 7,
+          "overall_rank": 1583233
+        },
+        {
+          "gw": 22,
+          "points": 39,
+          "hits": 0,
+          "net": 39,
+          "total": 1212,
+          "bench": 12,
+          "overall_rank": 1584258
+        },
+        {
+          "gw": 23,
+          "points": 42,
+          "hits": 0,
+          "net": 42,
+          "total": 1254,
+          "bench": 14,
+          "overall_rank": 1609373
+        },
+        {
+          "gw": 24,
+          "points": 77,
+          "hits": 0,
+          "net": 77,
+          "total": 1331,
+          "bench": 0,
+          "overall_rank": 1154474
+        },
+        {
+          "gw": 25,
+          "points": 79,
+          "hits": 0,
+          "net": 79,
+          "total": 1410,
+          "bench": 11,
+          "overall_rank": 904628
+        },
+        {
+          "gw": 26,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 1464,
+          "bench": 5,
+          "overall_rank": 1110933
+        },
+        {
+          "gw": 27,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 1509,
+          "bench": 13,
+          "overall_rank": 1142589
+        },
+        {
+          "gw": 28,
+          "points": 71,
+          "hits": 0,
+          "net": 71,
+          "total": 1580,
+          "bench": 3,
+          "overall_rank": 1030432
+        },
+        {
+          "gw": 29,
+          "points": 85,
+          "hits": 0,
+          "net": 85,
+          "total": 1665,
+          "bench": 18,
+          "overall_rank": 674314
+        },
+        {
+          "gw": 30,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 1708,
+          "bench": 17,
+          "overall_rank": 792299
+        },
+        {
+          "gw": 31,
+          "points": 59,
+          "hits": 0,
+          "net": 59,
+          "total": 1767,
+          "bench": 5,
+          "overall_rank": 729396
+        },
+        {
+          "gw": 32,
+          "points": 48,
+          "hits": 0,
+          "net": 48,
+          "total": 1815,
+          "bench": 15,
+          "overall_rank": 822997
+        },
+        {
+          "gw": 33,
+          "points": 118,
+          "hits": 0,
+          "net": 118,
+          "total": 1933,
+          "bench": 9,
+          "overall_rank": 526771
+        },
+        {
+          "gw": 34,
+          "points": 58,
+          "hits": 0,
+          "net": 58,
+          "total": 1991,
+          "bench": 0,
+          "overall_rank": 472676
+        },
+        {
+          "gw": 35,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 2044,
+          "bench": 15,
+          "overall_rank": 503566
+        },
+        {
+          "gw": 36,
+          "points": 87,
+          "hits": 0,
+          "net": 87,
+          "total": 2131,
+          "bench": 13,
+          "overall_rank": 466526
+        },
+        {
+          "gw": 37,
+          "points": 70,
+          "hits": 0,
+          "net": 70,
+          "total": 2201,
+          "bench": 10,
+          "overall_rank": 419616
+        },
+        {
+          "gw": 38,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 2275,
+          "bench": 0,
+          "overall_rank": 298692
+        }
+      ]
     },
     {
       "entry": 615351,
@@ -2634,13 +3338,365 @@
       "rank_movement": 0,
       "official_total": 2137,
       "gw_chip": null,
-      "gross_points": 0,
+      "gross_points": 2137,
       "hits": 0,
-      "total": 0,
-      "gw_points": 0,
+      "total": 2137,
+      "gw_points": 54,
       "gw_hits": 0,
-      "chips_used": [],
-      "history": []
+      "chips_used": [
+        "bboost",
+        "3xc",
+        "wildcard",
+        "freehit",
+        "freehit",
+        "3xc",
+        "bboost",
+        "wildcard"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 63,
+          "hits": 0,
+          "net": 63,
+          "total": 63,
+          "bench": 6,
+          "overall_rank": 2149481
+        },
+        {
+          "gw": 2,
+          "points": 80,
+          "hits": 0,
+          "net": 80,
+          "total": 143,
+          "bench": 7,
+          "overall_rank": 132275
+        },
+        {
+          "gw": 3,
+          "points": 76,
+          "hits": 0,
+          "net": 76,
+          "total": 219,
+          "bench": 3,
+          "overall_rank": 8325
+        },
+        {
+          "gw": 4,
+          "points": 64,
+          "hits": 0,
+          "net": 64,
+          "total": 283,
+          "bench": 9,
+          "overall_rank": 45159
+        },
+        {
+          "gw": 5,
+          "points": 33,
+          "hits": 0,
+          "net": 33,
+          "total": 316,
+          "bench": 5,
+          "overall_rank": 219485
+        },
+        {
+          "gw": 6,
+          "points": 65,
+          "hits": 0,
+          "net": 65,
+          "total": 381,
+          "bench": 0,
+          "overall_rank": 210052
+        },
+        {
+          "gw": 7,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 441,
+          "bench": 19,
+          "overall_rank": 419910
+        },
+        {
+          "gw": 8,
+          "points": 62,
+          "hits": 0,
+          "net": 62,
+          "total": 503,
+          "bench": 11,
+          "overall_rank": 558135
+        },
+        {
+          "gw": 9,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 546,
+          "bench": 15,
+          "overall_rank": 721474
+        },
+        {
+          "gw": 10,
+          "points": 72,
+          "hits": 0,
+          "net": 72,
+          "total": 618,
+          "bench": 6,
+          "overall_rank": 765981
+        },
+        {
+          "gw": 11,
+          "points": 44,
+          "hits": 0,
+          "net": 44,
+          "total": 662,
+          "bench": 3,
+          "overall_rank": 679874
+        },
+        {
+          "gw": 12,
+          "points": 28,
+          "hits": 0,
+          "net": 28,
+          "total": 690,
+          "bench": 15,
+          "overall_rank": 1101887
+        },
+        {
+          "gw": 13,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 743,
+          "bench": 5,
+          "overall_rank": 735204
+        },
+        {
+          "gw": 14,
+          "points": 57,
+          "hits": 0,
+          "net": 57,
+          "total": 800,
+          "bench": 13,
+          "overall_rank": 1032395
+        },
+        {
+          "gw": 15,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 843,
+          "bench": 12,
+          "overall_rank": 1319498
+        },
+        {
+          "gw": 16,
+          "points": 75,
+          "hits": 0,
+          "net": 75,
+          "total": 918,
+          "bench": 4,
+          "overall_rank": 1180070
+        },
+        {
+          "gw": 17,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 978,
+          "bench": 9,
+          "overall_rank": 1747782
+        },
+        {
+          "gw": 18,
+          "points": 34,
+          "hits": 0,
+          "net": 34,
+          "total": 1012,
+          "bench": 17,
+          "overall_rank": 2145085
+        },
+        {
+          "gw": 19,
+          "points": 33,
+          "hits": 0,
+          "net": 33,
+          "total": 1045,
+          "bench": 5,
+          "overall_rank": 2406603
+        },
+        {
+          "gw": 20,
+          "points": 32,
+          "hits": 0,
+          "net": 32,
+          "total": 1077,
+          "bench": 1,
+          "overall_rank": 2915379
+        },
+        {
+          "gw": 21,
+          "points": 42,
+          "hits": 0,
+          "net": 42,
+          "total": 1119,
+          "bench": 4,
+          "overall_rank": 3359468
+        },
+        {
+          "gw": 22,
+          "points": 37,
+          "hits": 0,
+          "net": 37,
+          "total": 1156,
+          "bench": 13,
+          "overall_rank": 3425982
+        },
+        {
+          "gw": 23,
+          "points": 38,
+          "hits": 0,
+          "net": 38,
+          "total": 1194,
+          "bench": 10,
+          "overall_rank": 3629121
+        },
+        {
+          "gw": 24,
+          "points": 67,
+          "hits": 0,
+          "net": 67,
+          "total": 1261,
+          "bench": 12,
+          "overall_rank": 3246702
+        },
+        {
+          "gw": 25,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 1321,
+          "bench": 9,
+          "overall_rank": 3357895
+        },
+        {
+          "gw": 26,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 1395,
+          "bench": 12,
+          "overall_rank": 2961997
+        },
+        {
+          "gw": 27,
+          "points": 51,
+          "hits": 0,
+          "net": 51,
+          "total": 1446,
+          "bench": 14,
+          "overall_rank": 2817035
+        },
+        {
+          "gw": 28,
+          "points": 72,
+          "hits": 0,
+          "net": 72,
+          "total": 1518,
+          "bench": 6,
+          "overall_rank": 2488358
+        },
+        {
+          "gw": 29,
+          "points": 70,
+          "hits": 0,
+          "net": 70,
+          "total": 1588,
+          "bench": 13,
+          "overall_rank": 2233553
+        },
+        {
+          "gw": 30,
+          "points": 39,
+          "hits": 0,
+          "net": 39,
+          "total": 1627,
+          "bench": 21,
+          "overall_rank": 2455966
+        },
+        {
+          "gw": 31,
+          "points": 41,
+          "hits": 0,
+          "net": 41,
+          "total": 1668,
+          "bench": 11,
+          "overall_rank": 2617721
+        },
+        {
+          "gw": 32,
+          "points": 49,
+          "hits": 0,
+          "net": 49,
+          "total": 1717,
+          "bench": 6,
+          "overall_rank": 2705133
+        },
+        {
+          "gw": 33,
+          "points": 105,
+          "hits": 0,
+          "net": 105,
+          "total": 1822,
+          "bench": 6,
+          "overall_rank": 2103336
+        },
+        {
+          "gw": 34,
+          "points": 67,
+          "hits": 0,
+          "net": 67,
+          "total": 1889,
+          "bench": 4,
+          "overall_rank": 1688742
+        },
+        {
+          "gw": 35,
+          "points": 52,
+          "hits": 0,
+          "net": 52,
+          "total": 1941,
+          "bench": 0,
+          "overall_rank": 1752917
+        },
+        {
+          "gw": 36,
+          "points": 88,
+          "hits": 0,
+          "net": 88,
+          "total": 2029,
+          "bench": 6,
+          "overall_rank": 1611283
+        },
+        {
+          "gw": 37,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 2083,
+          "bench": 19,
+          "overall_rank": 1742288
+        },
+        {
+          "gw": 38,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 2137,
+          "bench": 0,
+          "overall_rank": 1689454
+        }
+      ]
     },
     {
       "entry": 4391577,
@@ -2650,7 +3706,7 @@
       "last_rank": 11,
       "rank_movement": 0,
       "official_total": 2121,
-      "gw_chip": "3xc",
+      "gw_chip": null,
       "gross_points": 2125,
       "hits": 4,
       "total": 2121,
@@ -5954,13 +7010,361 @@
       "rank_movement": -1,
       "official_total": 1905,
       "gw_chip": null,
-      "gross_points": 0,
-      "hits": 0,
-      "total": 0,
-      "gw_points": 0,
+      "gross_points": 1933,
+      "hits": 28,
+      "total": 1905,
+      "gw_points": 22,
       "gw_hits": 0,
-      "chips_used": [],
-      "history": []
+      "chips_used": [
+        "bboost",
+        "wildcard",
+        "freehit",
+        "3xc"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 74,
+          "bench": 0,
+          "overall_rank": 544391
+        },
+        {
+          "gw": 2,
+          "points": 36,
+          "hits": 0,
+          "net": 36,
+          "total": 110,
+          "bench": 9,
+          "overall_rank": 3528824
+        },
+        {
+          "gw": 3,
+          "points": 50,
+          "hits": 0,
+          "net": 50,
+          "total": 160,
+          "bench": 13,
+          "overall_rank": 3207127
+        },
+        {
+          "gw": 4,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 214,
+          "bench": 10,
+          "overall_rank": 4697061
+        },
+        {
+          "gw": 5,
+          "points": 39,
+          "hits": 0,
+          "net": 39,
+          "total": 253,
+          "bench": 17,
+          "overall_rank": 5102647
+        },
+        {
+          "gw": 6,
+          "points": 57,
+          "hits": 28,
+          "net": 29,
+          "total": 282,
+          "bench": 19,
+          "overall_rank": 6528405
+        },
+        {
+          "gw": 7,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 325,
+          "bench": 14,
+          "overall_rank": 7526145
+        },
+        {
+          "gw": 8,
+          "points": 46,
+          "hits": 0,
+          "net": 46,
+          "total": 371,
+          "bench": 14,
+          "overall_rank": 7764294
+        },
+        {
+          "gw": 9,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 425,
+          "bench": 18,
+          "overall_rank": 7358707
+        },
+        {
+          "gw": 10,
+          "points": 75,
+          "hits": 0,
+          "net": 75,
+          "total": 500,
+          "bench": 17,
+          "overall_rank": 6761670
+        },
+        {
+          "gw": 11,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 554,
+          "bench": 9,
+          "overall_rank": 5958064
+        },
+        {
+          "gw": 12,
+          "points": 42,
+          "hits": 0,
+          "net": 42,
+          "total": 596,
+          "bench": 2,
+          "overall_rank": 5798855
+        },
+        {
+          "gw": 13,
+          "points": 39,
+          "hits": 0,
+          "net": 39,
+          "total": 635,
+          "bench": 5,
+          "overall_rank": 5552164
+        },
+        {
+          "gw": 14,
+          "points": 66,
+          "hits": 0,
+          "net": 66,
+          "total": 701,
+          "bench": 4,
+          "overall_rank": 5353516
+        },
+        {
+          "gw": 15,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 761,
+          "bench": 9,
+          "overall_rank": 4872103
+        },
+        {
+          "gw": 16,
+          "points": 73,
+          "hits": 0,
+          "net": 73,
+          "total": 834,
+          "bench": 13,
+          "overall_rank": 4415737
+        },
+        {
+          "gw": 17,
+          "points": 77,
+          "hits": 0,
+          "net": 77,
+          "total": 911,
+          "bench": 3,
+          "overall_rank": 4286494
+        },
+        {
+          "gw": 18,
+          "points": 61,
+          "hits": 0,
+          "net": 61,
+          "total": 972,
+          "bench": 11,
+          "overall_rank": 3651782
+        },
+        {
+          "gw": 19,
+          "points": 33,
+          "hits": 0,
+          "net": 33,
+          "total": 1005,
+          "bench": 19,
+          "overall_rank": 3958348
+        },
+        {
+          "gw": 20,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 1065,
+          "bench": 8,
+          "overall_rank": 3382432
+        },
+        {
+          "gw": 21,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 1110,
+          "bench": 10,
+          "overall_rank": 3709419
+        },
+        {
+          "gw": 22,
+          "points": 68,
+          "hits": 0,
+          "net": 68,
+          "total": 1178,
+          "bench": 10,
+          "overall_rank": 2666522
+        },
+        {
+          "gw": 23,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 1223,
+          "bench": 19,
+          "overall_rank": 2606112
+        },
+        {
+          "gw": 24,
+          "points": 64,
+          "hits": 0,
+          "net": 64,
+          "total": 1287,
+          "bench": 2,
+          "overall_rank": 2385047
+        },
+        {
+          "gw": 25,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 1341,
+          "bench": 2,
+          "overall_rank": 2713487
+        },
+        {
+          "gw": 26,
+          "points": 47,
+          "hits": 0,
+          "net": 47,
+          "total": 1388,
+          "bench": 3,
+          "overall_rank": 3203684
+        },
+        {
+          "gw": 27,
+          "points": 35,
+          "hits": 0,
+          "net": 35,
+          "total": 1423,
+          "bench": 6,
+          "overall_rank": 3577115
+        },
+        {
+          "gw": 28,
+          "points": 66,
+          "hits": 0,
+          "net": 66,
+          "total": 1489,
+          "bench": 0,
+          "overall_rank": 3362563
+        },
+        {
+          "gw": 29,
+          "points": 46,
+          "hits": 0,
+          "net": 46,
+          "total": 1535,
+          "bench": 7,
+          "overall_rank": 3741445
+        },
+        {
+          "gw": 30,
+          "points": 32,
+          "hits": 0,
+          "net": 32,
+          "total": 1567,
+          "bench": 17,
+          "overall_rank": 4125206
+        },
+        {
+          "gw": 31,
+          "points": 31,
+          "hits": 0,
+          "net": 31,
+          "total": 1598,
+          "bench": 2,
+          "overall_rank": 4419621
+        },
+        {
+          "gw": 32,
+          "points": 55,
+          "hits": 0,
+          "net": 55,
+          "total": 1653,
+          "bench": 16,
+          "overall_rank": 4297079
+        },
+        {
+          "gw": 33,
+          "points": 63,
+          "hits": 0,
+          "net": 63,
+          "total": 1716,
+          "bench": 3,
+          "overall_rank": 4434465
+        },
+        {
+          "gw": 34,
+          "points": 18,
+          "hits": 0,
+          "net": 18,
+          "total": 1734,
+          "bench": 0,
+          "overall_rank": 4830987
+        },
+        {
+          "gw": 35,
+          "points": 40,
+          "hits": 0,
+          "net": 40,
+          "total": 1774,
+          "bench": 17,
+          "overall_rank": 5116111
+        },
+        {
+          "gw": 36,
+          "points": 49,
+          "hits": 0,
+          "net": 49,
+          "total": 1823,
+          "bench": 21,
+          "overall_rank": 5544011
+        },
+        {
+          "gw": 37,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 1883,
+          "bench": 4,
+          "overall_rank": 5478478
+        },
+        {
+          "gw": 38,
+          "points": 22,
+          "hits": 0,
+          "net": 22,
+          "total": 1905,
+          "bench": 0,
+          "overall_rank": 5819536
+        }
+      ]
     },
     {
       "entry": 5843000,
@@ -6330,7 +7734,7 @@
       "last_rank": 21,
       "rank_movement": -1,
       "official_total": 1879,
-      "gw_chip": null,
+      "gw_chip": "wildcard",
       "gross_points": 1887,
       "hits": 8,
       "total": 1879,
@@ -7782,7 +9186,7 @@
       "last_rank": 26,
       "rank_movement": 0,
       "official_total": 1797,
-      "gw_chip": null,
+      "gw_chip": "bboost",
       "gross_points": 1833,
       "hits": 36,
       "total": 1797,
