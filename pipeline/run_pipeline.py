@@ -18,6 +18,7 @@ import league
 import entries
 import report
 import insights
+import recap
 import summaries
 
 STEPS = [
@@ -26,6 +27,7 @@ STEPS = [
     ("entries", entries.run),
     ("report", report.run),
     ("insights", insights.run),
+    ("recap", recap.run),
     ("summaries", summaries.run),
 ]
 
@@ -38,7 +40,7 @@ def main():
         fc.log("pipeline: bootstrap fetch failed - aborting.")
         return
 
-    season = fc.derive_season()
+    season = fc.derive_season(bootstrap=bootstrap)
     gw = fc.current_gameweek(bootstrap)
     fc.ensure_season_dirs(season)
     fc.log(f"pipeline: season {season}, GW {gw}")

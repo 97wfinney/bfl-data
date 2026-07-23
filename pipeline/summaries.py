@@ -6,13 +6,17 @@ feed capped at FEED_LIMIT items at:
 
   data/<season>/summaries/feed.json
 
-Dedup is tracked in data/<season>/state/processed_video_ids.txt.
-The heavy YouTube/OpenAI imports are done lazily inside run() so a problem
-here can never break the FPL data steps. No Discord.
+Each item now carries a structured briefing - a one-line headline, a written
+multi-paragraph summary, and a list of key points - so the site can show the
+headline collapsed and the full article on expand.
+
+Dedup is tracked in data/<season>/state/processed_video_ids.txt. No Discord.
 """
 from __future__ import annotations
 
+import json
 import os
+import re
 
 import fpl_common as fc
 
@@ -24,17 +28,32 @@ CHANNELS = {
     "FPL Harry": "UCcPWnCj5AKC19HaySZjb25g",
 }
 
-MAX_PER_CHANNEL = 3
+# Higher = more videos summarised per run, but more transcript requests (and so
+# more YouTube IP-block risk). Drop to 1 if blocks return.
+MAX_PER_CHANNEL = 2
 FEED_LIMIT = 15
+MAX_OUTPUT_TOKENS = 2000
 
 SYSTEM_PROMPT = (
-    "You are a wire editor writing Fantasy Premier League briefings for a "
-    "terminal news feed. From the transcript, pull only what's actionable for "
-    "an FPL manager: captaincy, transfers in/out, differentials, injuries and "
-    "price moves, chip timing, fixture swings. Style is clipped wire copy - "
-    "declarative, present tense, players named, no hedging, no 'the video says', "
-    "no intro or outro. Output a single one-line headline take, then 3-6 terse "
-    "bullets. Drop anything that isn't a concrete call. Keep it under ~130 words."
+    "You are an editor turning a Fantasy Premier League video into a written "
+    "briefing for a terminal news feed. The written article is the main event - "
+    "most readers will read your summary instead of watching - so it must stand "
+    "completely on its own. From the transcript, produce three things.\n\n"
+    "headline: one punchy, specific line that names the key player or angle - an "
+    "editor's headline, not the video's clickbait title.\n\n"
+    "summary: a self-contained article of 3-5 paragraphs in clean, flowing prose "
+    "that captures the creator's actual analysis, reasoning and recommendations - "
+    "the squad, captaincy and transfer thinking, WHY each call is made, and the "
+    "trade-offs and risks weighed. Name players, teams and gameweeks specifically. "
+    "It should read as a complete piece a reader needs nothing else to follow. "
+    "Separate paragraphs with a blank line.\n\n"
+    "key_points: 4-8 concrete, scannable takeaways (captaincy picks, transfers "
+    "in/out, differentials, chip timing, fixture swings, price changes, "
+    "injury/rotation notes).\n\n"
+    "Write in present tense. Do not refer to 'the video', 'the creator' or 'this "
+    "channel'; no preamble or sign-off - just the briefing. Return ONLY valid JSON "
+    "- no markdown, no code fences - in exactly this shape: "
+    '{"headline": "...", "summary": "...", "key_points": ["...", "..."]}'
 )
 
 
@@ -67,14 +86,31 @@ def _transcript_text(video_id):
         return " ".join(seg["text"] for seg in data)
 
 
+def _parse_briefing(text):
+    """Parse the model's JSON briefing; fall back to raw text as the summary."""
+    t = (text or "").strip()
+    if t.startswith("```"):
+        t = re.sub(r"^```(?:json)?\s*", "", t)
+        t = re.sub(r"\s*```$", "", t)
+    try:
+        obj = json.loads(t)
+        return {
+            "headline": str(obj.get("headline", "")).strip(),
+            "summary": str(obj.get("summary", "")).strip(),
+            "key_points": [str(k).strip() for k in obj.get("key_points", []) if str(k).strip()],
+        }
+    except Exception:
+        return {"headline": "", "summary": (text or "").strip(), "key_points": []}
+
+
 def _summarise(client, transcript):
     resp = client.responses.create(
         model="gpt-5.5",
         instructions=SYSTEM_PROMPT,
         input=transcript,
-        max_output_tokens=1000,
+        max_output_tokens=MAX_OUTPUT_TOKENS,
     )
-    return resp.output_text.strip()
+    return _parse_briefing(resp.output_text)
 
 
 def run(bootstrap=None, season=None):
@@ -122,7 +158,7 @@ def run(bootstrap=None, season=None):
                     transcript = _transcript_text(vid)
                     if not transcript:
                         raise ValueError("empty transcript")
-                    summary = _summarise(client, transcript)
+                    brief = _summarise(client, transcript)
                 except Exception as e:
                     fc.log(f"summaries: skip {channel} {vid}: {e}")
                     continue
@@ -133,7 +169,9 @@ def run(bootstrap=None, season=None):
                     "url": f"https://www.youtube.com/watch?v={vid}",
                     "video_id": vid,
                     "published_at": published,
-                    "summary": summary,
+                    "headline": brief["headline"],
+                    "summary": brief["summary"],
+                    "key_points": brief["key_points"],
                     "generated_at": fc.now_iso(),
                 })
                 _mark_processed(season, vid)

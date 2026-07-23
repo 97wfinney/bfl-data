@@ -69,19 +69,32 @@ def fetch_bootstrap():
 
 
 # --- Season + gameweek derivation ---
-def derive_season(today: "datetime | None" = None) -> str:
-    """Return a season code like '2526'. Overridable with the SEASON env var.
+def derive_season(today: "datetime | None" = None, bootstrap=None) -> str:
+    """Return a season code like '2627'.
 
-    FPL seasons start in August: Aug-Dec -> start year is the current year;
-    Jan-Jul -> start year is the previous year.
+    Preference order:
+      1. SEASON env var override
+      2. GW1's deadline year from the bootstrap (authoritative)
+      3. Date fallback - seasons can now go live as early as July
     """
     override = os.getenv("SEASON")
     if override:
         return override.strip()
-    today = today or datetime.now()
-    start = today.year if today.month >= 8 else today.year - 1
-    return f"{start % 100:02d}{(start + 1) % 100:02d}"
 
+    if bootstrap:
+        events = bootstrap.get("events") or []
+        gw1 = next((e for e in events if e.get("id") == 1), None)
+        deadline = (gw1 or {}).get("deadline_time")
+        if deadline:
+            try:
+                start = datetime.fromisoformat(deadline.replace("Z", "+00:00")).year
+                return f"{start % 100:02d}{(start + 1) % 100:02d}"
+            except ValueError:
+                pass
+
+    today = today or datetime.now()
+    start = today.year if today.month >= 7 else today.year - 1
+    return f"{start % 100:02d}{(start + 1) % 100:02d}"
 
 def current_gameweek(bootstrap) -> "int | None":
     events = bootstrap.get("events", []) if bootstrap else []
