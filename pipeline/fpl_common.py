@@ -27,7 +27,7 @@ DATA_ROOT = REPO_ROOT / "data"
 load_dotenv(REPO_ROOT / ".env")
 
 # --- Config ---
-LEAGUE_ID = 106780
+LEAGUE_ID = 35621
 BASE_URL = "https://fantasy.premierleague.com/api/"
 HEADERS = {"User-Agent": "bfl-data-pipeline (+https://fantasy.premierleague.com)"}
 
