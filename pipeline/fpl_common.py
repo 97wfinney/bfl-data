@@ -10,6 +10,8 @@ particular machine - clone the repo anywhere and it still works.
 """
 from __future__ import annotations
 
+
+
 import json
 import os
 import subprocess
@@ -35,6 +37,11 @@ HEADERS = {"User-Agent": "bfl-data-pipeline (+https://fantasy.premierleague.com)
 _session = requests.Session()
 _session.headers.update(HEADERS)
 
+
+# OpenAI model used by summaries.py and recap.py.
+# Terra is the balanced tier - ample for transcript summarisation at ~1/3 of Sol's cost.
+# Override for one-off tests: OPENAI_MODEL=gpt-5.6-luna python pipeline/run_pipeline.py
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.6-terra")
 
 def log(msg: str):
     print(msg, flush=True)

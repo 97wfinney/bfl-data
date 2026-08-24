@@ -26,7 +26,7 @@ import re
 
 import fpl_common as fc
 
-MAX_OUTPUT_TOKENS = 2000
+MAX_OUTPUT_TOKENS = 6000
 
 SYSTEM_PROMPT = (
     "You are the writer for the Biddenham Fantasy League (BFL), a Fantasy Premier "
@@ -336,7 +336,7 @@ def _writeup(facts):
         from openai import OpenAI
         client = OpenAI()
         resp = client.responses.create(
-            model="gpt-5.5",
+            model= fc.OPENAI_MODEL,
             instructions=SYSTEM_PROMPT,
             input=json.dumps(facts, ensure_ascii=False),
             max_output_tokens=MAX_OUTPUT_TOKENS,

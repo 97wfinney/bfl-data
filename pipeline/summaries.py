@@ -131,7 +131,7 @@ def _parse_briefing(text):
 
 def _summarise(client, transcript):
     resp = client.responses.create(
-        model="gpt-5.5",
+        model= fc.OPENAI_MODEL,
         instructions=SYSTEM_PROMPT,
         input=transcript,
         max_output_tokens=MAX_OUTPUT_TOKENS,
