@@ -11,6 +11,11 @@ multi-paragraph summary, and a list of key points - so the site can show the
 headline collapsed and the full article on expand.
 
 Dedup is tracked in data/<season>/state/processed_video_ids.txt. No Discord.
+
+A briefing is only ever written to the feed if it parsed cleanly. Truncated or
+malformed model output raises, so the item is logged, skipped, and left unmarked
+in processed_video_ids.txt - meaning the next run retries it rather than
+publishing a broken entry permanently.
 """
 from __future__ import annotations
 
@@ -32,7 +37,11 @@ CHANNELS = {
 # more YouTube IP-block risk). Drop to 1 if blocks return.
 MAX_PER_CHANNEL = 2
 FEED_LIMIT = 15
-MAX_OUTPUT_TOKENS = 2000
+
+# NOTE: on the Responses API this budget covers reasoning tokens as well as the
+# visible text, so it needs real headroom. At 2000 a long team-news roundup was
+# cut off mid-sentence, producing invalid JSON.
+MAX_OUTPUT_TOKENS = 6000
 
 SYSTEM_PROMPT = (
     "You are an editor turning a Fantasy Premier League video into a written "
@@ -46,10 +55,12 @@ SYSTEM_PROMPT = (
     "the squad, captaincy and transfer thinking, WHY each call is made, and the "
     "trade-offs and risks weighed. Name players, teams and gameweeks specifically. "
     "It should read as a complete piece a reader needs nothing else to follow. "
-    "Separate paragraphs with a blank line.\n\n"
+    "Separate paragraphs with a blank line. Keep the summary under 600 words - be "
+    "selective and prioritise the most FPL-relevant material rather than listing "
+    "everything mentioned.\n\n"
     "key_points: 4-8 concrete, scannable takeaways (captaincy picks, transfers "
     "in/out, differentials, chip timing, fixture swings, price changes, "
-    "injury/rotation notes).\n\n"
+    "injury/rotation notes). One sentence each.\n\n"
     "Write in present tense. Do not refer to 'the video', 'the creator' or 'this "
     "channel'; no preamble or sign-off - just the briefing. Return ONLY valid JSON "
     "- no markdown, no code fences - in exactly this shape: "
@@ -87,20 +98,35 @@ def _transcript_text(video_id):
 
 
 def _parse_briefing(text):
-    """Parse the model's JSON briefing; fall back to raw text as the summary."""
+    """Parse the model's JSON briefing.
+
+    Raises on anything malformed. Never falls back to returning the raw text as
+    the summary - that is what published a raw JSON blob to the site. The caller
+    treats a raise as "skip and retry next run".
+    """
     t = (text or "").strip()
+    if not t:
+        raise ValueError("empty model output")
     if t.startswith("```"):
         t = re.sub(r"^```(?:json)?\s*", "", t)
         t = re.sub(r"\s*```$", "", t)
+
     try:
         obj = json.loads(t)
-        return {
-            "headline": str(obj.get("headline", "")).strip(),
-            "summary": str(obj.get("summary", "")).strip(),
-            "key_points": [str(k).strip() for k in obj.get("key_points", []) if str(k).strip()],
-        }
-    except Exception:
-        return {"headline": "", "summary": (text or "").strip(), "key_points": []}
+    except json.JSONDecodeError as e:
+        raise ValueError(f"unparseable briefing JSON: {e}") from e
+
+    if not isinstance(obj, dict):
+        raise ValueError(f"briefing was {type(obj).__name__}, expected an object")
+
+    headline = str(obj.get("headline", "")).strip()
+    summary = str(obj.get("summary", "")).strip()
+    key_points = [str(k).strip() for k in (obj.get("key_points") or []) if str(k).strip()]
+
+    if not headline or not summary:
+        raise ValueError("briefing missing headline or summary")
+
+    return {"headline": headline, "summary": summary, "key_points": key_points}
 
 
 def _summarise(client, transcript):
@@ -110,6 +136,21 @@ def _summarise(client, transcript):
         input=transcript,
         max_output_tokens=MAX_OUTPUT_TOKENS,
     )
+
+    # Catch truncation before parsing - a cut-off response is always invalid JSON,
+    # and this names the real cause in the log instead of a confusing parse error.
+    if getattr(resp, "status", None) == "incomplete":
+        details = getattr(resp, "incomplete_details", None)
+        reason = getattr(details, "reason", None) or "unknown"
+        raise ValueError(f"response incomplete ({reason})")
+
+    usage = getattr(resp, "usage", None)
+    if usage is not None:
+        out = getattr(usage, "output_tokens", "?")
+        details = getattr(usage, "output_tokens_details", None)
+        reasoning = getattr(details, "reasoning_tokens", "?") if details else "?"
+        fc.log(f"summaries: usage output={out} (reasoning={reasoning}) cap={MAX_OUTPUT_TOKENS}")
+
     return _parse_briefing(resp.output_text)
 
 
@@ -160,6 +201,7 @@ def run(bootstrap=None, season=None):
                         raise ValueError("empty transcript")
                     brief = _summarise(client, transcript)
                 except Exception as e:
+                    # Deliberately NOT marked processed - next run retries it.
                     fc.log(f"summaries: skip {channel} {vid}: {e}")
                     continue
 
