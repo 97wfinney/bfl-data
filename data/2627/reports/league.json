@@ -2,7 +2,7 @@
   "season": "2627",
   "current_gw": 1,
   "finished": false,
-  "updated_at": "2026-08-24T19:28:18.776578+00:00",
+  "updated_at": "2026-08-24T19:43:38.691082+00:00",
   "league": {
     "id": 35621,
     "name": "Biddenham Fantasy League"
@@ -395,33 +395,6 @@
       ]
     },
     {
-      "entry": 1336741,
-      "manager": "David Tonks",
-      "team": "Net six and chill",
-      "rank": 14,
-      "last_rank": 0,
-      "rank_movement": -14,
-      "official_total": 36,
-      "gw_chip": null,
-      "gross_points": 35,
-      "hits": 0,
-      "total": 35,
-      "gw_points": 35,
-      "gw_hits": 0,
-      "chips_used": [],
-      "history": [
-        {
-          "gw": 1,
-          "points": 35,
-          "hits": 0,
-          "net": 35,
-          "total": 35,
-          "bench": 5,
-          "overall_rank": 4625053
-        }
-      ]
-    },
-    {
       "entry": 3983742,
       "manager": "Vaughan Cosbie-Ross",
       "team": "The Roving Chefs",
@@ -476,29 +449,29 @@
       ]
     },
     {
-      "entry": 6325720,
-      "manager": "Dan Birkinshaw",
-      "team": "MadjoKarp",
-      "rank": 18,
+      "entry": 1336741,
+      "manager": "David Tonks",
+      "team": "Net six and chill",
+      "rank": 14,
       "last_rank": 0,
-      "rank_movement": -18,
-      "official_total": 35,
+      "rank_movement": -14,
+      "official_total": 36,
       "gw_chip": null,
-      "gross_points": 21,
+      "gross_points": 35,
       "hits": 0,
-      "total": 21,
-      "gw_points": 21,
+      "total": 35,
+      "gw_points": 35,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
         {
           "gw": 1,
-          "points": 21,
+          "points": 35,
           "hits": 0,
-          "net": 21,
-          "total": 21,
-          "bench": 12,
-          "overall_rank": 8307327
+          "net": 35,
+          "total": 35,
+          "bench": 5,
+          "overall_rank": 4625053
         }
       ]
     },
@@ -526,6 +499,33 @@
           "total": 27,
           "bench": 6,
           "overall_rank": 7174473
+        }
+      ]
+    },
+    {
+      "entry": 6325720,
+      "manager": "Dan Birkinshaw",
+      "team": "MadjoKarp",
+      "rank": 18,
+      "last_rank": 0,
+      "rank_movement": -18,
+      "official_total": 35,
+      "gw_chip": null,
+      "gross_points": 21,
+      "hits": 0,
+      "total": 21,
+      "gw_points": 21,
+      "gw_hits": 0,
+      "chips_used": [],
+      "history": [
+        {
+          "gw": 1,
+          "points": 21,
+          "hits": 0,
+          "net": 21,
+          "total": 21,
+          "bench": 12,
+          "overall_rank": 8307327
         }
       ]
     },

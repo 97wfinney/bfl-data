@@ -1,7 +1,7 @@
 {
   "season": "2627",
   "gw": 1,
-  "generated_at": "2026-08-24T19:28:18.813140+00:00",
+  "generated_at": "2026-08-24T19:43:38.726742+00:00",
   "manager_count": 25,
   "players": [
     {
@@ -1363,36 +1363,6 @@
       ]
     },
     {
-      "element": 171,
-      "web_name": "Dovin",
-      "team": "COV",
-      "pos": "GKP",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "David Tonks"
-      ]
-    },
-    {
-      "element": 481,
-      "web_name": "Anderson",
-      "team": "MCI",
-      "pos": "MID",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "David Tonks"
-      ]
-    },
-    {
       "element": 236,
       "web_name": "Dewsbury-Hall",
       "team": "EVE",
@@ -1453,9 +1423,9 @@
       ]
     },
     {
-      "element": 57,
-      "web_name": "Petrović",
-      "team": "BOU",
+      "element": 171,
+      "web_name": "Dovin",
+      "team": "COV",
       "pos": "GKP",
       "owned": 1,
       "owned_pct": 4.0,
@@ -1464,7 +1434,22 @@
       "captained_pct": 0.0,
       "benched": 1,
       "owners": [
-        "Dan Birkinshaw"
+        "David Tonks"
+      ]
+    },
+    {
+      "element": 481,
+      "web_name": "Anderson",
+      "team": "MCI",
+      "pos": "MID",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 0,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
+        "David Tonks"
       ]
     },
     {
@@ -1525,6 +1510,21 @@
       "benched": 1,
       "owners": [
         "George Foy"
+      ]
+    },
+    {
+      "element": 57,
+      "web_name": "Petrović",
+      "team": "BOU",
+      "pos": "GKP",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 0,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
+        "Dan Birkinshaw"
       ]
     },
     {
