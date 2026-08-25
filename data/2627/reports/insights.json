@@ -1,7 +1,7 @@
 {
   "season": "2627",
   "gw": 1,
-  "generated_at": "2026-08-25T00:00:14.703058+00:00",
+  "generated_at": "2026-08-25T08:42:50.787662+00:00",
   "manager_count": 25,
   "players": [
     {
@@ -644,22 +644,6 @@
       ]
     },
     {
-      "element": 154,
-      "web_name": "Palmer",
-      "team": "CHE",
-      "pos": "MID",
-      "owned": 2,
-      "owned_pct": 8.0,
-      "started": 2,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": [
-        "Dan Birkinshaw",
-        "amy warden"
-      ]
-    },
-    {
       "element": 229,
       "web_name": "Tarkowski",
       "team": "EVE",
@@ -689,6 +673,22 @@
       "owners": [
         "George Foy",
         "Phil Johnson"
+      ]
+    },
+    {
+      "element": 154,
+      "web_name": "Palmer",
+      "team": "CHE",
+      "pos": "MID",
+      "owned": 2,
+      "owned_pct": 8.0,
+      "started": 2,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "Dan Birkinshaw",
+        "amy warden"
       ]
     },
     {
@@ -756,22 +756,6 @@
       ]
     },
     {
-      "element": 260,
-      "web_name": "Wilson",
-      "team": "LEE",
-      "pos": "MID",
-      "owned": 2,
-      "owned_pct": 8.0,
-      "started": 2,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": [
-        "Hayley Phelan",
-        "James Marshall"
-      ]
-    },
-    {
       "element": 208,
       "web_name": "Sarr",
       "team": "CRY",
@@ -801,6 +785,22 @@
       "owners": [
         "Ali Smith",
         "Dan Birkinshaw"
+      ]
+    },
+    {
+      "element": 260,
+      "web_name": "Wilson",
+      "team": "LEE",
+      "pos": "MID",
+      "owned": 2,
+      "owned_pct": 8.0,
+      "started": 2,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "Hayley Phelan",
+        "James Marshall"
       ]
     },
     {
@@ -988,66 +988,6 @@
       ]
     },
     {
-      "element": 390,
-      "web_name": "Rúben",
-      "team": "MCI",
-      "pos": "DEF",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": [
-        "amy warden"
-      ]
-    },
-    {
-      "element": 544,
-      "web_name": "Xhaka",
-      "team": "SUN",
-      "pos": "MID",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": [
-        "amy warden"
-      ]
-    },
-    {
-      "element": 14,
-      "web_name": "Eze",
-      "team": "ARS",
-      "pos": "MID",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": [
-        "amy warden"
-      ]
-    },
-    {
-      "element": 502,
-      "web_name": "Robertson",
-      "team": "TOT",
-      "pos": "DEF",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "amy warden"
-      ]
-    },
-    {
       "element": 391,
       "web_name": "Gvardiol",
       "team": "MCI",
@@ -1120,6 +1060,66 @@
       "benched": 1,
       "owners": [
         "Phil Johnson"
+      ]
+    },
+    {
+      "element": 390,
+      "web_name": "Rúben",
+      "team": "MCI",
+      "pos": "DEF",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "amy warden"
+      ]
+    },
+    {
+      "element": 544,
+      "web_name": "Xhaka",
+      "team": "SUN",
+      "pos": "MID",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "amy warden"
+      ]
+    },
+    {
+      "element": 14,
+      "web_name": "Eze",
+      "team": "ARS",
+      "pos": "MID",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "amy warden"
+      ]
+    },
+    {
+      "element": 502,
+      "web_name": "Robertson",
+      "team": "TOT",
+      "pos": "DEF",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 0,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
+        "amy warden"
       ]
     },
     {
@@ -1273,6 +1273,21 @@
       ]
     },
     {
+      "element": 57,
+      "web_name": "Petrović",
+      "team": "BOU",
+      "pos": "GKP",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 0,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
+        "Dan Birkinshaw"
+      ]
+    },
+    {
       "element": 236,
       "web_name": "Dewsbury-Hall",
       "team": "EVE",
@@ -1333,9 +1348,9 @@
       ]
     },
     {
-      "element": 57,
-      "web_name": "Petrović",
-      "team": "BOU",
+      "element": 171,
+      "web_name": "Dovin",
+      "team": "COV",
       "pos": "GKP",
       "owned": 1,
       "owned_pct": 4.0,
@@ -1344,7 +1359,22 @@
       "captained_pct": 0.0,
       "benched": 1,
       "owners": [
-        "Dan Birkinshaw"
+        "David Tonks"
+      ]
+    },
+    {
+      "element": 481,
+      "web_name": "Anderson",
+      "team": "MCI",
+      "pos": "MID",
+      "owned": 1,
+      "owned_pct": 4.0,
+      "started": 0,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
+        "David Tonks"
       ]
     },
     {
@@ -1375,36 +1405,6 @@
       "benched": 1,
       "owners": [
         "Mark Horton"
-      ]
-    },
-    {
-      "element": 171,
-      "web_name": "Dovin",
-      "team": "COV",
-      "pos": "GKP",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "David Tonks"
-      ]
-    },
-    {
-      "element": 481,
-      "web_name": "Anderson",
-      "team": "MCI",
-      "pos": "MID",
-      "owned": 1,
-      "owned_pct": 4.0,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "David Tonks"
       ]
     },
     {

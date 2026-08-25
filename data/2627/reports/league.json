@@ -2,7 +2,7 @@
   "season": "2627",
   "current_gw": 1,
   "finished": false,
-  "updated_at": "2026-08-25T00:00:14.662618+00:00",
+  "updated_at": "2026-08-25T08:42:50.745857+00:00",
   "league": {
     "id": 35621,
     "name": "Biddenham Fantasy League"
@@ -125,33 +125,6 @@
       ]
     },
     {
-      "entry": 6307268,
-      "manager": "amy warden",
-      "team": "Palmer Violets",
-      "rank": 5,
-      "last_rank": 0,
-      "rank_movement": -5,
-      "official_total": 60,
-      "gw_chip": null,
-      "gross_points": 60,
-      "hits": 0,
-      "total": 60,
-      "gw_points": 60,
-      "gw_hits": 0,
-      "chips_used": [],
-      "history": [
-        {
-          "gw": 1,
-          "points": 60,
-          "hits": 0,
-          "net": 60,
-          "total": 60,
-          "bench": 13,
-          "overall_rank": 1468670
-        }
-      ]
-    },
-    {
       "entry": 8787866,
       "manager": "Phil Johnson",
       "team": "As Shaw as can be",
@@ -174,6 +147,33 @@
           "net": 60,
           "total": 60,
           "bench": 6,
+          "overall_rank": 1468670
+        }
+      ]
+    },
+    {
+      "entry": 6307268,
+      "manager": "amy warden",
+      "team": "Palmer Violets",
+      "rank": 5,
+      "last_rank": 0,
+      "rank_movement": -5,
+      "official_total": 60,
+      "gw_chip": null,
+      "gross_points": 60,
+      "hits": 0,
+      "total": 60,
+      "gw_points": 60,
+      "gw_hits": 0,
+      "chips_used": [],
+      "history": [
+        {
+          "gw": 1,
+          "points": 60,
+          "hits": 0,
+          "net": 60,
+          "total": 60,
+          "bench": 13,
           "overall_rank": 1468670
         }
       ]
@@ -314,33 +314,6 @@
       ]
     },
     {
-      "entry": 8417919,
-      "manager": "James Marshall",
-      "team": "Rock And Iraolas",
-      "rank": 12,
-      "last_rank": 0,
-      "rank_movement": -12,
-      "official_total": 45,
-      "gw_chip": null,
-      "gross_points": 45,
-      "hits": 0,
-      "total": 45,
-      "gw_points": 45,
-      "gw_hits": 0,
-      "chips_used": [],
-      "history": [
-        {
-          "gw": 1,
-          "points": 45,
-          "hits": 0,
-          "net": 45,
-          "total": 45,
-          "bench": 22,
-          "overall_rank": 5156448
-        }
-      ]
-    },
-    {
       "entry": 6325720,
       "manager": "Dan Birkinshaw",
       "team": "MadjoKarp",
@@ -368,29 +341,29 @@
       ]
     },
     {
-      "entry": 941622,
-      "manager": "Mark Horton",
-      "team": "Vespa Mo Pedro",
-      "rank": 14,
+      "entry": 8417919,
+      "manager": "James Marshall",
+      "team": "Rock And Iraolas",
+      "rank": 12,
       "last_rank": 0,
-      "rank_movement": -14,
-      "official_total": 43,
+      "rank_movement": -12,
+      "official_total": 45,
       "gw_chip": null,
-      "gross_points": 43,
+      "gross_points": 45,
       "hits": 0,
-      "total": 43,
-      "gw_points": 43,
+      "total": 45,
+      "gw_points": 45,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
         {
           "gw": 1,
-          "points": 43,
+          "points": 45,
           "hits": 0,
-          "net": 43,
-          "total": 43,
-          "bench": 17,
-          "overall_rank": 5683587
+          "net": 45,
+          "total": 45,
+          "bench": 22,
+          "overall_rank": 5156448
         }
       ]
     },
@@ -417,6 +390,33 @@
           "net": 43,
           "total": 43,
           "bench": 5,
+          "overall_rank": 5683587
+        }
+      ]
+    },
+    {
+      "entry": 941622,
+      "manager": "Mark Horton",
+      "team": "Vespa Mo Pedro",
+      "rank": 14,
+      "last_rank": 0,
+      "rank_movement": -14,
+      "official_total": 43,
+      "gw_chip": null,
+      "gross_points": 43,
+      "hits": 0,
+      "total": 43,
+      "gw_points": 43,
+      "gw_hits": 0,
+      "chips_used": [],
+      "history": [
+        {
+          "gw": 1,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 43,
+          "bench": 17,
           "overall_rank": 5683587
         }
       ]
