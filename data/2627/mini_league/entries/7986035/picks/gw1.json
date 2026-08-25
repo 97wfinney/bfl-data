@@ -1,20 +1,27 @@
 {
   "active_chip": null,
-  "automatic_subs": [],
+  "automatic_subs": [
+    {
+      "entry": 7986035,
+      "element_in": 259,
+      "element_out": 272,
+      "event": 1
+    }
+  ],
   "entry_history": {
     "event": 1,
-    "points": 57,
-    "total_points": 57,
-    "rank": 2018822,
-    "rank_sort": 2208015,
-    "overall_rank": 2018818,
+    "points": 59,
+    "total_points": 59,
+    "rank": 1987559,
+    "rank_sort": 2179360,
+    "overall_rank": 1987556,
     "percentile_rank": 25,
-    "overall_rank_percentage": "23",
+    "overall_rank_percentage": "22",
     "bank": 0,
     "value": 1000,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 3
+    "points_on_bench": 1
   },
   "picks": [
     {
@@ -78,8 +85,20 @@
       "pos": "DEF"
     },
     {
-      "element": 426,
+      "element": 259,
       "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Issa Diop",
+      "web_name": "Diop",
+      "team": "IPS",
+      "pos": "DEF"
+    },
+    {
+      "element": 426,
+      "position": 7,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -91,7 +110,7 @@
     },
     {
       "element": 237,
-      "position": 7,
+      "position": 8,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -103,7 +122,7 @@
     },
     {
       "element": 40,
-      "position": 8,
+      "position": 9,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -115,7 +134,7 @@
     },
     {
       "element": 368,
-      "position": 9,
+      "position": 10,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -127,7 +146,7 @@
     },
     {
       "element": 411,
-      "position": 10,
+      "position": 11,
       "multiplier": 2,
       "is_captain": true,
       "is_vice_captain": false,
@@ -135,18 +154,6 @@
       "name": "Erling Haaland",
       "web_name": "Haaland",
       "team": "MCI",
-      "pos": "FWD"
-    },
-    {
-      "element": 272,
-      "position": 11,
-      "multiplier": 1,
-      "is_captain": false,
-      "is_vice_captain": false,
-      "element_type": 4,
-      "name": "Jonah Kusi-Asare",
-      "web_name": "Kusi-Asare",
-      "team": "FUL",
       "pos": "FWD"
     },
     {
@@ -162,16 +169,16 @@
       "pos": "GKP"
     },
     {
-      "element": 259,
+      "element": 272,
       "position": 13,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 2,
-      "name": "Issa Diop",
-      "web_name": "Diop",
-      "team": "IPS",
-      "pos": "DEF"
+      "element_type": 4,
+      "name": "Jonah Kusi-Asare",
+      "web_name": "Kusi-Asare",
+      "team": "FUL",
+      "pos": "FWD"
     },
     {
       "element": 212,

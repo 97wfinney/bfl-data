@@ -1,20 +1,27 @@
 {
   "active_chip": null,
-  "automatic_subs": [],
+  "automatic_subs": [
+    {
+      "entry": 6307268,
+      "element_in": 502,
+      "element_out": 499,
+      "event": 1
+    }
+  ],
   "entry_history": {
     "event": 1,
-    "points": 60,
-    "total_points": 60,
-    "rank": 1468673,
-    "rank_sort": 1590947,
-    "overall_rank": 1468670,
-    "percentile_rank": 20,
-    "overall_rank_percentage": "16",
+    "points": 63,
+    "total_points": 63,
+    "rank": 1282719,
+    "rank_sort": 1392607,
+    "overall_rank": 1282717,
+    "percentile_rank": 15,
+    "overall_rank_percentage": "14",
     "bank": 0,
     "value": 1000,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 13
+    "points_on_bench": 10
   },
   "picks": [
     {
@@ -54,14 +61,14 @@
       "pos": "DEF"
     },
     {
-      "element": 499,
+      "element": 502,
       "position": 4,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 2,
-      "name": "Pedro Porro Sauceda",
-      "web_name": "Pedro Porro",
+      "name": "Andrew Robertson",
+      "web_name": "Robertson",
       "team": "TOT",
       "pos": "DEF"
     },
@@ -126,20 +133,8 @@
       "pos": "MID"
     },
     {
-      "element": 411,
-      "position": 10,
-      "multiplier": 2,
-      "is_captain": true,
-      "is_vice_captain": false,
-      "element_type": 4,
-      "name": "Erling Haaland",
-      "web_name": "Haaland",
-      "team": "MCI",
-      "pos": "FWD"
-    },
-    {
       "element": 165,
-      "position": 11,
+      "position": 10,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -147,6 +142,18 @@
       "name": "João Pedro Junqueira de Jesus",
       "web_name": "João Pedro",
       "team": "CHE",
+      "pos": "FWD"
+    },
+    {
+      "element": 411,
+      "position": 11,
+      "multiplier": 2,
+      "is_captain": true,
+      "is_vice_captain": false,
+      "element_type": 4,
+      "name": "Erling Haaland",
+      "web_name": "Haaland",
+      "team": "MCI",
       "pos": "FWD"
     },
     {
@@ -162,14 +169,14 @@
       "pos": "GKP"
     },
     {
-      "element": 502,
+      "element": 499,
       "position": 13,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 2,
-      "name": "Andrew Robertson",
-      "web_name": "Robertson",
+      "name": "Pedro Porro Sauceda",
+      "web_name": "Pedro Porro",
       "team": "TOT",
       "pos": "DEF"
     },

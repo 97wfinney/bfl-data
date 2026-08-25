@@ -1,20 +1,27 @@
 {
   "active_chip": null,
-  "automatic_subs": [],
+  "automatic_subs": [
+    {
+      "entry": 8417919,
+      "element_in": 305,
+      "element_out": 499,
+      "event": 1
+    }
+  ],
   "entry_history": {
     "event": 1,
-    "points": 45,
-    "total_points": 45,
-    "rank": 5156456,
-    "rank_sort": 5407446,
-    "overall_rank": 5156448,
+    "points": 47,
+    "total_points": 47,
+    "rank": 5282781,
+    "rank_sort": 5555894,
+    "overall_rank": 5282775,
     "percentile_rank": 60,
-    "overall_rank_percentage": "58",
+    "overall_rank_percentage": "59",
     "bank": 5,
     "value": 1000,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 22
+    "points_on_bench": 20
   },
   "picks": [
     {
@@ -30,15 +37,15 @@
       "pos": "GKP"
     },
     {
-      "element": 499,
+      "element": 305,
       "position": 2,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 2,
-      "name": "Pedro Porro Sauceda",
-      "web_name": "Pedro Porro",
-      "team": "TOT",
+      "name": "Leif Davis",
+      "web_name": "Davis",
+      "team": "IPS",
       "pos": "DEF"
     },
     {
@@ -162,15 +169,15 @@
       "pos": "GKP"
     },
     {
-      "element": 305,
+      "element": 499,
       "position": 13,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 2,
-      "name": "Leif Davis",
-      "web_name": "Davis",
-      "team": "IPS",
+      "name": "Pedro Porro Sauceda",
+      "web_name": "Pedro Porro",
+      "team": "TOT",
       "pos": "DEF"
     },
     {

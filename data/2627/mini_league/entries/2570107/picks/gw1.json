@@ -1,20 +1,33 @@
 {
   "active_chip": null,
-  "automatic_subs": [],
+  "automatic_subs": [
+    {
+      "entry": 2570107,
+      "element_in": 175,
+      "element_out": 208,
+      "event": 1
+    },
+    {
+      "entry": 2570107,
+      "element_in": 229,
+      "element_out": 25,
+      "event": 1
+    }
+  ],
   "entry_history": {
     "event": 1,
-    "points": 32,
-    "total_points": 32,
-    "rank": 7892872,
-    "rank_sort": 7924799,
-    "overall_rank": 7892854,
-    "percentile_rank": 90,
-    "overall_rank_percentage": "89",
+    "points": 39,
+    "total_points": 39,
+    "rank": 7295429,
+    "rank_sort": 7343494,
+    "overall_rank": 7295417,
+    "percentile_rank": 85,
+    "overall_rank_percentage": "82",
     "bank": 20,
     "value": 1000,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 7
+    "points_on_bench": 0
   },
   "picks": [
     {
@@ -66,8 +79,32 @@
       "pos": "DEF"
     },
     {
-      "element": 41,
+      "element": 175,
       "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Milan van Ewijk",
+      "web_name": "van Ewijk",
+      "team": "COV",
+      "pos": "DEF"
+    },
+    {
+      "element": 229,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "James Tarkowski",
+      "web_name": "Tarkowski",
+      "team": "EVE",
+      "pos": "DEF"
+    },
+    {
+      "element": 41,
+      "position": 7,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -78,20 +115,8 @@
       "pos": "MID"
     },
     {
-      "element": 480,
-      "position": 6,
-      "multiplier": 1,
-      "is_captain": false,
-      "is_vice_captain": false,
-      "element_type": 3,
-      "name": "Morgan Gibbs-White",
-      "web_name": "Gibbs-White",
-      "team": "NFO",
-      "pos": "MID"
-    },
-    {
       "element": 40,
-      "position": 7,
+      "position": 8,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -103,7 +128,7 @@
     },
     {
       "element": 426,
-      "position": 8,
+      "position": 9,
       "multiplier": 2,
       "is_captain": true,
       "is_vice_captain": false,
@@ -114,20 +139,20 @@
       "pos": "MID"
     },
     {
-      "element": 208,
-      "position": 9,
+      "element": 480,
+      "position": 10,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 3,
-      "name": "Ismaïla Sarr",
-      "web_name": "Sarr",
-      "team": "CRY",
+      "name": "Morgan Gibbs-White",
+      "web_name": "Gibbs-White",
+      "team": "NFO",
       "pos": "MID"
     },
     {
       "element": 106,
-      "position": 10,
+      "position": 11,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": true,
@@ -135,18 +160,6 @@
       "name": "Igor Thiago Nascimento Rodrigues",
       "web_name": "Thiago",
       "team": "BRE",
-      "pos": "FWD"
-    },
-    {
-      "element": 25,
-      "position": 11,
-      "multiplier": 1,
-      "is_captain": false,
-      "is_vice_captain": false,
-      "element_type": 4,
-      "name": "Viktor Gyökeres",
-      "web_name": "Gyökeres",
-      "team": "ARS",
       "pos": "FWD"
     },
     {
@@ -162,28 +175,28 @@
       "pos": "GKP"
     },
     {
-      "element": 175,
+      "element": 208,
       "position": 13,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 2,
-      "name": "Milan van Ewijk",
-      "web_name": "van Ewijk",
-      "team": "COV",
-      "pos": "DEF"
+      "element_type": 3,
+      "name": "Ismaïla Sarr",
+      "web_name": "Sarr",
+      "team": "CRY",
+      "pos": "MID"
     },
     {
-      "element": 229,
+      "element": 25,
       "position": 14,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 2,
-      "name": "James Tarkowski",
-      "web_name": "Tarkowski",
-      "team": "EVE",
-      "pos": "DEF"
+      "element_type": 4,
+      "name": "Viktor Gyökeres",
+      "web_name": "Gyökeres",
+      "team": "ARS",
+      "pos": "FWD"
     },
     {
       "element": 136,

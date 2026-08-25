@@ -1,15 +1,22 @@
 {
   "active_chip": "bboost",
-  "automatic_subs": [],
+  "automatic_subs": [
+    {
+      "entry": 6929285,
+      "element_in": 112,
+      "element_out": 452,
+      "event": 1
+    }
+  ],
   "entry_history": {
     "event": 1,
     "points": 67,
     "total_points": 67,
-    "rank": 642808,
-    "rank_sort": 710942,
-    "overall_rank": 642806,
+    "rank": 787027,
+    "rank_sort": 869840,
+    "overall_rank": 787025,
     "percentile_rank": 10,
-    "overall_rank_percentage": "7",
+    "overall_rank_percentage": "9",
     "bank": 20,
     "value": 1000,
     "event_transfers": 0,
@@ -78,8 +85,20 @@
       "pos": "DEF"
     },
     {
-      "element": 427,
+      "element": 112,
       "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Jan Paul van Hecke",
+      "web_name": "Van Hecke",
+      "team": "TOT",
+      "pos": "DEF"
+    },
+    {
+      "element": 427,
+      "position": 7,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -87,18 +106,6 @@
       "name": "Bryan Mbeumo",
       "web_name": "Mbeumo",
       "team": "MUN",
-      "pos": "MID"
-    },
-    {
-      "element": 452,
-      "position": 7,
-      "multiplier": 1,
-      "is_captain": false,
-      "is_vice_captain": false,
-      "element_type": 3,
-      "name": "Bruno Guimarães Rodriguez Moura",
-      "web_name": "Bruno G.",
-      "team": "ARS",
       "pos": "MID"
     },
     {
@@ -162,16 +169,16 @@
       "pos": "GKP"
     },
     {
-      "element": 112,
+      "element": 452,
       "position": 13,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 2,
-      "name": "Jan Paul van Hecke",
-      "web_name": "Van Hecke",
-      "team": "TOT",
-      "pos": "DEF"
+      "element_type": 3,
+      "name": "Bruno Guimarães Rodriguez Moura",
+      "web_name": "Bruno G.",
+      "team": "ARS",
+      "pos": "MID"
     },
     {
       "element": 124,

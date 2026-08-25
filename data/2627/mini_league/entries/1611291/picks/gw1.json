@@ -1,20 +1,39 @@
 {
   "active_chip": null,
-  "automatic_subs": [],
+  "automatic_subs": [
+    {
+      "entry": 1611291,
+      "element_in": 175,
+      "element_out": 31,
+      "event": 1
+    },
+    {
+      "entry": 1611291,
+      "element_in": 456,
+      "element_out": 499,
+      "event": 1
+    },
+    {
+      "entry": 1611291,
+      "element_in": 346,
+      "element_out": 212,
+      "event": 1
+    }
+  ],
   "entry_history": {
     "event": 1,
-    "points": 28,
-    "total_points": 28,
-    "rank": 8348968,
-    "rank_sort": 8360970,
-    "overall_rank": 8348950,
-    "percentile_rank": 95,
-    "overall_rank_percentage": "94",
+    "points": 30,
+    "total_points": 30,
+    "rank": 8494432,
+    "rank_sort": 8504924,
+    "overall_rank": 8494418,
+    "percentile_rank": 100,
+    "overall_rank_percentage": "95",
     "bank": 0,
     "value": 1000,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 8
+    "points_on_bench": 6
   },
   "picks": [
     {
@@ -30,32 +49,20 @@
       "pos": "GKP"
     },
     {
-      "element": 499,
+      "element": 175,
       "position": 2,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 2,
-      "name": "Pedro Porro Sauceda",
-      "web_name": "Pedro Porro",
-      "team": "TOT",
-      "pos": "DEF"
-    },
-    {
-      "element": 31,
-      "position": 3,
-      "multiplier": 1,
-      "is_captain": false,
-      "is_vice_captain": false,
-      "element_type": 2,
-      "name": "Ezri Konsa Ngoyo",
-      "web_name": "Konsa",
-      "team": "ARS",
+      "name": "Milan van Ewijk",
+      "web_name": "van Ewijk",
+      "team": "COV",
       "pos": "DEF"
     },
     {
       "element": 423,
-      "position": 4,
+      "position": 3,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -67,7 +74,7 @@
     },
     {
       "element": 8,
-      "position": 5,
+      "position": 4,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -76,6 +83,18 @@
       "web_name": "Calafiori",
       "team": "ARS",
       "pos": "DEF"
+    },
+    {
+      "element": 456,
+      "position": 5,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 3,
+      "name": "Jacob Ramsey",
+      "web_name": "J.Ramsey",
+      "team": "NEW",
+      "pos": "MID"
     },
     {
       "element": 426,
@@ -114,16 +133,16 @@
       "pos": "MID"
     },
     {
-      "element": 212,
+      "element": 346,
       "position": 9,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 3,
-      "name": "Will Hughes",
-      "web_name": "Hughes",
-      "team": "CRY",
-      "pos": "MID"
+      "element_type": 4,
+      "name": "Dominic Calvert-Lewin",
+      "web_name": "Calvert-Lewin",
+      "team": "LEE",
+      "pos": "FWD"
     },
     {
       "element": 411,
@@ -162,40 +181,40 @@
       "pos": "GKP"
     },
     {
-      "element": 175,
+      "element": 31,
       "position": 13,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 2,
-      "name": "Milan van Ewijk",
-      "web_name": "van Ewijk",
-      "team": "COV",
+      "name": "Ezri Konsa Ngoyo",
+      "web_name": "Konsa",
+      "team": "ARS",
       "pos": "DEF"
     },
     {
-      "element": 456,
+      "element": 499,
       "position": 14,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 3,
-      "name": "Jacob Ramsey",
-      "web_name": "J.Ramsey",
-      "team": "NEW",
-      "pos": "MID"
+      "element_type": 2,
+      "name": "Pedro Porro Sauceda",
+      "web_name": "Pedro Porro",
+      "team": "TOT",
+      "pos": "DEF"
     },
     {
-      "element": 346,
+      "element": 212,
       "position": 15,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 4,
-      "name": "Dominic Calvert-Lewin",
-      "web_name": "Calvert-Lewin",
-      "team": "LEE",
-      "pos": "FWD"
+      "element_type": 3,
+      "name": "Will Hughes",
+      "web_name": "Hughes",
+      "team": "CRY",
+      "pos": "MID"
     }
   ]
 }

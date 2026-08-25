@@ -1,20 +1,33 @@
 {
   "active_chip": null,
-  "automatic_subs": [],
+  "automatic_subs": [
+    {
+      "entry": 2379371,
+      "element_in": 259,
+      "element_out": 400,
+      "event": 1
+    },
+    {
+      "entry": 2379371,
+      "element_in": 539,
+      "element_out": 452,
+      "event": 1
+    }
+  ],
   "entry_history": {
     "event": 1,
-    "points": 48,
-    "total_points": 48,
-    "rank": 4296654,
-    "rank_sort": 4374073,
-    "overall_rank": 4296648,
+    "points": 51,
+    "total_points": 51,
+    "rank": 4087192,
+    "rank_sort": 4165175,
+    "overall_rank": 4087187,
     "percentile_rank": 50,
-    "overall_rank_percentage": "48",
+    "overall_rank_percentage": "46",
     "bank": 0,
     "value": 1000,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 3
+    "points_on_bench": 0
   },
   "picks": [
     {
@@ -66,20 +79,32 @@
       "pos": "DEF"
     },
     {
-      "element": 397,
+      "element": 259,
       "position": 5,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 3,
-      "name": "Antoine Semenyo",
-      "web_name": "Semenyo",
-      "team": "MCI",
-      "pos": "MID"
+      "element_type": 2,
+      "name": "Issa Diop",
+      "web_name": "Diop",
+      "team": "IPS",
+      "pos": "DEF"
+    },
+    {
+      "element": 539,
+      "position": 6,
+      "multiplier": 1,
+      "is_captain": false,
+      "is_vice_captain": false,
+      "element_type": 2,
+      "name": "Luke O'Nien",
+      "web_name": "O'Nien",
+      "team": "SUN",
+      "pos": "DEF"
     },
     {
       "element": 557,
-      "position": 6,
+      "position": 7,
       "multiplier": 2,
       "is_captain": true,
       "is_vice_captain": false,
@@ -91,7 +116,7 @@
     },
     {
       "element": 40,
-      "position": 7,
+      "position": 8,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
@@ -102,27 +127,15 @@
       "pos": "MID"
     },
     {
-      "element": 400,
-      "position": 8,
-      "multiplier": 1,
-      "is_captain": false,
-      "is_vice_captain": false,
-      "element_type": 3,
-      "name": "Jérémy Doku",
-      "web_name": "Doku",
-      "team": "MCI",
-      "pos": "MID"
-    },
-    {
-      "element": 452,
+      "element": 397,
       "position": 9,
       "multiplier": 1,
       "is_captain": false,
       "is_vice_captain": false,
       "element_type": 3,
-      "name": "Bruno Guimarães Rodriguez Moura",
-      "web_name": "Bruno G.",
-      "team": "ARS",
+      "name": "Antoine Semenyo",
+      "web_name": "Semenyo",
+      "team": "MCI",
       "pos": "MID"
     },
     {
@@ -162,28 +175,28 @@
       "pos": "GKP"
     },
     {
-      "element": 259,
+      "element": 400,
       "position": 13,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 2,
-      "name": "Issa Diop",
-      "web_name": "Diop",
-      "team": "IPS",
-      "pos": "DEF"
+      "element_type": 3,
+      "name": "Jérémy Doku",
+      "web_name": "Doku",
+      "team": "MCI",
+      "pos": "MID"
     },
     {
-      "element": 539,
+      "element": 452,
       "position": 14,
       "multiplier": 0,
       "is_captain": false,
       "is_vice_captain": false,
-      "element_type": 2,
-      "name": "Luke O'Nien",
-      "web_name": "O'Nien",
-      "team": "SUN",
-      "pos": "DEF"
+      "element_type": 3,
+      "name": "Bruno Guimarães Rodriguez Moura",
+      "web_name": "Bruno G.",
+      "team": "ARS",
+      "pos": "MID"
     },
     {
       "element": 272,
