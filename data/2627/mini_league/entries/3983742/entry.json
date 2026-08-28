@@ -386,6 +386,52 @@
         "entry_last_rank": 0
       },
       {
+        "id": 431170,
+        "name": "Adobe Express Badge League",
+        "short_name": "partner-adobe",
+        "created": "2026-07-30T12:01:10.398217Z",
+        "closed": false,
+        "rank": null,
+        "max_entries": null,
+        "league_type": "s",
+        "scoring": "c",
+        "admin_entry": null,
+        "start_event": 1,
+        "entry_can_leave": false,
+        "entry_can_admin": false,
+        "entry_can_invite": false,
+        "has_cup": false,
+        "cup_league": null,
+        "cup_qualified": null,
+        "rank_count": 1375974,
+        "entry_percentile_rank": null,
+        "active_phases": [
+          {
+            "phase": 1,
+            "rank": 0,
+            "last_rank": 0,
+            "rank_sort": 0,
+            "total": 0,
+            "league_id": 431170,
+            "rank_count": 1375974,
+            "entry_percentile_rank": null
+          },
+          {
+            "phase": 2,
+            "rank": 0,
+            "last_rank": 0,
+            "rank_sort": 0,
+            "total": 0,
+            "league_id": 431170,
+            "rank_count": 1380414,
+            "entry_percentile_rank": null
+          }
+        ],
+        "featured_entry_ids": [],
+        "entry_rank": 0,
+        "entry_last_rank": 0
+      },
+      {
         "id": 843412,
         "name": "League 843412",
         "short_name": null,
@@ -644,5 +690,5 @@
   "last_deadline_bank": 0,
   "last_deadline_value": 1000,
   "last_deadline_total_transfers": 0,
-  "club_badge_src": "Pending"
+  "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/3983742/f6b04a36-dc77-4a5a-8db2-23cff7878d33.png"
 }
