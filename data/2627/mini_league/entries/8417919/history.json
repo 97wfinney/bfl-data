@@ -14,6 +14,21 @@
       "event_transfers": 0,
       "event_transfers_cost": 0,
       "points_on_bench": 20
+    },
+    {
+      "event": 2,
+      "points": 13,
+      "total_points": 60,
+      "rank": 6063578,
+      "rank_sort": 6719307,
+      "overall_rank": 6190720,
+      "percentile_rank": 65,
+      "overall_rank_percentage": "62",
+      "bank": 5,
+      "value": 1001,
+      "event_transfers": 0,
+      "event_transfers_cost": 0,
+      "points_on_bench": 0
     }
   ],
   "past": [
@@ -24,5 +39,11 @@
       "rank_percentage": "21"
     }
   ],
-  "chips": []
+  "chips": [
+    {
+      "name": "bboost",
+      "time": "2026-08-28T10:15:31.017568Z",
+      "event": 2
+    }
+  ]
 }
