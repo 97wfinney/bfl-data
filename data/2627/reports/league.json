@@ -2,7 +2,7 @@
   "season": "2627",
   "current_gw": 2,
   "finished": false,
-  "updated_at": "2026-09-01T00:00:14.651885+00:00",
+  "updated_at": "2026-09-01T05:33:29.004400+00:00",
   "league": {
     "id": 35621,
     "name": "Biddenham Fantasy League"
@@ -557,49 +557,13 @@
       ]
     },
     {
-      "entry": 6325720,
-      "manager": "Dan Birkinshaw",
-      "team": "MadjoKarp",
-      "rank": 16,
-      "last_rank": 9,
-      "rank_movement": -7,
-      "official_total": 127,
-      "gw_chip": null,
-      "gross_points": 127,
-      "hits": 0,
-      "total": 127,
-      "gw_points": 74,
-      "gw_hits": 0,
-      "chips_used": [],
-      "history": [
-        {
-          "gw": 1,
-          "points": 53,
-          "hits": 0,
-          "net": 53,
-          "total": 53,
-          "bench": 4,
-          "overall_rank": 3482299
-        },
-        {
-          "gw": 2,
-          "points": 74,
-          "hits": 0,
-          "net": 74,
-          "total": 127,
-          "bench": 10,
-          "overall_rank": 4777008
-        }
-      ]
-    },
-    {
       "entry": 5006658,
       "manager": "Abi Speight",
       "team": "Fantaspeight",
-      "rank": 17,
+      "rank": 16,
       "last_rank": 8,
-      "rank_movement": -9,
-      "official_total": 126,
+      "rank_movement": -8,
+      "official_total": 128,
       "gw_chip": "bboost",
       "gross_points": 126,
       "hits": 0,
@@ -627,6 +591,42 @@
           "total": 126,
           "bench": 0,
           "overall_rank": 4911010
+        }
+      ]
+    },
+    {
+      "entry": 6325720,
+      "manager": "Dan Birkinshaw",
+      "team": "MadjoKarp",
+      "rank": 17,
+      "last_rank": 9,
+      "rank_movement": -8,
+      "official_total": 127,
+      "gw_chip": null,
+      "gross_points": 127,
+      "hits": 0,
+      "total": 127,
+      "gw_points": 74,
+      "gw_hits": 0,
+      "chips_used": [],
+      "history": [
+        {
+          "gw": 1,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 53,
+          "bench": 4,
+          "overall_rank": 3482299
+        },
+        {
+          "gw": 2,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 127,
+          "bench": 10,
+          "overall_rank": 4777008
         }
       ]
     },
@@ -891,7 +891,7 @@
       "rank": 25,
       "last_rank": 23,
       "rank_movement": -2,
-      "official_total": 95,
+      "official_total": 97,
       "gw_chip": null,
       "gross_points": 95,
       "hits": 0,
