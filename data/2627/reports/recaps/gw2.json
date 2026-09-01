@@ -1,0 +1,361 @@
+{
+  "season": "2627",
+  "gw": 2,
+  "league": "Biddenham Fantasy League",
+  "generated_at": "2026-09-01T05:43:28.508835+00:00",
+  "manager_count": 25,
+  "gws_remaining": 36,
+  "headline": "Finney takes the throne as Horton posts a record-breaking 116",
+  "summary": "Will Finney’s 106-point week puts 0v3rf1tt3d.h5 top of the Biddenham Fantasy League on 172, 10 clear of James Geary. But Mark Horton’s 116 was the gameweek’s statement score, lifting Vespa Mo Pedro 10 places and to within a single point of third.",
+  "report": "There is a new leader in the Biddenham Fantasy League after Gameweek 2. Will Finney and 0v3rf1tt3d.h5 rise one place to first on 172, with James Geary’s Šeško Express charging 10 places into second on 162. The early title race is already lively: Finney holds a 10-point lead, while Louis Grimoldby sits third on 160 and Mark Horton is immediately behind on 159. With 36 gameweeks remaining, nobody is getting comfortable.\n\nHorton was the undisputed manager of the week. Vespa Mo Pedro delivered 116 points without taking a hit, the league’s top score ahead of Geary’s 112 and Grimoldby’s 107. It is also the BFL season record so far, set in Gameweek 2, and it powered Horton up 10 places. Not bad for a week in which the league average was 84.0 and the global average was 79.\n\nFinney’s route to the summit featured the captaincy call of the week: Bruno Fernandes wore the armband for 23 points, doubled to a 46-point return. Haaland was the popular choice, captained by 12 managers, and his 13 points were perfectly respectable; Fernandes, owned by 13 managers, was the real jackpot. At the other end, Paul Alexis captained Tzolis for 0, took a 4-point hit and finished on 50 from a gross 54. ...After Review fell 12 places, the largest drop of the week, and collected the wooden spoon.\n\nThe differential cupboard had plenty of useful ingredients. Georg Coakley and Phil Johnson were the only two with Tarkowski’s 12 points, while Jamie Mitchell had Hall’s 11 all to himself. Alan Eckett-Brown’s Saka returned 11, Ali Smith’s Schade scored 10, George Foy’s Foden brought in 9, and David Bailey’s Ballard supplied 8. Meanwhile, olly barnes will be looking at a 26-point bench and wondering what might have been, even after Grasshoppers remained fifth on 150.\n\nTwo bench boosts were deployed: Abi Speight scored 70 with bboost, while James Marshall’s bboost produced 63. That leaves 19 bench boosts still available across the league, with all 25 triple captain and free hit chips untouched.\n\nBeyond the summit, the margins are deliciously thin. Geary is only 2 points ahead of Grimoldby, who is just 1 ahead of Horton; fifth-placed olly barnes leads Vaughan Cosbie-Ross by 6 after Cosbie-Ross climbed a league-best 11 places with 105. Finney remains the hottest manager on 172 across the last three, while Hayley Phelan is coldest on 95. It is only Gameweek 2, but the table has already found its drama.",
+  "facts": {
+    "league": "Biddenham Fantasy League",
+    "season": "2627",
+    "gw": 2,
+    "manager_count": 25,
+    "gws_remaining": 36,
+    "title_race": {
+      "leader": {
+        "manager": "Will Finney",
+        "team": "0v3rf1tt3d.h5",
+        "total": 172
+      },
+      "second": {
+        "manager": "James Geary",
+        "team": "Šeško Express",
+        "total": 162,
+        "gap": 10
+      },
+      "lead_changed": true,
+      "top5": [
+        {
+          "manager": "Will Finney",
+          "team": "0v3rf1tt3d.h5",
+          "total": 172,
+          "gw_net": 106,
+          "rank": 1,
+          "movement": 1
+        },
+        {
+          "manager": "James Geary",
+          "team": "Šeško Express",
+          "total": 162,
+          "gw_net": 112,
+          "rank": 2,
+          "movement": 10
+        },
+        {
+          "manager": "Louis Grimoldby",
+          "team": "Grim FC",
+          "total": 160,
+          "gw_net": 107,
+          "rank": 3,
+          "movement": 6
+        },
+        {
+          "manager": "Mark Horton",
+          "team": "Vespa Mo Pedro",
+          "total": 159,
+          "gw_net": 116,
+          "rank": 4,
+          "movement": 10
+        },
+        {
+          "manager": "olly barnes",
+          "team": "Grasshoppers",
+          "total": 150,
+          "gw_net": 85,
+          "rank": 5,
+          "movement": -2
+        }
+      ]
+    },
+    "gameweek": {
+      "league_avg": 84.0,
+      "global_avg": 79,
+      "global_highest": 161,
+      "manager_of_week": {
+        "manager": "Mark Horton",
+        "team": "Vespa Mo Pedro",
+        "gross": 116,
+        "hits": 0,
+        "net": 116
+      },
+      "wooden_spoon": {
+        "manager": "Paul Alexis",
+        "team": "...After Review",
+        "gross": 54,
+        "net": 50
+      },
+      "top_scores": [
+        {
+          "manager": "Mark Horton",
+          "net": 116,
+          "gross": 116
+        },
+        {
+          "manager": "James Geary",
+          "net": 112,
+          "gross": 112
+        },
+        {
+          "manager": "Louis Grimoldby",
+          "net": 107,
+          "gross": 107
+        }
+      ]
+    },
+    "movers": {
+      "climbers": [
+        {
+          "manager": "Vaughan Cosbie-Ross",
+          "movement": 11,
+          "gw_net": 105
+        },
+        {
+          "manager": "James Geary",
+          "movement": 10,
+          "gw_net": 112
+        },
+        {
+          "manager": "Mark Horton",
+          "movement": 10,
+          "gw_net": 116
+        }
+      ],
+      "fallers": [
+        {
+          "manager": "Paul Alexis",
+          "movement": -12,
+          "gw_net": 50
+        },
+        {
+          "manager": "amy warden",
+          "movement": -10,
+          "gw_net": 66
+        },
+        {
+          "manager": "David Bailey",
+          "movement": -9,
+          "gw_net": 71
+        }
+      ]
+    },
+    "captaincy": {
+      "most_popular": {
+        "web_name": "Haaland",
+        "count": 12,
+        "points": 13
+      },
+      "genius": {
+        "manager": "Will Finney",
+        "web_name": "B.Fernandes",
+        "points": 23,
+        "multiplier": 2
+      },
+      "howler": {
+        "manager": "Paul Alexis",
+        "web_name": "Tzolis",
+        "points": 0
+      }
+    },
+    "chips": {
+      "played": [
+        {
+          "manager": "Abi Speight",
+          "chip": "bboost",
+          "gw_net": 70
+        },
+        {
+          "manager": "James Marshall",
+          "chip": "bboost",
+          "gw_net": 63
+        }
+      ],
+      "remaining": {
+        "triple_captain": 25,
+        "bench_boost": 19,
+        "free_hit": 25
+      }
+    },
+    "hits": {
+      "takers": [
+        {
+          "manager": "Paul Alexis",
+          "cost": 4,
+          "gw_gross": 54,
+          "gw_net": 50
+        }
+      ],
+      "biggest": {
+        "manager": "Paul Alexis",
+        "cost": 4,
+        "gw_gross": 54,
+        "gw_net": 50
+      }
+    },
+    "differentials": [
+      {
+        "web_name": "Tarkowski",
+        "team": "EVE",
+        "points": 12,
+        "owned": 2,
+        "owners": [
+          "Georg Coakley",
+          "Phil Johnson"
+        ]
+      },
+      {
+        "web_name": "Hall",
+        "team": "NEW",
+        "points": 11,
+        "owned": 1,
+        "owners": [
+          "Jamie Mitchell"
+        ]
+      },
+      {
+        "web_name": "Saka",
+        "team": "ARS",
+        "points": 11,
+        "owned": 1,
+        "owners": [
+          "Alan Eckett-Brown"
+        ]
+      },
+      {
+        "web_name": "Schade",
+        "team": "BRE",
+        "points": 10,
+        "owned": 1,
+        "owners": [
+          "Ali Smith"
+        ]
+      },
+      {
+        "web_name": "Foden",
+        "team": "MCI",
+        "points": 9,
+        "owned": 1,
+        "owners": [
+          "George Foy"
+        ]
+      },
+      {
+        "web_name": "Ballard",
+        "team": "SUN",
+        "points": 8,
+        "owned": 1,
+        "owners": [
+          "David Bailey"
+        ]
+      }
+    ],
+    "template": [
+      {
+        "web_name": "Haaland",
+        "team": "MCI",
+        "owned": 20,
+        "owned_pct": 80.0,
+        "points": 13
+      },
+      {
+        "web_name": "João Pedro",
+        "team": "CHE",
+        "owned": 17,
+        "owned_pct": 68.0,
+        "points": 9
+      },
+      {
+        "web_name": "B.Fernandes",
+        "team": "MUN",
+        "owned": 13,
+        "owned_pct": 52.0,
+        "points": 23
+      },
+      {
+        "web_name": "Calafiori",
+        "team": "ARS",
+        "owned": 13,
+        "owned_pct": 52.0,
+        "points": 11
+      },
+      {
+        "web_name": "Kinsky",
+        "team": "TOT",
+        "owned": 12,
+        "owned_pct": 48.0,
+        "points": 1
+      },
+      {
+        "web_name": "Mbeumo",
+        "team": "MUN",
+        "owned": 11,
+        "owned_pct": 44.0,
+        "points": 11
+      },
+      {
+        "web_name": "Calvert-Lewin",
+        "team": "LEE",
+        "owned": 10,
+        "owned_pct": 40.0,
+        "points": 8
+      },
+      {
+        "web_name": "Semenyo",
+        "team": "MCI",
+        "owned": 10,
+        "owned_pct": 40.0,
+        "points": 5
+      }
+    ],
+    "bench_agony": {
+      "manager": "olly barnes",
+      "bench_points": 26
+    },
+    "form": {
+      "hottest": {
+        "manager": "Will Finney",
+        "last3_net": 172
+      },
+      "coldest": {
+        "manager": "Hayley Phelan",
+        "last3_net": 95
+      }
+    },
+    "season_record": {
+      "manager": "Mark Horton",
+      "gw": 2,
+      "net": 116
+    },
+    "battles": [
+      {
+        "higher": "James Geary",
+        "lower": "Louis Grimoldby",
+        "gap": 2,
+        "ranks": [
+          2,
+          3
+        ]
+      },
+      {
+        "higher": "Louis Grimoldby",
+        "lower": "Mark Horton",
+        "gap": 1,
+        "ranks": [
+          3,
+          4
+        ]
+      },
+      {
+        "higher": "olly barnes",
+        "lower": "Vaughan Cosbie-Ross",
+        "gap": 6,
+        "ranks": [
+          5,
+          6
+        ]
+      }
+    ]
+  }
+}
