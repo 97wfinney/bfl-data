@@ -2,7 +2,8 @@
 
 Curates the league's own story for the latest FINISHED gameweek from data the
 pipeline already collected (league.json + each manager's enriched picks) plus a
-single live-event fetch for real player points, then asks gpt-5.5 to write it up.
+single live-event fetch for real player points, then asks the configured OpenAI
+model (fpl_common.OPENAI_MODEL) to write it up.
 
 Two pieces of prose come back: a punchy `summary` for the homepage and a full
 `report` for the dedicated weekly-report page. The deterministic `facts` block
@@ -55,6 +56,43 @@ def _latest_finished_gw(bootstrap):
     events = bootstrap.get("events", []) if bootstrap else []
     finished = [e["id"] for e in events if e.get("finished") and isinstance(e.get("id"), int)]
     return max(finished) if finished else None
+
+
+def _fixtures_complete_gws():
+    """(strict_gw, provisional_gw) - latest GW complete by each fixture flag.
+
+    FPL's `finished` flags lag badly in 2026/27, at both event and fixture
+    level: GW2's ten fixtures all still read finished=False four days after
+    the earliest kicked off, while every one had finished_provisional=True.
+
+    So we report both. `finished` means bonus is confirmed final;
+    `finished_provisional` means the match ended and provisional bonus was
+    applied, which lands minutes after full time and is almost always the
+    same numbers. run() prefers strict and falls back to provisional, so the
+    recap uses final figures whenever FPL is keeping up and is never blocked
+    when it isn't.
+
+    Deliberately NOT used anywhere else: the rest of the pipeline still
+    treats the gameweek as current until FPL says otherwise.
+    """
+    fixtures = fc.fetch_json(fc.BASE_URL + "fixtures/")
+    if not fixtures:
+        return None, None
+
+    fin, prov = {}, {}
+    for f in fixtures:
+        ev = f.get("event")
+        if not isinstance(ev, int):
+            continue
+        fin.setdefault(ev, []).append(bool(f.get("finished")))
+        prov.setdefault(ev, []).append(
+            bool(f.get("finished")) or bool(f.get("finished_provisional")))
+
+    def latest(d):
+        done = [ev for ev, flags in d.items() if flags and all(flags)]
+        return max(done) if done else None
+
+    return latest(fin), latest(prov)
 
 
 def _event_row(bootstrap, gw):
@@ -311,7 +349,8 @@ def _parse_writeup(text, facts):
             "summary": str(obj.get("summary", "")).strip(),
             "report": str(obj.get("report", "")).strip(),
         }
-    except Exception:
+    except Exception as e:
+        fc.log(f"recap: write-up unparseable ({e}); using deterministic fallback.")
         return _fallback(facts)
 
 
@@ -336,11 +375,26 @@ def _writeup(facts):
         from openai import OpenAI
         client = OpenAI()
         resp = client.responses.create(
-            model= fc.OPENAI_MODEL,
+            model=fc.OPENAI_MODEL,
             instructions=SYSTEM_PROMPT,
             input=json.dumps(facts, ensure_ascii=False),
             max_output_tokens=MAX_OUTPUT_TOKENS,
         )
+
+        # A cut-off response is always invalid JSON; name the real cause in the
+        # log rather than leaving a confusing parse error.
+        if getattr(resp, "status", None) == "incomplete":
+            details = getattr(resp, "incomplete_details", None)
+            reason = getattr(details, "reason", None) or "unknown"
+            raise ValueError(f"response incomplete ({reason})")
+
+        usage = getattr(resp, "usage", None)
+        if usage is not None:
+            out = getattr(usage, "output_tokens", "?")
+            udetails = getattr(usage, "output_tokens_details", None)
+            reasoning = getattr(udetails, "reasoning_tokens", "?") if udetails else "?"
+            fc.log(f"recap: usage output={out} (reasoning={reasoning}) cap={MAX_OUTPUT_TOKENS}")
+
         return _parse_writeup(resp.output_text, facts)
     except Exception as e:
         fc.log(f"recap: AI write-up failed ({e}); using fallback.")
@@ -368,10 +422,21 @@ def run(bootstrap=None, season=None):
         return
     season = season or fc.derive_season()
 
-    gw = _latest_finished_gw(bootstrap)
+    # All three checks run and the LATEST gameweek wins. They must not be tried
+    # in sequence: once FPL flags GW1 finished, an event-flag-only check keeps
+    # returning 1 forever and a later, provisionally-complete GW2 never gets
+    # considered.
+    event_gw = _latest_finished_gw(bootstrap)
+    strict_gw, prov_gw = _fixtures_complete_gws()
+    gw = max((g for g in (event_gw, strict_gw, prov_gw) if g), default=None)
+
     if not gw:
-        fc.log("recap: no finished gameweek yet; skipping.")
+        fc.log("recap: no completed gameweek yet; skipping.")
         return
+    if gw != event_gw:
+        how = "all fixtures finished" if gw == strict_gw else \
+              "all fixtures provisionally complete, bonus not yet confirmed"
+        fc.log(f"recap: GW{gw} selected ({how}); FPL event flag still open.")
 
     recaps_dir = fc.reports_dir(season) / "recaps"
     archive = recaps_dir / f"gw{gw}.json"
