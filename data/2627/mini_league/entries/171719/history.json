@@ -29,6 +29,21 @@
       "event_transfers": 1,
       "event_transfers_cost": 0,
       "points_on_bench": 1
+    },
+    {
+      "event": 3,
+      "points": 3,
+      "total_points": 137,
+      "rank": 5830797,
+      "rank_sort": 5846259,
+      "overall_rank": 4519672,
+      "percentile_rank": 60,
+      "overall_rank_percentage": "43",
+      "bank": 2,
+      "value": 1001,
+      "event_transfers": 1,
+      "event_transfers_cost": 0,
+      "points_on_bench": 0
     }
   ],
   "past": [
@@ -153,5 +168,11 @@
       "rank_percentage": "4"
     }
   ],
-  "chips": []
+  "chips": [
+    {
+      "name": "3xc",
+      "time": "2026-09-04T16:18:33.593756Z",
+      "event": 3
+    }
+  ]
 }
