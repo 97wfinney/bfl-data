@@ -59,6 +59,21 @@
       "event_transfers": 1,
       "event_transfers_cost": 0,
       "points_on_bench": 5
+    },
+    {
+      "event": 5,
+      "points": 2,
+      "total_points": 259,
+      "rank": 4258277,
+      "rank_sort": 5519586,
+      "overall_rank": 4040900,
+      "percentile_rank": 40,
+      "overall_rank_percentage": "37",
+      "bank": 1,
+      "value": 1002,
+      "event_transfers": 0,
+      "event_transfers_cost": 0,
+      "points_on_bench": 0
     }
   ],
   "past": [
@@ -74,6 +89,11 @@
       "name": "bboost",
       "time": "2026-08-28T10:15:31.017568Z",
       "event": 2
+    },
+    {
+      "name": "freehit",
+      "time": "2026-09-18T15:55:57.238897Z",
+      "event": 5
     }
   ]
 }
