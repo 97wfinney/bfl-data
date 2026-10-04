@@ -13,7 +13,7 @@
   "summary_overall_points": 374,
   "summary_overall_rank": 135441,
   "summary_event_points": 63,
-  "summary_event_rank": 1154640,
+  "summary_event_rank": 1154636,
   "current_event": 5,
   "leagues": {
     "classic": [
@@ -338,6 +338,42 @@
         "scoring": "c",
         "short_name": null,
         "start_event": 1
+      },
+      {
+        "active_phases": [
+          {
+            "entry_percentile_rank": null,
+            "last_rank": 0,
+            "league_id": 2430021,
+            "phase": 1,
+            "rank": 0,
+            "rank_count": null,
+            "rank_sort": 0,
+            "total": 0
+          }
+        ],
+        "admin_entry": null,
+        "closed": false,
+        "created": "2026-10-01T09:35:52.037050Z",
+        "cup_league": null,
+        "cup_qualified": null,
+        "entry_can_admin": false,
+        "entry_can_invite": false,
+        "entry_can_leave": false,
+        "entry_last_rank": 0,
+        "entry_percentile_rank": null,
+        "entry_rank": 0,
+        "featured_entry_ids": [],
+        "has_cup": false,
+        "id": 2430021,
+        "league_type": "s",
+        "max_entries": null,
+        "name": "Second Chance",
+        "rank": null,
+        "rank_count": null,
+        "scoring": "c",
+        "short_name": "sc",
+        "start_event": 6
       }
     ],
     "h2h": [],
