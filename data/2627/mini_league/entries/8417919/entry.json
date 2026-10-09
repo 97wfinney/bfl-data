@@ -10,10 +10,6 @@
   "player_region_iso_code_short": "EN",
   "player_region_iso_code_long": "ENG",
   "years_active": 1,
-  "summary_overall_points": 304,
-  "summary_overall_rank": 4081897,
-  "summary_event_points": 47,
-  "summary_event_rank": 5471263,
   "current_event": 5,
   "leagues": {
     "classic": [
@@ -96,7 +92,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 1207949,
         "entry_percentile_rank": 45,
-        "entry_rank": 1241063,
+        "entry_rank": 1241049,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 261,
@@ -142,7 +138,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 3997033,
         "entry_percentile_rank": 50,
-        "entry_rank": 4075105,
+        "entry_rank": 4075037,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 276,
@@ -188,7 +184,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 4000085,
         "entry_percentile_rank": 40,
-        "entry_rank": 4081897,
+        "entry_rank": 4081829,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 314,
@@ -234,7 +230,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 1366834,
         "entry_percentile_rank": 45,
-        "entry_rank": 1404342,
+        "entry_rank": 1404328,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 317,
@@ -357,5 +353,9 @@
   "last_deadline_bank": 1,
   "last_deadline_value": 1002,
   "last_deadline_total_transfers": 1,
-  "club_badge_src": null
+  "club_badge_src": null,
+  "summary_overall_points": 304,
+  "summary_event_points": 47,
+  "summary_event_rank": 5471176,
+  "summary_overall_rank": 4081829
 }
