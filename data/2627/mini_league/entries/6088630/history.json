@@ -74,6 +74,21 @@
       "event_transfers": 0,
       "event_transfers_cost": 0,
       "points_on_bench": 9
+    },
+    {
+      "event": 6,
+      "points": 57,
+      "total_points": 415,
+      "rank": 1240374,
+      "rank_sort": 1283518,
+      "overall_rank": 360189,
+      "percentile_rank": 15,
+      "overall_rank_percentage": "3",
+      "bank": 23,
+      "value": 1013,
+      "event_transfers": 0,
+      "event_transfers_cost": 0,
+      "points_on_bench": 3
     }
   ],
   "past": [
@@ -95,6 +110,11 @@
       "name": "3xc",
       "time": "2026-09-03T22:12:17.002514Z",
       "event": 3
+    },
+    {
+      "name": "wildcard",
+      "time": "2026-10-09T19:22:12.398086Z",
+      "event": 6
     }
   ]
 }

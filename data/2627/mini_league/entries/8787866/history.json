@@ -74,6 +74,21 @@
       "event_transfers": 2,
       "event_transfers_cost": 0,
       "points_on_bench": 14
+    },
+    {
+      "event": 6,
+      "points": 32,
+      "total_points": 369,
+      "rank": 6638278,
+      "rank_sort": 6759335,
+      "overall_rank": 2283863,
+      "percentile_rank": 65,
+      "overall_rank_percentage": "21",
+      "bank": 8,
+      "value": 1001,
+      "event_transfers": 0,
+      "event_transfers_cost": 0,
+      "points_on_bench": 20
     }
   ],
   "past": [
@@ -96,5 +111,11 @@
       "rank_percentage": "48"
     }
   ],
-  "chips": []
+  "chips": [
+    {
+      "name": "freehit",
+      "time": "2026-10-10T09:54:06.696632Z",
+      "event": 6
+    }
+  ]
 }
