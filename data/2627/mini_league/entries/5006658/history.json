@@ -89,6 +89,21 @@
       "event_transfers": 1,
       "event_transfers_cost": 0,
       "points_on_bench": 6
+    },
+    {
+      "event": 7,
+      "points": 10,
+      "total_points": 344,
+      "rank": 10307160,
+      "rank_sort": 10324385,
+      "overall_rank": 7370308,
+      "percentile_rank": 95,
+      "overall_rank_percentage": "67",
+      "bank": 3,
+      "value": 996,
+      "event_transfers": 1,
+      "event_transfers_cost": 0,
+      "points_on_bench": 10
     }
   ],
   "past": [
@@ -104,6 +119,11 @@
       "name": "bboost",
       "time": "2026-08-28T15:54:22.108452Z",
       "event": 2
+    },
+    {
+      "name": "3xc",
+      "time": "2026-10-17T07:32:57.381028Z",
+      "event": 7
     }
   ]
 }
