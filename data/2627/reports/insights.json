@@ -1,7 +1,7 @@
 {
   "season": "2627",
-  "gw": 7,
-  "generated_at": "2026-10-23T02:00:04.827105+00:00",
+  "gw": 8,
+  "generated_at": "2026-10-24T02:00:10.792814+00:00",
   "manager_count": 26,
   "players": [
     {
@@ -12,8 +12,8 @@
       "owned": 23,
       "owned_pct": 88.5,
       "started": 23,
-      "captained": 23,
-      "captained_pct": 88.5,
+      "captained": 18,
+      "captained_pct": 69.2,
       "benched": 0,
       "owners": null
     },
@@ -22,11 +22,11 @@
       "web_name": "João Pedro",
       "team": "CHE",
       "pos": "FWD",
-      "owned": 20,
-      "owned_pct": 76.9,
-      "started": 19,
-      "captained": 0,
-      "captained_pct": 0.0,
+      "owned": 22,
+      "owned_pct": 84.6,
+      "started": 21,
+      "captained": 7,
+      "captained_pct": 26.9,
       "benched": 1,
       "owners": null
     },
@@ -48,9 +48,9 @@
       "web_name": "Groß",
       "team": "BHA",
       "pos": "MID",
-      "owned": 13,
-      "owned_pct": 50.0,
-      "started": 13,
+      "owned": 15,
+      "owned_pct": 57.7,
+      "started": 15,
       "captained": 0,
       "captained_pct": 0.0,
       "benched": 0,
@@ -70,29 +70,29 @@
       "owners": null
     },
     {
-      "element": 346,
-      "web_name": "Calvert-Lewin",
-      "team": "LEE",
-      "pos": "FWD",
-      "owned": 11,
-      "owned_pct": 42.3,
-      "started": 10,
+      "element": 1,
+      "web_name": "Raya",
+      "team": "ARS",
+      "pos": "GKP",
+      "owned": 12,
+      "owned_pct": 46.2,
+      "started": 11,
       "captained": 0,
       "captained_pct": 0.0,
       "benched": 1,
       "owners": null
     },
     {
-      "element": 1,
-      "web_name": "Raya",
-      "team": "ARS",
-      "pos": "GKP",
+      "element": 154,
+      "web_name": "Palmer",
+      "team": "CHE",
+      "pos": "MID",
       "owned": 11,
       "owned_pct": 42.3,
-      "started": 9,
+      "started": 11,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 2,
+      "benched": 0,
       "owners": null
     },
     {
@@ -102,10 +102,10 @@
       "pos": "DEF",
       "owned": 10,
       "owned_pct": 38.5,
-      "started": 10,
+      "started": 9,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 1,
       "owners": null
     },
     {
@@ -122,35 +122,22 @@
       "owners": null
     },
     {
-      "element": 397,
-      "web_name": "Semenyo",
-      "team": "MCI",
-      "pos": "MID",
-      "owned": 9,
-      "owned_pct": 34.6,
-      "started": 9,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": null
-    },
-    {
       "element": 115,
       "web_name": "De Cuyper",
       "team": "BHA",
       "pos": "DEF",
       "owned": 8,
       "owned_pct": 30.8,
-      "started": 8,
+      "started": 7,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 1,
       "owners": null
     },
     {
-      "element": 154,
-      "web_name": "Palmer",
-      "team": "CHE",
+      "element": 399,
+      "web_name": "Cherki",
+      "team": "MCI",
       "pos": "MID",
       "owned": 8,
       "owned_pct": 30.8,
@@ -158,6 +145,32 @@
       "captained": 0,
       "captained_pct": 0.0,
       "benched": 0,
+      "owners": null
+    },
+    {
+      "element": 346,
+      "web_name": "Calvert-Lewin",
+      "team": "LEE",
+      "pos": "FWD",
+      "owned": 8,
+      "owned_pct": 30.8,
+      "started": 7,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": null
+    },
+    {
+      "element": 480,
+      "web_name": "Gibbs-White",
+      "team": "NFO",
+      "pos": "MID",
+      "owned": 8,
+      "owned_pct": 30.8,
+      "started": 6,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 2,
       "owners": null
     },
     {
@@ -167,10 +180,10 @@
       "pos": "GKP",
       "owned": 7,
       "owned_pct": 26.9,
-      "started": 5,
+      "started": 4,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 2,
+      "benched": 3,
       "owners": null
     },
     {
@@ -200,19 +213,6 @@
       "owners": null
     },
     {
-      "element": 480,
-      "web_name": "Gibbs-White",
-      "team": "NFO",
-      "pos": "MID",
-      "owned": 7,
-      "owned_pct": 26.9,
-      "started": 3,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 4,
-      "owners": null
-    },
-    {
       "element": 497,
       "web_name": "Dubravka",
       "team": "TOT",
@@ -226,29 +226,16 @@
       "owners": null
     },
     {
-      "element": 399,
-      "web_name": "Cherki",
-      "team": "MCI",
-      "pos": "MID",
-      "owned": 6,
-      "owned_pct": 23.1,
-      "started": 6,
-      "captained": 2,
-      "captained_pct": 7.7,
-      "benched": 0,
-      "owners": null
-    },
-    {
       "element": 277,
       "web_name": "Egan",
       "team": "HUL",
       "pos": "DEF",
       "owned": 6,
       "owned_pct": 23.1,
-      "started": 3,
+      "started": 1,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 3,
+      "benched": 5,
       "owners": null
     },
     {
@@ -265,9 +252,9 @@
       "owners": null
     },
     {
-      "element": 12,
-      "web_name": "Saka",
-      "team": "ARS",
+      "element": 94,
+      "web_name": "Schade",
+      "team": "BRE",
       "pos": "MID",
       "owned": 6,
       "owned_pct": 23.1,
@@ -278,29 +265,16 @@
       "owners": null
     },
     {
-      "element": 368,
-      "web_name": "Szoboszlai",
-      "team": "LIV",
-      "pos": "MID",
-      "owned": 5,
-      "owned_pct": 19.2,
-      "started": 3,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 2,
-      "owners": null
-    },
-    {
       "element": 384,
       "web_name": "Donnarumma",
       "team": "MCI",
       "pos": "GKP",
       "owned": 5,
       "owned_pct": 19.2,
-      "started": 4,
+      "started": 5,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 1,
+      "benched": 0,
       "owners": null
     },
     {
@@ -317,29 +291,29 @@
       "owners": null
     },
     {
-      "element": 426,
-      "web_name": "B.Fernandes",
+      "element": 427,
+      "web_name": "Mbeumo",
       "team": "MUN",
       "pos": "MID",
       "owned": 5,
       "owned_pct": 19.2,
-      "started": 4,
+      "started": 5,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 1,
+      "benched": 0,
       "owners": null
     },
     {
-      "element": 94,
-      "web_name": "Schade",
-      "team": "BRE",
-      "pos": "MID",
+      "element": 79,
+      "web_name": "Evanilson",
+      "team": "BOU",
+      "pos": "FWD",
       "owned": 5,
       "owned_pct": 19.2,
-      "started": 4,
+      "started": 5,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 1,
+      "benched": 0,
       "owners": null
     },
     {
@@ -356,16 +330,29 @@
       "owners": null
     },
     {
+      "element": 68,
+      "web_name": "Tavernier",
+      "team": "BOU",
+      "pos": "MID",
+      "owned": 4,
+      "owned_pct": 15.4,
+      "started": 3,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": null
+    },
+    {
       "element": 504,
       "web_name": "Vuskovic",
       "team": "BHA",
       "pos": "DEF",
       "owned": 4,
       "owned_pct": 15.4,
-      "started": 4,
+      "started": 2,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 2,
       "owners": null
     },
     {
@@ -388,30 +375,17 @@
       "pos": "DEF",
       "owned": 4,
       "owned_pct": 15.4,
-      "started": 0,
+      "started": 1,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 4,
+      "benched": 3,
       "owners": null
     },
     {
-      "element": 427,
-      "web_name": "Mbeumo",
+      "element": 426,
+      "web_name": "B.Fernandes",
       "team": "MUN",
       "pos": "MID",
-      "owned": 4,
-      "owned_pct": 15.4,
-      "started": 4,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": null
-    },
-    {
-      "element": 418,
-      "web_name": "Maguire",
-      "team": "MUN",
-      "pos": "DEF",
       "owned": 4,
       "owned_pct": 15.4,
       "started": 3,
@@ -421,16 +395,42 @@
       "owners": null
     },
     {
+      "element": 397,
+      "web_name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID",
+      "owned": 4,
+      "owned_pct": 15.4,
+      "started": 2,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 2,
+      "owners": null
+    },
+    {
+      "element": 418,
+      "web_name": "Maguire",
+      "team": "MUN",
+      "pos": "DEF",
+      "owned": 4,
+      "owned_pct": 15.4,
+      "started": 4,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": null
+    },
+    {
       "element": 173,
       "web_name": "Thomas",
       "team": "COV",
       "pos": "DEF",
       "owned": 4,
       "owned_pct": 15.4,
-      "started": 1,
+      "started": 2,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 3,
+      "benched": 2,
       "owners": null
     },
     {
@@ -440,20 +440,7 @@
       "pos": "DEF",
       "owned": 4,
       "owned_pct": 15.4,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 3,
-      "owners": null
-    },
-    {
-      "element": 557,
-      "web_name": "Tzolis",
-      "team": "ARS",
-      "pos": "MID",
-      "owned": 3,
-      "owned_pct": 11.5,
-      "started": 1,
+      "started": 2,
       "captained": 0,
       "captained_pct": 0.0,
       "benched": 2,
@@ -466,10 +453,10 @@
       "pos": "MID",
       "owned": 3,
       "owned_pct": 11.5,
-      "started": 2,
+      "started": 1,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 1,
+      "benched": 2,
       "owners": null
     },
     {
@@ -479,10 +466,10 @@
       "pos": "GKP",
       "owned": 3,
       "owned_pct": 11.5,
-      "started": 3,
+      "started": 2,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 1,
       "owners": null
     },
     {
@@ -505,10 +492,10 @@
       "pos": "FWD",
       "owned": 3,
       "owned_pct": 11.5,
-      "started": 3,
+      "started": 2,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 1,
       "owners": null
     },
     {
@@ -531,10 +518,10 @@
       "pos": "DEF",
       "owned": 3,
       "owned_pct": 11.5,
-      "started": 2,
+      "started": 1,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 1,
+      "benched": 2,
       "owners": null
     },
     {
@@ -544,10 +531,10 @@
       "pos": "DEF",
       "owned": 3,
       "owned_pct": 11.5,
-      "started": 1,
+      "started": 2,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 2,
+      "benched": 1,
       "owners": null
     },
     {
@@ -561,19 +548,6 @@
       "captained": 0,
       "captained_pct": 0.0,
       "benched": 2,
-      "owners": null
-    },
-    {
-      "element": 423,
-      "web_name": "Shaw",
-      "team": "MUN",
-      "pos": "DEF",
-      "owned": 3,
-      "owned_pct": 11.5,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 3,
       "owners": null
     },
     {
@@ -619,19 +593,35 @@
       ]
     },
     {
-      "element": 249,
-      "web_name": "Barry",
-      "team": "EVE",
-      "pos": "FWD",
+      "element": 368,
+      "web_name": "Szoboszlai",
+      "team": "LIV",
+      "pos": "MID",
       "owned": 2,
       "owned_pct": 7.7,
-      "started": 2,
+      "started": 0,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 2,
       "owners": [
-        "Louis Grimoldby",
-        "Will Finney"
+        "David Bailey",
+        "amy warden"
+      ]
+    },
+    {
+      "element": 557,
+      "web_name": "Tzolis",
+      "team": "ARS",
+      "pos": "MID",
+      "owned": 2,
+      "owned_pct": 7.7,
+      "started": 0,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 2,
+      "owners": [
+        "David Bailey",
+        "George Foy"
       ]
     },
     {
@@ -663,22 +653,6 @@
       "benched": 2,
       "owners": [
         "Mike Flynn",
-        "olly barnes"
-      ]
-    },
-    {
-      "element": 68,
-      "web_name": "Tavernier",
-      "team": "BOU",
-      "pos": "MID",
-      "owned": 2,
-      "owned_pct": 7.7,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "James Marshall",
         "olly barnes"
       ]
     },
@@ -731,25 +705,9 @@
       ]
     },
     {
-      "element": 412,
-      "web_name": "Lammens",
-      "team": "MUN",
-      "pos": "GKP",
-      "owned": 2,
-      "owned_pct": 7.7,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "Paul Ray",
-        "Phil Johnson"
-      ]
-    },
-    {
-      "element": 237,
-      "web_name": "Ndiaye",
-      "team": "MCI",
+      "element": 156,
+      "web_name": "Neto",
+      "team": "CHE",
       "pos": "MID",
       "owned": 2,
       "owned_pct": 7.7,
@@ -758,7 +716,7 @@
       "captained_pct": 0.0,
       "benched": 0,
       "owners": [
-        "Abi Speight",
+        "Louis Grimoldby",
         "Paul Ray"
       ]
     },
@@ -891,10 +849,10 @@
       ]
     },
     {
-      "element": 316,
-      "web_name": "Emersonn",
-      "team": "IPS",
-      "pos": "FWD",
+      "element": 423,
+      "web_name": "Shaw",
+      "team": "MUN",
+      "pos": "DEF",
       "owned": 2,
       "owned_pct": 7.7,
       "started": 0,
@@ -902,8 +860,56 @@
       "captained_pct": 0.0,
       "benched": 2,
       "owners": [
+        "Callum Bowness",
+        "James Marshall"
+      ]
+    },
+    {
+      "element": 332,
+      "web_name": "Justin",
+      "team": "LEE",
+      "pos": "DEF",
+      "owned": 2,
+      "owned_pct": 7.7,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
+        "David Tonks",
+        "George Foy"
+      ]
+    },
+    {
+      "element": 316,
+      "web_name": "Emersonn",
+      "team": "IPS",
+      "pos": "FWD",
+      "owned": 2,
+      "owned_pct": 7.7,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
         "Mark Horton",
         "Mike Flynn"
+      ]
+    },
+    {
+      "element": 400,
+      "web_name": "Doku",
+      "team": "MCI",
+      "pos": "MID",
+      "owned": 2,
+      "owned_pct": 7.7,
+      "started": 2,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "Alan Eckett-Brown",
+        "George Foy"
       ]
     },
     {
@@ -976,19 +982,19 @@
       "pos": "DEF",
       "owned": 1,
       "owned_pct": 3.8,
-      "started": 0,
+      "started": 1,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 1,
+      "benched": 0,
       "owners": [
         "David Bailey"
       ]
     },
     {
-      "element": 362,
-      "web_name": "Jacquet",
+      "element": 377,
+      "web_name": "Munoz",
       "team": "LIV",
-      "pos": "DEF",
+      "pos": "MID",
       "owned": 1,
       "owned_pct": 3.8,
       "started": 1,
@@ -996,13 +1002,13 @@
       "captained_pct": 0.0,
       "benched": 0,
       "owners": [
-        "Jamie Mitchell"
+        "Will Finney"
       ]
     },
     {
-      "element": 112,
-      "web_name": "Van Hecke",
-      "team": "TOT",
+      "element": 362,
+      "web_name": "Jacquet",
+      "team": "LIV",
       "pos": "DEF",
       "owned": 1,
       "owned_pct": 3.8,
@@ -1030,6 +1036,36 @@
       ]
     },
     {
+      "element": 379,
+      "web_name": "Isak",
+      "team": "LIV",
+      "pos": "FWD",
+      "owned": 1,
+      "owned_pct": 3.8,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "Jamie Mitchell"
+      ]
+    },
+    {
+      "element": 112,
+      "web_name": "Van Hecke",
+      "team": "TOT",
+      "pos": "DEF",
+      "owned": 1,
+      "owned_pct": 3.8,
+      "started": 0,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 1,
+      "owners": [
+        "Jamie Mitchell"
+      ]
+    },
+    {
       "element": 454,
       "web_name": "Elanga",
       "team": "NEW",
@@ -1042,6 +1078,21 @@
       "benched": 1,
       "owners": [
         "Jamie Mitchell"
+      ]
+    },
+    {
+      "element": 544,
+      "web_name": "Xhaka",
+      "team": "SUN",
+      "pos": "MID",
+      "owned": 1,
+      "owned_pct": 3.8,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "amy warden"
       ]
     },
     {
@@ -1075,21 +1126,6 @@
       ]
     },
     {
-      "element": 544,
-      "web_name": "Xhaka",
-      "team": "SUN",
-      "pos": "MID",
-      "owned": 1,
-      "owned_pct": 3.8,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "amy warden"
-      ]
-    },
-    {
       "element": 61,
       "web_name": "Truffert",
       "team": "BOU",
@@ -1109,6 +1145,21 @@
       "web_name": "Tielemans",
       "team": "MUN",
       "pos": "MID",
+      "owned": 1,
+      "owned_pct": 3.8,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "Phil Johnson"
+      ]
+    },
+    {
+      "element": 412,
+      "web_name": "Lammens",
+      "team": "MUN",
+      "pos": "GKP",
       "owned": 1,
       "owned_pct": 3.8,
       "started": 0,
@@ -1156,10 +1207,10 @@
       "pos": "MID",
       "owned": 1,
       "owned_pct": 3.8,
-      "started": 1,
+      "started": 0,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 1,
       "owners": [
         "Paul Ray"
       ]
@@ -1180,25 +1231,25 @@
       ]
     },
     {
-      "element": 441,
-      "web_name": "Obi",
-      "team": "MUN",
-      "pos": "FWD",
-      "owned": 1,
-      "owned_pct": 3.8,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
-      "owners": [
-        "Paul Ray"
-      ]
-    },
-    {
       "element": 60,
       "web_name": "Hill",
       "team": "BOU",
       "pos": "DEF",
+      "owned": 1,
+      "owned_pct": 3.8,
+      "started": 1,
+      "captained": 0,
+      "captained_pct": 0.0,
+      "benched": 0,
+      "owners": [
+        "Abi Speight"
+      ]
+    },
+    {
+      "element": 237,
+      "web_name": "Ndiaye",
+      "team": "MCI",
+      "pos": "MID",
       "owned": 1,
       "owned_pct": 3.8,
       "started": 1,
@@ -1240,9 +1291,9 @@
       ]
     },
     {
-      "element": 125,
-      "web_name": "Georginio",
-      "team": "BHA",
+      "element": 249,
+      "web_name": "Barry",
+      "team": "EVE",
       "pos": "FWD",
       "owned": 1,
       "owned_pct": 3.8,
@@ -1250,36 +1301,6 @@
       "captained": 0,
       "captained_pct": 0.0,
       "benched": 0,
-      "owners": [
-        "Dan Birkinshaw"
-      ]
-    },
-    {
-      "element": 156,
-      "web_name": "Neto",
-      "team": "CHE",
-      "pos": "MID",
-      "owned": 1,
-      "owned_pct": 3.8,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": [
-        "Louis Grimoldby"
-      ]
-    },
-    {
-      "element": 102,
-      "web_name": "Yarmoliuk",
-      "team": "BRE",
-      "pos": "MID",
-      "owned": 1,
-      "owned_pct": 3.8,
-      "started": 0,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 1,
       "owners": [
         "Louis Grimoldby"
       ]
@@ -1300,18 +1321,18 @@
       ]
     },
     {
-      "element": 79,
-      "web_name": "Evanilson",
-      "team": "BOU",
-      "pos": "FWD",
+      "element": 102,
+      "web_name": "Yarmoliuk",
+      "team": "BRE",
+      "pos": "MID",
       "owned": 1,
       "owned_pct": 3.8,
-      "started": 1,
+      "started": 0,
       "captained": 0,
       "captained_pct": 0.0,
-      "benched": 0,
+      "benched": 1,
       "owners": [
-        "James Marshall"
+        "Louis Grimoldby"
       ]
     },
     {
@@ -1349,21 +1370,6 @@
       "web_name": "Manzambi",
       "team": "AVL",
       "pos": "MID",
-      "owned": 1,
-      "owned_pct": 3.8,
-      "started": 1,
-      "captained": 0,
-      "captained_pct": 0.0,
-      "benched": 0,
-      "owners": [
-        "David Tonks"
-      ]
-    },
-    {
-      "element": 332,
-      "web_name": "Justin",
-      "team": "LEE",
-      "pos": "DEF",
       "owned": 1,
       "owned_pct": 3.8,
       "started": 0,
@@ -1450,10 +1456,10 @@
       ]
     },
     {
-      "element": 167,
-      "web_name": "Delap",
-      "team": "NFO",
-      "pos": "FWD",
+      "element": 12,
+      "web_name": "Saka",
+      "team": "ARS",
+      "pos": "MID",
       "owned": 1,
       "owned_pct": 3.8,
       "started": 1,
@@ -1461,7 +1467,7 @@
       "captained_pct": 0.0,
       "benched": 0,
       "owners": [
-        "Cathy Eckett-Brown"
+        "Vaughan Cosbie-Ross"
       ]
     },
     {

@@ -1,8 +1,8 @@
 {
   "season": "2627",
-  "current_gw": 7,
-  "finished": true,
-  "updated_at": "2026-10-23T02:00:04.803561+00:00",
+  "current_gw": 8,
+  "finished": false,
+  "updated_at": "2026-10-24T02:00:10.731988+00:00",
   "league": {
     "id": 35621,
     "name": "Biddenham Fantasy League"
@@ -16,11 +16,11 @@
       "last_rank": 1,
       "rank_movement": 0,
       "official_total": 525,
-      "gw_chip": "bboost",
+      "gw_chip": null,
       "gross_points": 525,
       "hits": 0,
       "total": 525,
-      "gw_points": 87,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "bboost"
@@ -88,255 +88,15 @@
           "total": 525,
           "bench": 0,
           "overall_rank": 83165
-        }
-      ]
-    },
-    {
-      "entry": 941622,
-      "manager": "Mark Horton",
-      "team": "Vespa Mo Pedro",
-      "rank": 2,
-      "last_rank": 3,
-      "rank_movement": 1,
-      "official_total": 501,
-      "gw_chip": null,
-      "gross_points": 501,
-      "hits": 0,
-      "total": 501,
-      "gw_points": 69,
-      "gw_hits": 0,
-      "chips_used": [],
-      "history": [
-        {
-          "gw": 1,
-          "points": 43,
-          "hits": 0,
-          "net": 43,
-          "total": 43,
-          "bench": 17,
-          "overall_rank": 6382778
         },
         {
-          "gw": 2,
-          "points": 116,
+          "gw": 8,
+          "points": 0,
           "hits": 0,
-          "net": 116,
-          "total": 159,
-          "bench": 14,
-          "overall_rank": 1133449
-        },
-        {
-          "gw": 3,
-          "points": 46,
-          "hits": 0,
-          "net": 46,
-          "total": 205,
-          "bench": 5,
-          "overall_rank": 1783829
-        },
-        {
-          "gw": 4,
-          "points": 84,
-          "hits": 0,
-          "net": 84,
-          "total": 289,
-          "bench": 14,
-          "overall_rank": 1325466
-        },
-        {
-          "gw": 5,
-          "points": 69,
-          "hits": 0,
-          "net": 69,
-          "total": 358,
-          "bench": 9,
-          "overall_rank": 452631
-        },
-        {
-          "gw": 6,
-          "points": 74,
-          "hits": 0,
-          "net": 74,
-          "total": 432,
-          "bench": 7,
-          "overall_rank": 352117
-        },
-        {
-          "gw": 7,
-          "points": 69,
-          "hits": 0,
-          "net": 69,
-          "total": 501,
-          "bench": 5,
-          "overall_rank": 384865
-        }
-      ]
-    },
-    {
-      "entry": 184463,
-      "manager": "Will Finney",
-      "team": "0v3rf1tt3d.h5",
-      "rank": 3,
-      "last_rank": 5,
-      "rank_movement": 2,
-      "official_total": 495,
-      "gw_chip": null,
-      "gross_points": 495,
-      "hits": 0,
-      "total": 495,
-      "gw_points": 75,
-      "gw_hits": 0,
-      "chips_used": [
-        "bboost",
-        "wildcard"
-      ],
-      "history": [
-        {
-          "gw": 1,
-          "points": 66,
-          "hits": 0,
-          "net": 66,
-          "total": 66,
+          "net": 0,
+          "total": 525,
           "bench": 0,
-          "overall_rank": 893714
-        },
-        {
-          "gw": 2,
-          "points": 106,
-          "hits": 0,
-          "net": 106,
-          "total": 172,
-          "bench": 6,
-          "overall_rank": 404244
-        },
-        {
-          "gw": 3,
-          "points": 47,
-          "hits": 0,
-          "net": 47,
-          "total": 219,
-          "bench": 11,
-          "overall_rank": 717233
-        },
-        {
-          "gw": 4,
-          "points": 79,
-          "hits": 0,
-          "net": 79,
-          "total": 298,
-          "bench": 10,
-          "overall_rank": 820064
-        },
-        {
-          "gw": 5,
-          "points": 43,
-          "hits": 0,
-          "net": 43,
-          "total": 341,
-          "bench": 20,
-          "overall_rank": 1172300
-        },
-        {
-          "gw": 6,
-          "points": 79,
-          "hits": 0,
-          "net": 79,
-          "total": 420,
-          "bench": 22,
-          "overall_rank": 673986
-        },
-        {
-          "gw": 7,
-          "points": 75,
-          "hits": 0,
-          "net": 75,
-          "total": 495,
-          "bench": 10,
-          "overall_rank": 516849
-        }
-      ]
-    },
-    {
-      "entry": 532200,
-      "manager": "olly barnes",
-      "team": "Grasshoppers",
-      "rank": 4,
-      "last_rank": 4,
-      "rank_movement": 0,
-      "official_total": 492,
-      "gw_chip": null,
-      "gross_points": 492,
-      "hits": 0,
-      "total": 492,
-      "gw_points": 66,
-      "gw_hits": 0,
-      "chips_used": [
-        "bboost",
-        "wildcard"
-      ],
-      "history": [
-        {
-          "gw": 1,
-          "points": 65,
-          "hits": 0,
-          "net": 65,
-          "total": 65,
-          "bench": 0,
-          "overall_rank": 1011629
-        },
-        {
-          "gw": 2,
-          "points": 85,
-          "hits": 0,
-          "net": 85,
-          "total": 150,
-          "bench": 26,
-          "overall_rank": 1980790
-        },
-        {
-          "gw": 3,
-          "points": 53,
-          "hits": 0,
-          "net": 53,
-          "total": 203,
-          "bench": 17,
-          "overall_rank": 1961668
-        },
-        {
-          "gw": 4,
-          "points": 88,
-          "hits": 0,
-          "net": 88,
-          "total": 291,
-          "bench": 12,
-          "overall_rank": 1170921
-        },
-        {
-          "gw": 5,
-          "points": 53,
-          "hits": 0,
-          "net": 53,
-          "total": 344,
-          "bench": 12,
-          "overall_rank": 996186
-        },
-        {
-          "gw": 6,
-          "points": 82,
-          "hits": 0,
-          "net": 82,
-          "total": 426,
-          "bench": 11,
-          "overall_rank": 486666
-        },
-        {
-          "gw": 7,
-          "points": 66,
-          "hits": 0,
-          "net": 66,
-          "total": 492,
-          "bench": 12,
-          "overall_rank": 592071
+          "overall_rank": 87197
         }
       ]
     },
@@ -344,15 +104,15 @@
       "entry": 6088630,
       "manager": "Tim Chodha",
       "team": "Hakuna Juan Mata",
-      "rank": 5,
+      "rank": 2,
       "last_rank": 2,
-      "rank_movement": -3,
-      "official_total": 492,
+      "rank_movement": 0,
+      "official_total": 503,
       "gw_chip": null,
-      "gross_points": 501,
+      "gross_points": 503,
       "hits": 0,
-      "total": 501,
-      "gw_points": 68,
+      "total": 503,
+      "gw_points": 2,
       "gw_hits": 0,
       "chips_used": [
         "3xc",
@@ -421,6 +181,291 @@
           "total": 501,
           "bench": 6,
           "overall_rank": 377393
+        },
+        {
+          "gw": 8,
+          "points": 2,
+          "hits": 0,
+          "net": 2,
+          "total": 503,
+          "bench": 0,
+          "overall_rank": 353309
+        }
+      ]
+    },
+    {
+      "entry": 941622,
+      "manager": "Mark Horton",
+      "team": "Vespa Mo Pedro",
+      "rank": 3,
+      "last_rank": 3,
+      "rank_movement": 0,
+      "official_total": 503,
+      "gw_chip": null,
+      "gross_points": 503,
+      "hits": 0,
+      "total": 503,
+      "gw_points": 2,
+      "gw_hits": 0,
+      "chips_used": [],
+      "history": [
+        {
+          "gw": 1,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 43,
+          "bench": 17,
+          "overall_rank": 6382778
+        },
+        {
+          "gw": 2,
+          "points": 116,
+          "hits": 0,
+          "net": 116,
+          "total": 159,
+          "bench": 14,
+          "overall_rank": 1133449
+        },
+        {
+          "gw": 3,
+          "points": 46,
+          "hits": 0,
+          "net": 46,
+          "total": 205,
+          "bench": 5,
+          "overall_rank": 1783829
+        },
+        {
+          "gw": 4,
+          "points": 84,
+          "hits": 0,
+          "net": 84,
+          "total": 289,
+          "bench": 14,
+          "overall_rank": 1325466
+        },
+        {
+          "gw": 5,
+          "points": 69,
+          "hits": 0,
+          "net": 69,
+          "total": 358,
+          "bench": 9,
+          "overall_rank": 452631
+        },
+        {
+          "gw": 6,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 432,
+          "bench": 7,
+          "overall_rank": 352117
+        },
+        {
+          "gw": 7,
+          "points": 69,
+          "hits": 0,
+          "net": 69,
+          "total": 501,
+          "bench": 5,
+          "overall_rank": 384865
+        },
+        {
+          "gw": 8,
+          "points": 2,
+          "hits": 0,
+          "net": 2,
+          "total": 503,
+          "bench": 3,
+          "overall_rank": 367387
+        }
+      ]
+    },
+    {
+      "entry": 184463,
+      "manager": "Will Finney",
+      "team": "0v3rf1tt3d.h5",
+      "rank": 4,
+      "last_rank": 5,
+      "rank_movement": 1,
+      "official_total": 495,
+      "gw_chip": null,
+      "gross_points": 495,
+      "hits": 0,
+      "total": 495,
+      "gw_points": 0,
+      "gw_hits": 0,
+      "chips_used": [
+        "bboost",
+        "wildcard"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 66,
+          "hits": 0,
+          "net": 66,
+          "total": 66,
+          "bench": 0,
+          "overall_rank": 893714
+        },
+        {
+          "gw": 2,
+          "points": 106,
+          "hits": 0,
+          "net": 106,
+          "total": 172,
+          "bench": 6,
+          "overall_rank": 404244
+        },
+        {
+          "gw": 3,
+          "points": 47,
+          "hits": 0,
+          "net": 47,
+          "total": 219,
+          "bench": 11,
+          "overall_rank": 717233
+        },
+        {
+          "gw": 4,
+          "points": 79,
+          "hits": 0,
+          "net": 79,
+          "total": 298,
+          "bench": 10,
+          "overall_rank": 820064
+        },
+        {
+          "gw": 5,
+          "points": 43,
+          "hits": 0,
+          "net": 43,
+          "total": 341,
+          "bench": 20,
+          "overall_rank": 1172300
+        },
+        {
+          "gw": 6,
+          "points": 79,
+          "hits": 0,
+          "net": 79,
+          "total": 420,
+          "bench": 22,
+          "overall_rank": 673986
+        },
+        {
+          "gw": 7,
+          "points": 75,
+          "hits": 0,
+          "net": 75,
+          "total": 495,
+          "bench": 10,
+          "overall_rank": 516849
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 495,
+          "bench": 0,
+          "overall_rank": 544954
+        }
+      ]
+    },
+    {
+      "entry": 532200,
+      "manager": "olly barnes",
+      "team": "Grasshoppers",
+      "rank": 5,
+      "last_rank": 4,
+      "rank_movement": -1,
+      "official_total": 492,
+      "gw_chip": null,
+      "gross_points": 492,
+      "hits": 0,
+      "total": 492,
+      "gw_points": 0,
+      "gw_hits": 0,
+      "chips_used": [
+        "bboost",
+        "wildcard"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 65,
+          "hits": 0,
+          "net": 65,
+          "total": 65,
+          "bench": 0,
+          "overall_rank": 1011629
+        },
+        {
+          "gw": 2,
+          "points": 85,
+          "hits": 0,
+          "net": 85,
+          "total": 150,
+          "bench": 26,
+          "overall_rank": 1980790
+        },
+        {
+          "gw": 3,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 203,
+          "bench": 17,
+          "overall_rank": 1961668
+        },
+        {
+          "gw": 4,
+          "points": 88,
+          "hits": 0,
+          "net": 88,
+          "total": 291,
+          "bench": 12,
+          "overall_rank": 1170921
+        },
+        {
+          "gw": 5,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 344,
+          "bench": 12,
+          "overall_rank": 996186
+        },
+        {
+          "gw": 6,
+          "points": 82,
+          "hits": 0,
+          "net": 82,
+          "total": 426,
+          "bench": 11,
+          "overall_rank": 486666
+        },
+        {
+          "gw": 7,
+          "points": 66,
+          "hits": 0,
+          "net": 66,
+          "total": 492,
+          "bench": 12,
+          "overall_rank": 592071
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 492,
+          "bench": 0,
+          "overall_rank": 615058
         }
       ]
     },
@@ -431,12 +476,12 @@
       "rank": 6,
       "last_rank": 5,
       "rank_movement": -1,
-      "official_total": 479,
+      "official_total": 480,
       "gw_chip": null,
-      "gross_points": 479,
+      "gross_points": 480,
       "hits": 0,
-      "total": 479,
-      "gw_points": 59,
+      "total": 480,
+      "gw_points": 1,
       "gw_hits": 0,
       "chips_used": [
         "3xc",
@@ -506,6 +551,15 @@
           "total": 479,
           "bench": 4,
           "overall_rank": 1036122
+        },
+        {
+          "gw": 8,
+          "points": 1,
+          "hits": 0,
+          "net": 1,
+          "total": 480,
+          "bench": 0,
+          "overall_rank": 1028966
         }
       ]
     },
@@ -521,7 +575,7 @@
       "gross_points": 477,
       "hits": 0,
       "total": 477,
-      "gw_points": 69,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -591,6 +645,107 @@
           "total": 477,
           "bench": 10,
           "overall_rank": 1110510
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 477,
+          "bench": 0,
+          "overall_rank": 1141853
+        }
+      ]
+    },
+    {
+      "entry": 6325720,
+      "manager": "Dan Birkinshaw",
+      "team": "MadjoKarp",
+      "rank": 8,
+      "last_rank": 8,
+      "rank_movement": 0,
+      "official_total": 458,
+      "gw_chip": null,
+      "gross_points": 458,
+      "hits": 0,
+      "total": 458,
+      "gw_points": 1,
+      "gw_hits": 0,
+      "chips_used": [
+        "3xc"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 53,
+          "bench": 4,
+          "overall_rank": 3482299
+        },
+        {
+          "gw": 2,
+          "points": 74,
+          "hits": 0,
+          "net": 74,
+          "total": 127,
+          "bench": 10,
+          "overall_rank": 5026449
+        },
+        {
+          "gw": 3,
+          "points": 61,
+          "hits": 0,
+          "net": 61,
+          "total": 188,
+          "bench": 5,
+          "overall_rank": 3844486
+        },
+        {
+          "gw": 4,
+          "points": 66,
+          "hits": 0,
+          "net": 66,
+          "total": 254,
+          "bench": 8,
+          "overall_rank": 4304322
+        },
+        {
+          "gw": 5,
+          "points": 45,
+          "hits": 0,
+          "net": 45,
+          "total": 299,
+          "bench": 6,
+          "overall_rank": 4586663
+        },
+        {
+          "gw": 6,
+          "points": 87,
+          "hits": 0,
+          "net": 87,
+          "total": 386,
+          "bench": 2,
+          "overall_rank": 2480910
+        },
+        {
+          "gw": 7,
+          "points": 71,
+          "hits": 0,
+          "net": 71,
+          "total": 457,
+          "bench": 10,
+          "overall_rank": 2111791
+        },
+        {
+          "gw": 8,
+          "points": 1,
+          "hits": 0,
+          "net": 1,
+          "total": 458,
+          "bench": 0,
+          "overall_rank": 2098234
         }
       ]
     },
@@ -598,15 +753,15 @@
       "entry": 572960,
       "manager": "George Foy",
       "team": "Foy's Boys",
-      "rank": 8,
+      "rank": 9,
       "last_rank": 9,
-      "rank_movement": 1,
+      "rank_movement": 0,
       "official_total": 457,
-      "gw_chip": "3xc",
+      "gw_chip": null,
       "gross_points": 457,
       "hits": 0,
       "total": 457,
-      "gw_points": 75,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -675,89 +830,15 @@
           "total": 457,
           "bench": 1,
           "overall_rank": 2098389
-        }
-      ]
-    },
-    {
-      "entry": 6325720,
-      "manager": "Dan Birkinshaw",
-      "team": "MadjoKarp",
-      "rank": 9,
-      "last_rank": 8,
-      "rank_movement": -1,
-      "official_total": 457,
-      "gw_chip": null,
-      "gross_points": 457,
-      "hits": 0,
-      "total": 457,
-      "gw_points": 71,
-      "gw_hits": 0,
-      "chips_used": [
-        "3xc"
-      ],
-      "history": [
-        {
-          "gw": 1,
-          "points": 53,
-          "hits": 0,
-          "net": 53,
-          "total": 53,
-          "bench": 4,
-          "overall_rank": 3482299
         },
         {
-          "gw": 2,
-          "points": 74,
+          "gw": 8,
+          "points": 0,
           "hits": 0,
-          "net": 74,
-          "total": 127,
-          "bench": 10,
-          "overall_rank": 5026449
-        },
-        {
-          "gw": 3,
-          "points": 61,
-          "hits": 0,
-          "net": 61,
-          "total": 188,
-          "bench": 5,
-          "overall_rank": 3844486
-        },
-        {
-          "gw": 4,
-          "points": 66,
-          "hits": 0,
-          "net": 66,
-          "total": 254,
-          "bench": 8,
-          "overall_rank": 4304322
-        },
-        {
-          "gw": 5,
-          "points": 45,
-          "hits": 0,
-          "net": 45,
-          "total": 299,
-          "bench": 6,
-          "overall_rank": 4586663
-        },
-        {
-          "gw": 6,
-          "points": 87,
-          "hits": 0,
-          "net": 87,
-          "total": 386,
-          "bench": 2,
-          "overall_rank": 2480910
-        },
-        {
-          "gw": 7,
-          "points": 71,
-          "hits": 0,
-          "net": 71,
+          "net": 0,
           "total": 457,
-          "bench": 10,
-          "overall_rank": 2111791
+          "bench": 0,
+          "overall_rank": 2154379
         }
       ]
     },
@@ -773,7 +854,7 @@
       "gross_points": 450,
       "hits": 0,
       "total": 450,
-      "gw_points": 71,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "freehit"
@@ -841,6 +922,15 @@
           "total": 450,
           "bench": 11,
           "overall_rank": 2490208
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 450,
+          "bench": 0,
+          "overall_rank": 2534776
         }
       ]
     },
@@ -851,12 +941,12 @@
       "rank": 11,
       "last_rank": 11,
       "rank_movement": 0,
-      "official_total": 437,
+      "official_total": 441,
       "gw_chip": null,
       "gross_points": 441,
       "hits": 0,
       "total": 441,
-      "gw_points": 68,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "bboost"
@@ -924,6 +1014,15 @@
           "total": 441,
           "bench": 2,
           "overall_rank": 3031133
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 441,
+          "bench": 0,
+          "overall_rank": 3075251
         }
       ]
     },
@@ -934,12 +1033,12 @@
       "rank": 12,
       "last_rank": 12,
       "rank_movement": 0,
-      "official_total": 434,
+      "official_total": 436,
       "gw_chip": null,
-      "gross_points": 434,
+      "gross_points": 436,
       "hits": 0,
-      "total": 434,
-      "gw_points": 67,
+      "total": 436,
+      "gw_points": 2,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -1008,6 +1107,107 @@
           "total": 434,
           "bench": 4,
           "overall_rank": 3499591
+        },
+        {
+          "gw": 8,
+          "points": 2,
+          "hits": 0,
+          "net": 2,
+          "total": 436,
+          "bench": 0,
+          "overall_rank": 3417941
+        }
+      ]
+    },
+    {
+      "entry": 2379371,
+      "manager": "Paul Alexis",
+      "team": "...After Review",
+      "rank": 13,
+      "last_rank": 17,
+      "rank_movement": 4,
+      "official_total": 435,
+      "gw_chip": null,
+      "gross_points": 443,
+      "hits": 8,
+      "total": 435,
+      "gw_points": 0,
+      "gw_hits": 0,
+      "chips_used": [
+        "wildcard"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 51,
+          "hits": 0,
+          "net": 51,
+          "total": 51,
+          "bench": 0,
+          "overall_rank": 4087187
+        },
+        {
+          "gw": 2,
+          "points": 56,
+          "hits": 4,
+          "net": 52,
+          "total": 103,
+          "bench": 0,
+          "overall_rank": 7839785
+        },
+        {
+          "gw": 3,
+          "points": 51,
+          "hits": 0,
+          "net": 51,
+          "total": 154,
+          "bench": 5,
+          "overall_rank": 7614210
+        },
+        {
+          "gw": 4,
+          "points": 76,
+          "hits": 0,
+          "net": 76,
+          "total": 230,
+          "bench": 8,
+          "overall_rank": 6522610
+        },
+        {
+          "gw": 5,
+          "points": 56,
+          "hits": 0,
+          "net": 56,
+          "total": 286,
+          "bench": 7,
+          "overall_rank": 5761565
+        },
+        {
+          "gw": 6,
+          "points": 69,
+          "hits": 4,
+          "net": 65,
+          "total": 351,
+          "bench": 4,
+          "overall_rank": 5113638
+        },
+        {
+          "gw": 7,
+          "points": 84,
+          "hits": 0,
+          "net": 84,
+          "total": 435,
+          "bench": 11,
+          "overall_rank": 3448512
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 435,
+          "bench": 1,
+          "overall_rank": 3506649
         }
       ]
     },
@@ -1015,15 +1215,15 @@
       "entry": 6294084,
       "manager": "Chris Beeden",
       "team": "ParkToon26",
-      "rank": 13,
+      "rank": 14,
       "last_rank": 15,
-      "rank_movement": 2,
+      "rank_movement": 1,
       "official_total": 431,
-      "gw_chip": "bboost",
+      "gw_chip": null,
       "gross_points": 431,
       "hits": 0,
       "total": 431,
-      "gw_points": 72,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "wildcard",
@@ -1092,6 +1292,15 @@
           "total": 431,
           "bench": 0,
           "overall_rank": 3695693
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 431,
+          "bench": 0,
+          "overall_rank": 3744423
         }
       ]
     },
@@ -1099,15 +1308,15 @@
       "entry": 5263666,
       "manager": "James Geary",
       "team": "Šeško Express",
-      "rank": 14,
+      "rank": 15,
       "last_rank": 19,
-      "rank_movement": 5,
+      "rank_movement": 4,
       "official_total": 430,
-      "gw_chip": "3xc",
+      "gw_chip": null,
       "gross_points": 430,
       "hits": 0,
       "total": 430,
-      "gw_points": 85,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "freehit",
@@ -1177,89 +1386,15 @@
           "total": 430,
           "bench": 8,
           "overall_rank": 3751536
-        }
-      ]
-    },
-    {
-      "entry": 2379371,
-      "manager": "Paul Alexis",
-      "team": "...After Review",
-      "rank": 15,
-      "last_rank": 17,
-      "rank_movement": 2,
-      "official_total": 427,
-      "gw_chip": null,
-      "gross_points": 443,
-      "hits": 8,
-      "total": 435,
-      "gw_points": 84,
-      "gw_hits": 0,
-      "chips_used": [
-        "wildcard"
-      ],
-      "history": [
+        },
         {
-          "gw": 1,
-          "points": 51,
+          "gw": 8,
+          "points": 0,
           "hits": 0,
-          "net": 51,
-          "total": 51,
+          "net": 0,
+          "total": 430,
           "bench": 0,
-          "overall_rank": 4087187
-        },
-        {
-          "gw": 2,
-          "points": 56,
-          "hits": 4,
-          "net": 52,
-          "total": 103,
-          "bench": 0,
-          "overall_rank": 7839785
-        },
-        {
-          "gw": 3,
-          "points": 51,
-          "hits": 0,
-          "net": 51,
-          "total": 154,
-          "bench": 5,
-          "overall_rank": 7614210
-        },
-        {
-          "gw": 4,
-          "points": 76,
-          "hits": 0,
-          "net": 76,
-          "total": 230,
-          "bench": 8,
-          "overall_rank": 6522610
-        },
-        {
-          "gw": 5,
-          "points": 56,
-          "hits": 0,
-          "net": 56,
-          "total": 286,
-          "bench": 7,
-          "overall_rank": 5761565
-        },
-        {
-          "gw": 6,
-          "points": 69,
-          "hits": 4,
-          "net": 65,
-          "total": 351,
-          "bench": 4,
-          "overall_rank": 5113638
-        },
-        {
-          "gw": 7,
-          "points": 84,
-          "hits": 0,
-          "net": 84,
-          "total": 435,
-          "bench": 11,
-          "overall_rank": 3448512
+          "overall_rank": 3800664
         }
       ]
     },
@@ -1270,12 +1405,12 @@
       "rank": 16,
       "last_rank": 16,
       "rank_movement": 0,
-      "official_total": 426,
+      "official_total": 429,
       "gw_chip": null,
-      "gross_points": 427,
+      "gross_points": 429,
       "hits": 0,
-      "total": 427,
-      "gw_points": 69,
+      "total": 429,
+      "gw_points": 2,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -1341,6 +1476,15 @@
           "total": 427,
           "bench": 6,
           "overall_rank": 3944862
+        },
+        {
+          "gw": 8,
+          "points": 2,
+          "hits": 0,
+          "net": 2,
+          "total": 429,
+          "bench": 0,
+          "overall_rank": 3857002
         }
       ]
     },
@@ -1356,7 +1500,7 @@
       "gross_points": 421,
       "hits": 0,
       "total": 421,
-      "gw_points": 56,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -1422,6 +1566,15 @@
           "total": 421,
           "bench": 7,
           "overall_rank": 4344405
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 421,
+          "bench": 0,
+          "overall_rank": 4388871
         }
       ]
     },
@@ -1432,12 +1585,12 @@
       "rank": 18,
       "last_rank": 22,
       "rank_movement": 4,
-      "official_total": 418,
-      "gw_chip": "wildcard",
-      "gross_points": 422,
+      "official_total": 420,
+      "gw_chip": null,
+      "gross_points": 424,
       "hits": 4,
-      "total": 418,
-      "gw_points": 82,
+      "total": 420,
+      "gw_points": 2,
       "gw_hits": 0,
       "chips_used": [
         "wildcard"
@@ -1505,172 +1658,15 @@
           "total": 418,
           "bench": 4,
           "overall_rank": 4559299
-        }
-      ]
-    },
-    {
-      "entry": 3682024,
-      "manager": "Cathy Eckett-Brown",
-      "team": "Eccles FC",
-      "rank": 19,
-      "last_rank": 18,
-      "rank_movement": -1,
-      "official_total": 403,
-      "gw_chip": null,
-      "gross_points": 407,
-      "hits": 0,
-      "total": 407,
-      "gw_points": 59,
-      "gw_hits": 0,
-      "chips_used": [
-        "freehit"
-      ],
-      "history": [
-        {
-          "gw": 1,
-          "points": 39,
-          "hits": 0,
-          "net": 39,
-          "total": 39,
-          "bench": 17,
-          "overall_rank": 7295417
         },
         {
-          "gw": 2,
-          "points": 101,
+          "gw": 8,
+          "points": 2,
           "hits": 0,
-          "net": 101,
-          "total": 140,
-          "bench": 19,
-          "overall_rank": 3210492
-        },
-        {
-          "gw": 3,
-          "points": 50,
-          "hits": 0,
-          "net": 50,
-          "total": 190,
-          "bench": 7,
-          "overall_rank": 3557120
-        },
-        {
-          "gw": 4,
-          "points": 55,
-          "hits": 0,
-          "net": 55,
-          "total": 245,
-          "bench": 11,
-          "overall_rank": 5163773
-        },
-        {
-          "gw": 5,
-          "points": 50,
-          "hits": 0,
-          "net": 50,
-          "total": 295,
-          "bench": 9,
-          "overall_rank": 4925389
-        },
-        {
-          "gw": 6,
-          "points": 53,
-          "hits": 0,
-          "net": 53,
-          "total": 348,
-          "bench": 6,
-          "overall_rank": 5293936
-        },
-        {
-          "gw": 7,
-          "points": 59,
-          "hits": 0,
-          "net": 59,
-          "total": 407,
-          "bench": 3,
-          "overall_rank": 5264857
-        }
-      ]
-    },
-    {
-      "entry": 3602993,
-      "manager": "Alan Eckett-Brown",
-      "team": "Wirtz Case Scenario",
-      "rank": 20,
-      "last_rank": 26,
-      "rank_movement": 6,
-      "official_total": 402,
-      "gw_chip": null,
-      "gross_points": 402,
-      "hits": 0,
-      "total": 402,
-      "gw_points": 72,
-      "gw_hits": 0,
-      "chips_used": [
-        "wildcard"
-      ],
-      "history": [
-        {
-          "gw": 1,
-          "points": 41,
-          "hits": 0,
-          "net": 41,
-          "total": 41,
-          "bench": 8,
-          "overall_rank": 6875541
-        },
-        {
-          "gw": 2,
-          "points": 81,
-          "hits": 0,
-          "net": 81,
-          "total": 122,
-          "bench": 9,
-          "overall_rank": 5777717
-        },
-        {
-          "gw": 3,
-          "points": 54,
-          "hits": 0,
-          "net": 54,
-          "total": 176,
-          "bench": 0,
-          "overall_rank": 5391792
-        },
-        {
-          "gw": 4,
-          "points": 69,
-          "hits": 0,
-          "net": 69,
-          "total": 245,
+          "net": 2,
+          "total": 420,
           "bench": 2,
-          "overall_rank": 5195223
-        },
-        {
-          "gw": 5,
-          "points": 31,
-          "hits": 0,
-          "net": 31,
-          "total": 276,
-          "bench": 0,
-          "overall_rank": 6565086
-        },
-        {
-          "gw": 6,
-          "points": 54,
-          "hits": 0,
-          "net": 54,
-          "total": 330,
-          "bench": 7,
-          "overall_rank": 6567892
-        },
-        {
-          "gw": 7,
-          "points": 72,
-          "hits": 0,
-          "net": 72,
-          "total": 402,
-          "bench": 17,
-          "overall_rank": 5591305
+          "overall_rank": 4465442
         }
       ]
     },
@@ -1678,15 +1674,15 @@
       "entry": 1278525,
       "manager": "Jamie Mitchell",
       "team": "wataru doing?",
-      "rank": 21,
+      "rank": 19,
       "last_rank": 13,
-      "rank_movement": -8,
-      "official_total": 402,
+      "rank_movement": -6,
+      "official_total": 413,
       "gw_chip": null,
       "gross_points": 413,
       "hits": 0,
       "total": 413,
-      "gw_points": 47,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -1755,6 +1751,15 @@
           "total": 413,
           "bench": 0,
           "overall_rank": 4889593
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 413,
+          "bench": 2,
+          "overall_rank": 4937891
         }
       ]
     },
@@ -1762,15 +1767,15 @@
       "entry": 5006658,
       "manager": "Abi Speight",
       "team": "Fantaspeight",
-      "rank": 22,
+      "rank": 20,
       "last_rank": 23,
-      "rank_movement": 1,
-      "official_total": 398,
-      "gw_chip": "3xc",
-      "gross_points": 406,
+      "rank_movement": 3,
+      "official_total": 408,
+      "gw_chip": null,
+      "gross_points": 408,
       "hits": 0,
-      "total": 406,
-      "gw_points": 72,
+      "total": 408,
+      "gw_points": 2,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -1839,6 +1844,107 @@
           "total": 406,
           "bench": 6,
           "overall_rank": 5358903
+        },
+        {
+          "gw": 8,
+          "points": 2,
+          "hits": 0,
+          "net": 2,
+          "total": 408,
+          "bench": 0,
+          "overall_rank": 5265459
+        }
+      ]
+    },
+    {
+      "entry": 3682024,
+      "manager": "Cathy Eckett-Brown",
+      "team": "Eccles FC",
+      "rank": 21,
+      "last_rank": 18,
+      "rank_movement": -3,
+      "official_total": 407,
+      "gw_chip": null,
+      "gross_points": 407,
+      "hits": 0,
+      "total": 407,
+      "gw_points": 0,
+      "gw_hits": 0,
+      "chips_used": [
+        "freehit"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 39,
+          "hits": 0,
+          "net": 39,
+          "total": 39,
+          "bench": 17,
+          "overall_rank": 7295417
+        },
+        {
+          "gw": 2,
+          "points": 101,
+          "hits": 0,
+          "net": 101,
+          "total": 140,
+          "bench": 19,
+          "overall_rank": 3210492
+        },
+        {
+          "gw": 3,
+          "points": 50,
+          "hits": 0,
+          "net": 50,
+          "total": 190,
+          "bench": 7,
+          "overall_rank": 3557120
+        },
+        {
+          "gw": 4,
+          "points": 55,
+          "hits": 0,
+          "net": 55,
+          "total": 245,
+          "bench": 11,
+          "overall_rank": 5163773
+        },
+        {
+          "gw": 5,
+          "points": 50,
+          "hits": 0,
+          "net": 50,
+          "total": 295,
+          "bench": 9,
+          "overall_rank": 4925389
+        },
+        {
+          "gw": 6,
+          "points": 53,
+          "hits": 0,
+          "net": 53,
+          "total": 348,
+          "bench": 6,
+          "overall_rank": 5293936
+        },
+        {
+          "gw": 7,
+          "points": 59,
+          "hits": 0,
+          "net": 59,
+          "total": 407,
+          "bench": 3,
+          "overall_rank": 5264857
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 407,
+          "bench": 0,
+          "overall_rank": 5313355
         }
       ]
     },
@@ -1846,15 +1952,15 @@
       "entry": 7986035,
       "manager": "Paul Ray",
       "team": "This my year FC",
-      "rank": 23,
+      "rank": 22,
       "last_rank": 20,
-      "rank_movement": -3,
-      "official_total": 397,
+      "rank_movement": -2,
+      "official_total": 404,
       "gw_chip": null,
-      "gross_points": 397,
+      "gross_points": 404,
       "hits": 0,
-      "total": 397,
-      "gw_points": 56,
+      "total": 404,
+      "gw_points": 7,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -1920,6 +2026,107 @@
           "total": 397,
           "bench": 5,
           "overall_rank": 5890988
+        },
+        {
+          "gw": 8,
+          "points": 7,
+          "hits": 0,
+          "net": 7,
+          "total": 404,
+          "bench": 1,
+          "overall_rank": 5516595
+        }
+      ]
+    },
+    {
+      "entry": 3602993,
+      "manager": "Alan Eckett-Brown",
+      "team": "Wirtz Case Scenario",
+      "rank": 23,
+      "last_rank": 26,
+      "rank_movement": 3,
+      "official_total": 402,
+      "gw_chip": null,
+      "gross_points": 402,
+      "hits": 0,
+      "total": 402,
+      "gw_points": 0,
+      "gw_hits": 0,
+      "chips_used": [
+        "wildcard"
+      ],
+      "history": [
+        {
+          "gw": 1,
+          "points": 41,
+          "hits": 0,
+          "net": 41,
+          "total": 41,
+          "bench": 8,
+          "overall_rank": 6875541
+        },
+        {
+          "gw": 2,
+          "points": 81,
+          "hits": 0,
+          "net": 81,
+          "total": 122,
+          "bench": 9,
+          "overall_rank": 5777717
+        },
+        {
+          "gw": 3,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 176,
+          "bench": 0,
+          "overall_rank": 5391792
+        },
+        {
+          "gw": 4,
+          "points": 69,
+          "hits": 0,
+          "net": 69,
+          "total": 245,
+          "bench": 2,
+          "overall_rank": 5195223
+        },
+        {
+          "gw": 5,
+          "points": 31,
+          "hits": 0,
+          "net": 31,
+          "total": 276,
+          "bench": 0,
+          "overall_rank": 6565086
+        },
+        {
+          "gw": 6,
+          "points": 54,
+          "hits": 0,
+          "net": 54,
+          "total": 330,
+          "bench": 7,
+          "overall_rank": 6567892
+        },
+        {
+          "gw": 7,
+          "points": 72,
+          "hits": 0,
+          "net": 72,
+          "total": 402,
+          "bench": 17,
+          "overall_rank": 5591305
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 402,
+          "bench": 0,
+          "overall_rank": 5643789
         }
       ]
     },
@@ -1930,12 +2137,12 @@
       "rank": 24,
       "last_rank": 25,
       "rank_movement": 1,
-      "official_total": 392,
+      "official_total": 397,
       "gw_chip": null,
-      "gross_points": 395,
+      "gross_points": 397,
       "hits": 0,
-      "total": 395,
-      "gw_points": 64,
+      "total": 397,
+      "gw_points": 2,
       "gw_hits": 0,
       "chips_used": [
         "3xc",
@@ -2004,6 +2211,15 @@
           "total": 395,
           "bench": 2,
           "overall_rank": 6036173
+        },
+        {
+          "gw": 8,
+          "points": 2,
+          "hits": 0,
+          "net": 2,
+          "total": 397,
+          "bench": 1,
+          "overall_rank": 5964895
         }
       ]
     },
@@ -2014,12 +2230,12 @@
       "rank": 25,
       "last_rank": 24,
       "rank_movement": -1,
-      "official_total": 388,
+      "official_total": 391,
       "gw_chip": null,
       "gross_points": 399,
       "hits": 8,
       "total": 391,
-      "gw_points": 58,
+      "gw_points": 0,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -2085,6 +2301,15 @@
           "total": 391,
           "bench": 2,
           "overall_rank": 6303651
+        },
+        {
+          "gw": 8,
+          "points": 0,
+          "hits": 0,
+          "net": 0,
+          "total": 391,
+          "bench": 0,
+          "overall_rank": 6347725
         }
       ]
     },
@@ -2095,12 +2320,12 @@
       "rank": 26,
       "last_rank": 21,
       "rank_movement": -5,
-      "official_total": 374,
+      "official_total": 376,
       "gw_chip": null,
-      "gross_points": 374,
+      "gross_points": 376,
       "hits": 0,
-      "total": 374,
-      "gw_points": 35,
+      "total": 376,
+      "gw_points": 2,
       "gw_hits": 0,
       "chips_used": [
         "3xc"
@@ -2168,6 +2393,15 @@
           "total": 374,
           "bench": 3,
           "overall_rank": 7241188
+        },
+        {
+          "gw": 8,
+          "points": 2,
+          "hits": 0,
+          "net": 2,
+          "total": 376,
+          "bench": 2,
+          "overall_rank": 7167373
         }
       ]
     }
