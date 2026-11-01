@@ -119,6 +119,21 @@
       "event_transfers": 0,
       "event_transfers_cost": 0,
       "points_on_bench": 2
+    },
+    {
+      "event": 9,
+      "points": 52,
+      "total_points": 626,
+      "rank": 898201,
+      "rank_sort": 913130,
+      "overall_rank": 64742,
+      "percentile_rank": 10,
+      "overall_rank_percentage": "0.6",
+      "bank": 21,
+      "value": 1012,
+      "event_transfers": 0,
+      "event_transfers_cost": 0,
+      "points_on_bench": 17
     }
   ],
   "past": [
@@ -200,6 +215,11 @@
       "name": "bboost",
       "time": "2026-10-16T18:27:59.524749Z",
       "event": 7
+    },
+    {
+      "name": "wildcard",
+      "time": "2026-10-25T06:33:15.397102Z",
+      "event": 9
     }
   ]
 }

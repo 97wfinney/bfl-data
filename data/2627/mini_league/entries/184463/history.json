@@ -119,6 +119,21 @@
       "event_transfers": 2,
       "event_transfers_cost": 0,
       "points_on_bench": 2
+    },
+    {
+      "event": 9,
+      "points": 44,
+      "total_points": 584,
+      "rank": 2016385,
+      "rank_sort": 2017101,
+      "overall_rank": 584827,
+      "percentile_rank": 20,
+      "overall_rank_percentage": "5",
+      "bank": 13,
+      "value": 1025,
+      "event_transfers": 0,
+      "event_transfers_cost": 0,
+      "points_on_bench": 17
     }
   ],
   "past": [
@@ -175,6 +190,11 @@
       "name": "wildcard",
       "time": "2026-09-10T13:40:36.237658Z",
       "event": 4
+    },
+    {
+      "name": "freehit",
+      "time": "2026-10-30T17:49:48.597343Z",
+      "event": 9
     }
   ]
 }
