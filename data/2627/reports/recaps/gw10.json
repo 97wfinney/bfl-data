@@ -1,0 +1,364 @@
+{
+  "season": "2627",
+  "gw": 10,
+  "league": "Biddenham Fantasy League",
+  "generated_at": "2026-11-09T03:00:24.837823+00:00",
+  "manager_count": 26,
+  "gws_remaining": 28,
+  "headline": "Amy Warden hits 42 as Louis Grimoldby keeps a 17-point grip on the summit.",
+  "summary": "amy warden was Gameweek 10’s manager of the week with 42 points for Palmer Violets, climbing four places in the process. Louis Grimoldby remains top on 651, but Mark Horton is 17 points back and David Bailey’s 30-point week has moved him into third.",
+  "report": "Louis Grimoldby’s Grim FC remains the team to catch after Gameweek 10, holding first place on 651 points. Mark Horton’s Vespa Mo Pedro scored 21 to stay second on 634, leaving the gap at 17, while David Bailey’s 30-point return for Dave’s Dream Team lifted him one place into third on 627. The top five is properly bunched: olly barnes is fourth on 623, just one point ahead of Will Finney’s 622, with Tim Chodha only four points behind Finney.\n\nThe weekly honours belong to amy warden and Palmer Violets, whose clean 42 was the best score in the league and earned a four-place climb. Phil Johnson was close behind on 41, while Callum Bowness collected 37 and rose three places. Phil’s masterstroke was the league’s most valuable differential: EVE’s Barry, owned by Phil alone, delivered 16 points.\n\nCaptaincy was a tale of a very popular two points versus one decisive 11. Haaland was handed the armband by 16 managers and returned 2, including leader Louis Grimoldby, making him the week’s captaincy howler. Georg Coakley went the other way, captaining N.Jackson for 11 points with a multiplier of 2, and paired that call with a bench boost on the way to 32 points.\n\nThere were more differential delights elsewhere. David Tonks and olly barnes owned Muharemović for 10, while Callum Bowness and Georg Coakley had B.Fernandes for 10. James Marshall’s Trafford returned 10 as a one-owner pick, and Justin brought 9 for David Tonks and George Foy. At the other end, olly barnes will be staring at 17 bench points after Grasshoppers posted 22 for the week.\n\nJamie Mitchell activated a wildcard and returned 33, continuing the strongest recent run in the league with 167 points across the last three gameweeks. Ali Smith took the only listed hit, paying 4 but still reaching 30 net from a 34-point gross. Chris Beeden and ParkToon26 took the wooden spoon with 15, while Dan Birkinshaw, Chris Beeden and Abi Speight each dropped two places.\n\nThe league average was 28.2, ahead of the global average of 25, though well short of the global high of 100. With 28 gameweeks remaining, the title race has plenty of road left—but Grim FC still has the 17-point advantage, and the battle from third to sixth is separated by just 8 points.",
+  "facts": {
+    "league": "Biddenham Fantasy League",
+    "season": "2627",
+    "gw": 10,
+    "manager_count": 26,
+    "gws_remaining": 28,
+    "title_race": {
+      "leader": {
+        "manager": "Louis Grimoldby",
+        "team": "Grim FC",
+        "total": 651
+      },
+      "second": {
+        "manager": "Mark Horton",
+        "team": "Vespa Mo Pedro",
+        "total": 634,
+        "gap": 17
+      },
+      "lead_changed": false,
+      "top5": [
+        {
+          "manager": "Louis Grimoldby",
+          "team": "Grim FC",
+          "total": 651,
+          "gw_net": 22,
+          "rank": 1,
+          "movement": 0
+        },
+        {
+          "manager": "Mark Horton",
+          "team": "Vespa Mo Pedro",
+          "total": 634,
+          "gw_net": 21,
+          "rank": 2,
+          "movement": 0
+        },
+        {
+          "manager": "David Bailey",
+          "team": "Dave's Dream Team",
+          "total": 627,
+          "gw_net": 30,
+          "rank": 3,
+          "movement": 1
+        },
+        {
+          "manager": "olly barnes",
+          "team": "Grasshoppers",
+          "total": 623,
+          "gw_net": 22,
+          "rank": 4,
+          "movement": -1
+        },
+        {
+          "manager": "Will Finney",
+          "team": "0v3rf1tt3d.h5",
+          "total": 622,
+          "gw_net": 31,
+          "rank": 5,
+          "movement": 0
+        }
+      ]
+    },
+    "gameweek": {
+      "league_avg": 28.2,
+      "global_avg": 25,
+      "global_highest": 100,
+      "manager_of_week": {
+        "manager": "amy warden",
+        "team": "Palmer Violets",
+        "gross": 42,
+        "hits": 0,
+        "net": 42
+      },
+      "wooden_spoon": {
+        "manager": "Chris Beeden",
+        "team": "ParkToon26",
+        "gross": 15,
+        "net": 15
+      },
+      "top_scores": [
+        {
+          "manager": "amy warden",
+          "net": 42,
+          "gross": 42
+        },
+        {
+          "manager": "Phil Johnson",
+          "net": 41,
+          "gross": 41
+        },
+        {
+          "manager": "Callum Bowness",
+          "net": 37,
+          "gross": 37
+        }
+      ]
+    },
+    "movers": {
+      "climbers": [
+        {
+          "manager": "amy warden",
+          "movement": 4,
+          "gw_net": 42
+        },
+        {
+          "manager": "Callum Bowness",
+          "movement": 3,
+          "gw_net": 37
+        },
+        {
+          "manager": "David Bailey",
+          "movement": 1,
+          "gw_net": 30
+        }
+      ],
+      "fallers": [
+        {
+          "manager": "Dan Birkinshaw",
+          "movement": -2,
+          "gw_net": 17
+        },
+        {
+          "manager": "Chris Beeden",
+          "movement": -2,
+          "gw_net": 15
+        },
+        {
+          "manager": "Abi Speight",
+          "movement": -2,
+          "gw_net": 24
+        }
+      ]
+    },
+    "captaincy": {
+      "most_popular": {
+        "web_name": "Haaland",
+        "count": 16,
+        "points": 2
+      },
+      "genius": {
+        "manager": "Georg Coakley",
+        "web_name": "N.Jackson",
+        "points": 11,
+        "multiplier": 2
+      },
+      "howler": {
+        "manager": "Louis Grimoldby",
+        "web_name": "Haaland",
+        "points": 2
+      }
+    },
+    "chips": {
+      "played": [
+        {
+          "manager": "Jamie Mitchell",
+          "chip": "wildcard",
+          "gw_net": 33
+        },
+        {
+          "manager": "Georg Coakley",
+          "chip": "bboost",
+          "gw_net": 32
+        }
+      ],
+      "remaining": {
+        "triple_captain": 17,
+        "bench_boost": 15,
+        "free_hit": 18
+      }
+    },
+    "hits": {
+      "takers": [
+        {
+          "manager": "Ali Smith",
+          "cost": 4,
+          "gw_gross": 34,
+          "gw_net": 30
+        }
+      ],
+      "biggest": {
+        "manager": "Ali Smith",
+        "cost": 4,
+        "gw_gross": 34,
+        "gw_net": 30
+      }
+    },
+    "differentials": [
+      {
+        "web_name": "Barry",
+        "team": "EVE",
+        "points": 16,
+        "owned": 1,
+        "owners": [
+          "Phil Johnson"
+        ]
+      },
+      {
+        "web_name": "Muharemović",
+        "team": "LEE",
+        "points": 10,
+        "owned": 2,
+        "owners": [
+          "David Tonks",
+          "olly barnes"
+        ]
+      },
+      {
+        "web_name": "B.Fernandes",
+        "team": "MUN",
+        "points": 10,
+        "owned": 2,
+        "owners": [
+          "Callum Bowness",
+          "Georg Coakley"
+        ]
+      },
+      {
+        "web_name": "Trafford",
+        "team": "LEE",
+        "points": 10,
+        "owned": 1,
+        "owners": [
+          "James Marshall"
+        ]
+      },
+      {
+        "web_name": "Justin",
+        "team": "LEE",
+        "points": 9,
+        "owned": 2,
+        "owners": [
+          "David Tonks",
+          "George Foy"
+        ]
+      },
+      {
+        "web_name": "Mykolenko",
+        "team": "EVE",
+        "points": 8,
+        "owned": 2,
+        "owners": [
+          "Dan Birkinshaw",
+          "George Foy"
+        ]
+      }
+    ],
+    "template": [
+      {
+        "web_name": "Haaland",
+        "team": "MCI",
+        "owned": 23,
+        "owned_pct": 88.5,
+        "points": 2
+      },
+      {
+        "web_name": "Rogers",
+        "team": "CHE",
+        "owned": 16,
+        "owned_pct": 61.5,
+        "points": 2
+      },
+      {
+        "web_name": "N.Jackson",
+        "team": "AVL",
+        "owned": 15,
+        "owned_pct": 57.7,
+        "points": 11
+      },
+      {
+        "web_name": "Groß",
+        "team": "BHA",
+        "owned": 14,
+        "owned_pct": 53.8,
+        "points": 10
+      },
+      {
+        "web_name": "Calafiori",
+        "team": "ARS",
+        "owned": 14,
+        "owned_pct": 53.8,
+        "points": 6
+      },
+      {
+        "web_name": "Palmer",
+        "team": "CHE",
+        "owned": 13,
+        "owned_pct": 50.0,
+        "points": 2
+      },
+      {
+        "web_name": "Konsa",
+        "team": "ARS",
+        "owned": 12,
+        "owned_pct": 46.2,
+        "points": 8
+      },
+      {
+        "web_name": "Raya",
+        "team": "ARS",
+        "owned": 11,
+        "owned_pct": 42.3,
+        "points": 6
+      }
+    ],
+    "bench_agony": {
+      "manager": "olly barnes",
+      "bench_points": 17
+    },
+    "form": {
+      "hottest": {
+        "manager": "Jamie Mitchell",
+        "last3_net": 167
+      },
+      "coldest": {
+        "manager": "Mike Flynn",
+        "last3_net": 94
+      }
+    },
+    "season_record": {
+      "manager": "Mark Horton",
+      "gw": 2,
+      "net": 116
+    },
+    "battles": [
+      {
+        "higher": "David Bailey",
+        "lower": "olly barnes",
+        "gap": 4,
+        "ranks": [
+          3,
+          4
+        ]
+      },
+      {
+        "higher": "olly barnes",
+        "lower": "Will Finney",
+        "gap": 1,
+        "ranks": [
+          4,
+          5
+        ]
+      },
+      {
+        "higher": "Will Finney",
+        "lower": "Tim Chodha",
+        "gap": 4,
+        "ranks": [
+          5,
+          6
+        ]
+      }
+    ]
+  }
+}
