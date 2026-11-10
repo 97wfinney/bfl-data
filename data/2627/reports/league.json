@@ -1,8 +1,8 @@
 {
   "season": "2627",
   "current_gw": 10,
-  "finished": false,
-  "updated_at": "2026-11-09T03:00:09.644114+00:00",
+  "finished": true,
+  "updated_at": "2026-11-10T03:00:07.148327+00:00",
   "league": {
     "id": 35621,
     "name": "Biddenham Fantasy League"
@@ -17,10 +17,10 @@
       "rank_movement": 0,
       "official_total": 690,
       "gw_chip": null,
-      "gross_points": 651,
+      "gross_points": 690,
       "hits": 0,
-      "total": 651,
-      "gw_points": 22,
+      "total": 690,
+      "gw_points": 61,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -110,12 +110,12 @@
         },
         {
           "gw": 10,
-          "points": 22,
+          "points": 61,
           "hits": 0,
-          "net": 22,
-          "total": 651,
+          "net": 61,
+          "total": 690,
           "bench": 8,
-          "overall_rank": 196673
+          "overall_rank": 164123
         }
       ]
     },
@@ -128,10 +128,10 @@
       "rank_movement": 0,
       "official_total": 670,
       "gw_chip": null,
-      "gross_points": 634,
+      "gross_points": 670,
       "hits": 0,
-      "total": 634,
-      "gw_points": 21,
+      "total": 670,
+      "gw_points": 57,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -218,12 +218,12 @@
         },
         {
           "gw": 10,
-          "points": 21,
+          "points": 57,
           "hits": 0,
-          "net": 21,
-          "total": 634,
-          "bench": 0,
-          "overall_rank": 436380
+          "net": 57,
+          "total": 670,
+          "bench": -1,
+          "overall_rank": 422317
         }
       ]
     },
@@ -236,10 +236,10 @@
       "rank_movement": 0,
       "official_total": 666,
       "gw_chip": null,
-      "gross_points": 623,
+      "gross_points": 666,
       "hits": 0,
-      "total": 623,
-      "gw_points": 22,
+      "total": 666,
+      "gw_points": 65,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -329,12 +329,12 @@
         },
         {
           "gw": 10,
-          "points": 22,
+          "points": 65,
           "hits": 0,
-          "net": 22,
-          "total": 623,
-          "bench": 17,
-          "overall_rank": 658652
+          "net": 65,
+          "total": 666,
+          "bench": 18,
+          "overall_rank": 488357
         }
       ]
     },
@@ -347,10 +347,10 @@
       "rank_movement": 1,
       "official_total": 647,
       "gw_chip": null,
-      "gross_points": 622,
+      "gross_points": 647,
       "hits": 0,
-      "total": 622,
-      "gw_points": 31,
+      "total": 647,
+      "gw_points": 56,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -441,12 +441,12 @@
         },
         {
           "gw": 10,
-          "points": 31,
+          "points": 56,
           "hits": 0,
-          "net": 31,
-          "total": 622,
+          "net": 56,
+          "total": 647,
           "bench": 8,
-          "overall_rank": 683010
+          "overall_rank": 940780
         }
       ]
     },
@@ -459,10 +459,10 @@
       "rank_movement": -1,
       "official_total": 647,
       "gw_chip": null,
-      "gross_points": 627,
+      "gross_points": 647,
       "hits": 0,
-      "total": 627,
-      "gw_points": 30,
+      "total": 647,
+      "gw_points": 50,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -553,12 +553,12 @@
         },
         {
           "gw": 10,
-          "points": 30,
+          "points": 50,
           "hits": 0,
-          "net": 30,
-          "total": 627,
-          "bench": 8,
-          "overall_rank": 570032
+          "net": 50,
+          "total": 647,
+          "bench": 7,
+          "overall_rank": 943465
         }
       ]
     },
@@ -571,10 +571,10 @@
       "rank_movement": 0,
       "official_total": 644,
       "gw_chip": null,
-      "gross_points": 618,
+      "gross_points": 644,
       "hits": 0,
-      "total": 618,
-      "gw_points": 34,
+      "total": 644,
+      "gw_points": 60,
       "gw_hits": 0,
       "chips_used": [
         "3xc",
@@ -664,12 +664,12 @@
         },
         {
           "gw": 10,
-          "points": 34,
+          "points": 60,
           "hits": 0,
-          "net": 34,
-          "total": 618,
-          "bench": 9,
-          "overall_rank": 785916
+          "net": 60,
+          "total": 644,
+          "bench": 21,
+          "overall_rank": 1029509
         }
       ]
     },
@@ -682,10 +682,10 @@
       "rank_movement": 0,
       "official_total": 633,
       "gw_chip": null,
-      "gross_points": 615,
+      "gross_points": 633,
       "hits": 0,
-      "total": 615,
-      "gw_points": 31,
+      "total": 633,
+      "gw_points": 49,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -775,12 +775,12 @@
         },
         {
           "gw": 10,
-          "points": 31,
+          "points": 49,
           "hits": 0,
-          "net": 31,
-          "total": 615,
+          "net": 49,
+          "total": 633,
           "bench": 13,
-          "overall_rank": 878096
+          "overall_rank": 1402476
         }
       ]
     },
@@ -793,10 +793,10 @@
       "rank_movement": 2,
       "official_total": 631,
       "gw_chip": null,
-      "gross_points": 597,
+      "gross_points": 631,
       "hits": 0,
-      "total": 597,
-      "gw_points": 41,
+      "total": 631,
+      "gw_points": 75,
       "gw_hits": 0,
       "chips_used": [
         "freehit"
@@ -885,12 +885,12 @@
         },
         {
           "gw": 10,
-          "points": 41,
+          "points": 75,
           "hits": 0,
-          "net": 41,
-          "total": 597,
-          "bench": 0,
-          "overall_rank": 1490448
+          "net": 75,
+          "total": 631,
+          "bench": 6,
+          "overall_rank": 1474929
         }
       ]
     },
@@ -903,10 +903,10 @@
       "rank_movement": -1,
       "official_total": 627,
       "gw_chip": null,
-      "gross_points": 599,
+      "gross_points": 635,
       "hits": 8,
-      "total": 591,
-      "gw_points": 31,
+      "total": 627,
+      "gw_points": 67,
       "gw_hits": 0,
       "chips_used": [
         "wildcard"
@@ -995,12 +995,12 @@
         },
         {
           "gw": 10,
-          "points": 31,
+          "points": 67,
           "hits": 0,
-          "net": 31,
-          "total": 591,
-          "bench": 6,
-          "overall_rank": 1744563
+          "net": 67,
+          "total": 627,
+          "bench": 9,
+          "overall_rank": 1635253
         }
       ]
     },
@@ -1013,10 +1013,10 @@
       "rank_movement": -1,
       "official_total": 611,
       "gw_chip": null,
-      "gross_points": 573,
+      "gross_points": 611,
       "hits": 0,
-      "total": 573,
-      "gw_points": 17,
+      "total": 611,
+      "gw_points": 55,
       "gw_hits": 0,
       "chips_used": [
         "3xc",
@@ -1107,12 +1107,12 @@
         },
         {
           "gw": 10,
-          "points": 17,
+          "points": 55,
           "hits": 0,
-          "net": 17,
-          "total": 573,
-          "bench": 7,
-          "overall_rank": 2566550
+          "net": 55,
+          "total": 611,
+          "bench": 8,
+          "overall_rank": 2294138
         }
       ]
     },
@@ -1125,10 +1125,10 @@
       "rank_movement": 2,
       "official_total": 610,
       "gw_chip": null,
-      "gross_points": 560,
+      "gross_points": 610,
       "hits": 0,
-      "total": 560,
-      "gw_points": 17,
+      "total": 610,
+      "gw_points": 67,
       "gw_hits": 0,
       "chips_used": [
         "3xc"
@@ -1217,12 +1217,12 @@
         },
         {
           "gw": 10,
-          "points": 17,
+          "points": 67,
           "hits": 0,
-          "net": 17,
-          "total": 560,
-          "bench": 8,
-          "overall_rank": 3271849
+          "net": 67,
+          "total": 610,
+          "bench": 16,
+          "overall_rank": 2357612
         }
       ]
     },
@@ -1235,10 +1235,10 @@
       "rank_movement": -1,
       "official_total": 599,
       "gw_chip": "wildcard",
-      "gross_points": 580,
+      "gross_points": 599,
       "hits": 0,
-      "total": 580,
-      "gw_points": 33,
+      "total": 599,
+      "gw_points": 52,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -1329,12 +1329,12 @@
         },
         {
           "gw": 10,
-          "points": 33,
+          "points": 52,
           "hits": 0,
-          "net": 33,
-          "total": 580,
-          "bench": 0,
-          "overall_rank": 2217962
+          "net": 52,
+          "total": 599,
+          "bench": 17,
+          "overall_rank": 2862183
         }
       ]
     },
@@ -1347,10 +1347,10 @@
       "rank_movement": 7,
       "official_total": 595,
       "gw_chip": null,
-      "gross_points": 548,
+      "gross_points": 599,
       "hits": 4,
-      "total": 544,
-      "gw_points": 24,
+      "total": 595,
+      "gw_points": 75,
       "gw_hits": 0,
       "chips_used": [
         "wildcard"
@@ -1439,12 +1439,12 @@
         },
         {
           "gw": 10,
-          "points": 24,
+          "points": 75,
           "hits": 0,
-          "net": 24,
-          "total": 544,
-          "bench": 13,
-          "overall_rank": 4149760
+          "net": 75,
+          "total": 595,
+          "bench": 12,
+          "overall_rank": 3067287
         }
       ]
     },
@@ -1457,10 +1457,10 @@
       "rank_movement": 2,
       "official_total": 589,
       "gw_chip": null,
-      "gross_points": 554,
+      "gross_points": 589,
       "hits": 0,
-      "total": 554,
-      "gw_points": 31,
+      "total": 589,
+      "gw_points": 66,
       "gw_hits": 0,
       "chips_used": [
         "freehit"
@@ -1549,12 +1549,12 @@
         },
         {
           "gw": 10,
-          "points": 31,
+          "points": 66,
           "hits": 0,
-          "net": 31,
-          "total": 554,
-          "bench": 2,
-          "overall_rank": 3585768
+          "net": 66,
+          "total": 589,
+          "bench": 13,
+          "overall_rank": 3375671
         }
       ]
     },
@@ -1567,10 +1567,10 @@
       "rank_movement": 4,
       "official_total": 589,
       "gw_chip": null,
-      "gross_points": 550,
+      "gross_points": 589,
       "hits": 0,
-      "total": 550,
-      "gw_points": 29,
+      "total": 589,
+      "gw_points": 68,
       "gw_hits": 0,
       "chips_used": [
         "freehit",
@@ -1661,12 +1661,12 @@
         },
         {
           "gw": 10,
-          "points": 29,
+          "points": 68,
           "hits": 0,
-          "net": 29,
-          "total": 550,
+          "net": 68,
+          "total": 589,
           "bench": 2,
-          "overall_rank": 3810389
+          "overall_rank": 3375671
         }
       ]
     },
@@ -1679,10 +1679,10 @@
       "rank_movement": -4,
       "official_total": 587,
       "gw_chip": null,
-      "gross_points": 561,
+      "gross_points": 598,
       "hits": 0,
-      "total": 561,
-      "gw_points": 18,
+      "total": 598,
+      "gw_points": 55,
       "gw_hits": 0,
       "chips_used": [
         "bboost"
@@ -1771,12 +1771,12 @@
         },
         {
           "gw": 10,
-          "points": 18,
+          "points": 55,
           "hits": 0,
-          "net": 18,
-          "total": 561,
+          "net": 55,
+          "total": 598,
           "bench": 0,
-          "overall_rank": 3190149
+          "overall_rank": 2908024
         }
       ]
     },
@@ -1789,10 +1789,10 @@
       "rank_movement": -2,
       "official_total": 575,
       "gw_chip": null,
-      "gross_points": 565,
+      "gross_points": 580,
       "hits": 0,
-      "total": 565,
-      "gw_points": 37,
+      "total": 580,
+      "gw_points": 52,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -1879,12 +1879,12 @@
         },
         {
           "gw": 10,
-          "points": 37,
+          "points": 52,
           "hits": 0,
-          "net": 37,
-          "total": 565,
-          "bench": 1,
-          "overall_rank": 2972859
+          "net": 52,
+          "total": 580,
+          "bench": 6,
+          "overall_rank": 3839753
         }
       ]
     },
@@ -1897,10 +1897,10 @@
       "rank_movement": 1,
       "official_total": 572,
       "gw_chip": null,
-      "gross_points": 536,
+      "gross_points": 572,
       "hits": 0,
-      "total": 536,
-      "gw_points": 15,
+      "total": 572,
+      "gw_points": 51,
       "gw_hits": 0,
       "chips_used": [
         "wildcard",
@@ -1990,12 +1990,12 @@
         },
         {
           "gw": 10,
-          "points": 15,
+          "points": 51,
           "hits": 0,
-          "net": 15,
-          "total": 536,
-          "bench": 6,
-          "overall_rank": 4610965
+          "net": 51,
+          "total": 572,
+          "bench": 7,
+          "overall_rank": 4286787
         }
       ]
     },
@@ -2008,10 +2008,10 @@
       "rank_movement": -2,
       "official_total": 571,
       "gw_chip": null,
-      "gross_points": 546,
+      "gross_points": 571,
       "hits": 0,
-      "total": 546,
-      "gw_points": 24,
+      "total": 571,
+      "gw_points": 49,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -2101,12 +2101,12 @@
         },
         {
           "gw": 10,
-          "points": 24,
+          "points": 49,
           "hits": 0,
-          "net": 24,
-          "total": 546,
-          "bench": 11,
-          "overall_rank": 4043345
+          "net": 49,
+          "total": 571,
+          "bench": 13,
+          "overall_rank": 4340604
         }
       ]
     },
@@ -2119,10 +2119,10 @@
       "rank_movement": -6,
       "official_total": 568,
       "gw_chip": null,
-      "gross_points": 554,
+      "gross_points": 568,
       "hits": 0,
-      "total": 554,
-      "gw_points": 20,
+      "total": 568,
+      "gw_points": 34,
       "gw_hits": 0,
       "chips_used": [
         "bboost",
@@ -2212,12 +2212,12 @@
         },
         {
           "gw": 10,
-          "points": 20,
+          "points": 34,
           "hits": 0,
-          "net": 20,
-          "total": 554,
-          "bench": 10,
-          "overall_rank": 3581601
+          "net": 34,
+          "total": 568,
+          "bench": 14,
+          "overall_rank": 4491280
         }
       ]
     },
@@ -2230,10 +2230,10 @@
       "rank_movement": 0,
       "official_total": 558,
       "gw_chip": null,
-      "gross_points": 553,
+      "gross_points": 558,
       "hits": 0,
-      "total": 553,
-      "gw_points": 42,
+      "total": 558,
+      "gw_points": 47,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -2320,12 +2320,12 @@
         },
         {
           "gw": 10,
-          "points": 42,
+          "points": 47,
           "hits": 0,
-          "net": 42,
-          "total": 553,
-          "bench": 2,
-          "overall_rank": 3630503
+          "net": 47,
+          "total": 558,
+          "bench": 9,
+          "overall_rank": 5020788
         }
       ]
     },
@@ -2338,10 +2338,10 @@
       "rank_movement": 4,
       "official_total": 557,
       "gw_chip": "bboost",
-      "gross_points": 507,
+      "gross_points": 557,
       "hits": 0,
-      "total": 507,
-      "gw_points": 32,
+      "total": 557,
+      "gw_points": 82,
       "gw_hits": 0,
       "chips_used": [
         "3xc",
@@ -2431,12 +2431,12 @@
         },
         {
           "gw": 10,
-          "points": 32,
+          "points": 82,
           "hits": 0,
-          "net": 32,
-          "total": 507,
+          "net": 82,
+          "total": 557,
           "bench": 0,
-          "overall_rank": 6194246
+          "overall_rank": 5091966
         }
       ]
     },
@@ -2449,10 +2449,10 @@
       "rank_movement": -1,
       "official_total": 550,
       "gw_chip": null,
-      "gross_points": 538,
+      "gross_points": 562,
       "hits": 12,
-      "total": 526,
-      "gw_points": 34,
+      "total": 550,
+      "gw_points": 58,
       "gw_hits": 4,
       "chips_used": [],
       "history": [
@@ -2539,12 +2539,12 @@
         },
         {
           "gw": 10,
-          "points": 34,
+          "points": 58,
           "hits": 4,
-          "net": 30,
-          "total": 526,
+          "net": 54,
+          "total": 550,
           "bench": 8,
-          "overall_rank": 5194800
+          "overall_rank": 5480564
         }
       ]
     },
@@ -2557,10 +2557,10 @@
       "rank_movement": -1,
       "official_total": 540,
       "gw_chip": null,
-      "gross_points": 527,
+      "gross_points": 540,
       "hits": 0,
-      "total": 527,
-      "gw_points": 37,
+      "total": 540,
+      "gw_points": 50,
       "gw_hits": 0,
       "chips_used": [],
       "history": [
@@ -2647,12 +2647,12 @@
         },
         {
           "gw": 10,
-          "points": 37,
+          "points": 50,
           "hits": 0,
-          "net": 37,
-          "total": 527,
-          "bench": 2,
-          "overall_rank": 5105509
+          "net": 50,
+          "total": 540,
+          "bench": 3,
+          "overall_rank": 5962852
         }
       ]
     },
@@ -2665,10 +2665,10 @@
       "rank_movement": 0,
       "official_total": 540,
       "gw_chip": null,
-      "gross_points": 511,
+      "gross_points": 540,
       "hits": 0,
-      "total": 511,
-      "gw_points": 30,
+      "total": 540,
+      "gw_points": 59,
       "gw_hits": 0,
       "chips_used": [
         "wildcard"
@@ -2757,12 +2757,12 @@
         },
         {
           "gw": 10,
-          "points": 30,
+          "points": 59,
           "hits": 0,
-          "net": 30,
-          "total": 511,
-          "bench": 5,
-          "overall_rank": 5986135
+          "net": 59,
+          "total": 540,
+          "bench": 7,
+          "overall_rank": 5973985
         }
       ]
     },
@@ -2775,10 +2775,10 @@
       "rank_movement": -2,
       "official_total": 527,
       "gw_chip": null,
-      "gross_points": 517,
+      "gross_points": 528,
       "hits": 0,
-      "total": 517,
-      "gw_points": 30,
+      "total": 528,
+      "gw_points": 41,
       "gw_hits": 0,
       "chips_used": [
         "3xc",
@@ -2868,12 +2868,12 @@
         },
         {
           "gw": 10,
-          "points": 30,
+          "points": 41,
           "hits": 0,
-          "net": 30,
-          "total": 517,
+          "net": 41,
+          "total": 528,
           "bench": 3,
-          "overall_rank": 5658435
+          "overall_rank": 6549707
         }
       ]
     }
