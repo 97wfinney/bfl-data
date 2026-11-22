@@ -149,6 +149,21 @@
       "event_transfers": 1,
       "event_transfers_cost": 0,
       "points_on_bench": 6
+    },
+    {
+      "event": 11,
+      "points": 36,
+      "total_points": 667,
+      "rank": 673313,
+      "rank_sort": 734405,
+      "overall_rank": 1156659,
+      "percentile_rank": 10,
+      "overall_rank_percentage": "10",
+      "bank": 41,
+      "value": 1010,
+      "event_transfers": 0,
+      "event_transfers_cost": 0,
+      "points_on_bench": 5
     }
   ],
   "past": [
@@ -176,6 +191,11 @@
       "name": "freehit",
       "time": "2026-10-10T09:54:06.696632Z",
       "event": 6
+    },
+    {
+      "name": "3xc",
+      "time": "2026-11-20T16:10:21.892947Z",
+      "event": 11
     }
   ]
 }
